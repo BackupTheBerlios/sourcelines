@@ -209,6 +209,7 @@ switch($phrase) {
 
 // keywords
 	case "Solutions by Keyword": $tmp = "Lösungen nach Schlüsselwort"; break;
+	case "Keyword": $tmp = "Schlüsselwort"; break;
 
 // FAQ
      case "Frequently Asked Questions": $tmp = "Oft gestellte Fragen"; break;
@@ -234,7 +235,8 @@ switch($phrase) {
      case "Enjoy the site": $tmp = "Wir hoffen, dass Ihnen $GLOBALS[sys_name] gefällt"; break;
      case " -- the $GLOBALS[sys_name] crew": $tmp = " -- die $GLOBALS[sys_name] Crew"; break;
      case "Verification of Registration": $tmp = "Verifikation der Registrierung"; break;
-     case "Your account is now activated. Please login": $tmp = "Ihre Benutzerkennung ist jetzt freigeschaltet. Bitte loggen Sie sich ein"; break;
+     case "Your account is now activated. Please login": $tmp = "Ihre Benutzerkennung ist jetzt freigeschaltet. Bitte loggen Sie sich ein."; break;
+     case "Your account is already active. Please login": $tmp = "Ihr Benutzerkennung ist bereits freigeschaltet. Bitte loggen Sie sich ein."; break;
 
 // Forget password / Remind me
      case "Register as a new User": $tmp = "Registrierung als neuer Benutzer"; break;

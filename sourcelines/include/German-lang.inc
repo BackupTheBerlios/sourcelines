@@ -209,6 +209,7 @@ switch($phrase) {
 
 // keywords
 	case "Solutions by Keyword": $tmp = "Lösungen nach Schlüsselwort"; break;
+	case "Keyword": $tmp = "Schlüsselwort"; break;
 
 // FAQ
      case "Frequently Asked Questions": $tmp = "Oft gestellte Fragen"; break;
