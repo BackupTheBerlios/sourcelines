@@ -34,6 +34,9 @@ switch($phrase) {
 // Top title
      case "Open Source Solutions":  $tmp = "Open Source Lösungen"; break;
 
+// Footer
+     case "System Credits":  $tmp = "Systembeschreibung"; break;
+
 // Menue bar
      case "Recent Solutions": $tmp = "Neueste Lösungen"; break;
      case "Q&amp;A": $tmp = "F&amp;A"; break;
