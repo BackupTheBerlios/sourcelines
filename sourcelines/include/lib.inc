@@ -1120,7 +1120,7 @@ function solfull($db) {
 	$db_lang->query($query);
 	$string = "";
 	while($db_lang->next_record()) {
-		$string .= "<br>".$db_lang->f("language_name");
+		$string .= "<br>".$t->translate($db_lang->f("language_name"));
 	}
 	$stringlength = strlen($string);
 	if ($stringlength <= 0) {
