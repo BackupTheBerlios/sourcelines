@@ -9,7 +9,7 @@
 <td><a href="./" class="menus">About&nbsp;SourceLines</a>
 <br><a href="../" class="menus">SourceLines&nbsp;Home</a>
 <br>
-<br><a href="../doc/documentation.html" class="menus">Documentation</a>
+<br><a href="../doc/INSTALL" class="menus">Documentation</a>
 <br><a href="../doc/CHANGELOG" class="menus">Changelog</a>
 <br><a href="http://developer.berlios.de/project/filelist.php?group_id=91" class="menus">Download</a>
 <br><a href="../doc/LICENSE" class="menus">License</a>
