@@ -5,7 +5,7 @@
 # ===================================================================
 #
 # Copyright (c) 2001 by
-#                Lutz Henckel (lutz.henckel@fokus.gmd.de) and
+#                Lutz Henckel (lutz.henckel@fokus.fraunhofer.de) and
 #                Norbert Geiges
 #
 # BerliOS SourceLines: http://sourcelines.berlios.de
@@ -29,6 +29,10 @@
 # sys_logo_alt		Alternative text for your site's image
 # sys_logo_width	Width of the image of your site
 # sys_logo_heigth	Heigth of the image of your site
+# sys_logo_small_image	Small image of your sitebar
+# sys_logo_small_alt	Alternative text for your sitebar's image
+# sys_logo_small_width	Width of the image of your sitebar
+# sys_logo_small_heigth	Heigth of the image of your sitebar
 # sys_debug			Debugging output
 ######################################################################
 
@@ -40,6 +44,11 @@ $sys_logo_image = "images/berliOS_logo.png";
 $sys_logo_alt = "BerliOS";
 $sys_logo_width = "238";
 $sys_logo_heigth = "61";
+#$sys_logo_small_image = "images/berliOS_small_logo.png";
+$sys_logo_small_image = "http://developer.berlios.de/bslogo.php?group_id=91&type=1";
+$sys_logo_small_alt = $sys_logo_alt;
+$sys_logo_small_width = "124";
+$sys_logo_small_heigth = "32";
 $sys_dir = "/home/groups/sourcelines/htdocs/";
 $sys_logo_dir = $sys_dir."logos/";
 $sys_logo_url = $sys_url."logos/";
@@ -59,7 +68,7 @@ $sys_debug = 0;
 ######################################################################
 
 $org_name = "FOKUS";
-$org_url = "http://www.fokus.fhg.de/";
+$org_url = "http://www.fokus.fraunhofer.de/";
 $org_logo_image = "images/logo_fokus.png";
 $org_logo_alt = $org_name;
 $org_logo_width = "60";

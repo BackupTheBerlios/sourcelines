@@ -5,7 +5,7 @@
 # ===================================================================
 #
 # Copyright (c) 2001 by
-#                Lutz Henckel (lutz.henckel@fokus.gmd.de) and
+#                Lutz Henckel (lutz.henckel@fokus.fraunhofer.de) and
 #                Norbert Geiges
 #
 # BerliOS SourceLines: http://sourcewell.berlios.de
@@ -28,7 +28,7 @@ require("header.inc");
 <P><H2>About the authors:</H2>
 
 <UL>
-<LI>Lutz Henckel &lt;<A HREF="mailto:lutz.henckel@fokus.fhg.de">lutz.henckel@fokus.fhg.de</A>&gt;
+<LI>Lutz Henckel &lt;<A HREF="mailto:lutz.henckel@fokus.fraunhofer.de">lutz.henckel@fokus.fraunhofer.de</A>&gt;
 <BR>Lutz Henckel is the project manager of the BerliOS team.
 
 <BR>&nbsp;
