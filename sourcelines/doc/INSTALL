@@ -10,6 +10,7 @@ In order to setup SourceLines the following prerequisits are necessary:
 - an Apache Web Server (http://www.apache.org)
 - PHP (mod_php) Apache Module (http://www.php.net)
 - MySQL Database Server (http://www.mysql.com)
+- PHPLib (http://phplib.sourceforge.net/)
 - an email system
 - a Mailing List System, e.g. Mailman (http://www.gnu.org/software/mailman/mailman.html)
 
@@ -28,6 +29,13 @@ Unzip and Untar the package into the directory you want to use on you web
 server, if you are not sure where it is, ask you system administrator.
 
     tar -zxvf sourelines-x.x.x.tar.gz
+
+Set the following parameters in PHP initialization file (php.ini):
+
+   ; automatically add files before or after any PHP document
+   auto_prepend_file       = /Path/to/PHPLib/installation/prepend.php3
+
+   include_path    = .:./include:/Path/to/PHPLib/installation
 
 Change to the sql/ directory. There exist a file called "sourcelines.sql"
 which contains the commands to build the database structure, 
@@ -49,11 +57,11 @@ sourcelines.sql file:
     (enter sourcelines_password)
     mysql sourcelines < sourcelines.sql
     
-3) That's it!... now you need to edit the file "config.php3" to set up the
+3) That's it!... now you need to edit the file "config.php" to set up the
 options. Please read carefully the instructions in that file!
 After that, point your browser to:
 
-    http://yourdomain.com/admuser.php3
+    http://yourdomain.com/admuser.php
 
 Login with the following data at the prompt:
 
@@ -75,7 +83,7 @@ Go to your homepage, for example:
 MySQL databases. To download it just go to http://phpwizard.net/phpMyAdmin
 
     We also recommend to set a password for your MySQL access.
-This is important as some data in the nuke database is not encrypted,
+This is important as some data in the database is not encrypted,
 so for security reasons you need to set a password, not only that, it's
 good practice!
 
@@ -83,9 +91,7 @@ good practice!
 Final Notes
 -----------
 
-    That's it! You're done with SourceLines.
-
-    To change your site's logo, edit the config.php3 file.
+    To change your site's logo, edit the config.php file.
 
     A note for the SourceLines site's administrators: Only admins are allowed
 to execute following functions:
@@ -96,10 +102,10 @@ to execute following functions:
     - Insert, Rename and Delete Branches
     - Insert, Rename and Delete Catagories
     - Insert, Rename and Delete Types of Components
-	- Insert, Rename, Change URL and Delete Licenses
+    - Insert, Rename, Change URL and Delete Licenses
     - Insert, Rename and Delete Languages
     - Insert, Rename and Delete Q&A
-	- Change and Delete Comments
+    - Change and Delete Comments
 
 
 	Lutz Henckel
@@ -109,9 +115,9 @@ to execute following functions:
 	D-10589 Berlin
 	Germany
 
-************************************************
+**************************************************
 * SourceLines URL: http://sourcelines.berlios.de *
-************************************************
+**************************************************
 
 Enjoy!
 
