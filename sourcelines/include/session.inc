@@ -5,7 +5,7 @@
  * Copyright (c) 1998,1999 SH Online Dienst GmbH
  *                    Boris Erdmann, Kristian Koehntopp
  *
- * $Id: session.inc,v 1.1 2001/12/19 11:14:35 helix Exp $
+ * $Id: session.inc,v 1.2 2004/03/02 12:41:13 helix Exp $
  *
  */ 
 
@@ -351,9 +351,9 @@ class Session {
   ##
   ## Destroy all session data older than this
   ##
-  function gc() {
-      $this->that->ac_gc($this->gc_time, $this->name);
-  }
+#@  function gc() {
+#@      $this->that->ac_gc($this->gc_time, $this->name);
+#@  }
 
   ##
   ## Variable precedence functions

@@ -18,6 +18,8 @@
 # the Free Software Foundation; either version 2 or later of the GPL.
 ######################################################################  
 
+require("./include/prepend.php3");
+
 page_open(array("sess" => "SourceLines_Session"));
 if (isset($auth) && !empty($auth->auth["perm"])) {
   page_close();
@@ -26,7 +28,7 @@ if (isset($auth) && !empty($auth->auth["perm"])) {
                   "perm" => "SourceLines_Perm"));
 }
 
-require("header.inc");
+require("./include/header.inc");
 
 /*---------- Box-Definitionen -----------------------------------------------*/
 $bx = new box("100%",$th_box_frame_color,$th_box_frame_width,$th_box_title_bgcolor,$th_box_title_font_color,$th_box_title_align,$th_box_body_bgcolor,$th_box_body_font_color,$th_box_body_align);
@@ -48,8 +50,8 @@ if (isset($delid)) $leaves = str_replace (":$delid:", "", $leaves);
 	$bx->box_title($t->translate("Solutions by Branch"));
 	$bx->box_body_begin();
 
-	echo "<p><a href=\"http://www.destatis.de/allg/d/klassif/wz93.htm\" target=\"_blank\">Klassifikation der Wirtschaftszweige, Ausgabe 1993 (WZ 93)</a><br>\n";
-	echo "Copyright (C) <a href=\"http://www.destatis.de/\" target=\"_blank\">Statistisches Bundesamt</a>, Wiesbaden 1999<br>\n";
+	echo "<p><a href=\"http://www.destatis.de/allg/d/klassif/wz2003.htm\" target=\"_blank\">Klassifikation der Wirtschaftszweige, Ausgabe 2003 (WZ 2003)</a><br>\n";
+	echo "Copyright (C) <a href=\"http://www.destatis.de/\" target=\"_blank\">Statistisches Bundesamt</a>, Wiesbaden 2003<br>\n";
 
 	/*----------------------------------------------------------- whole Tree */
 

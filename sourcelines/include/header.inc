@@ -38,7 +38,8 @@ $db = new DB_SourceLines;
    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
    <meta http-equiv="expires" content="0">
    <title><?php echo $sys_name;?> - <?php echo $t->translate($sys_title);?></title>
-<link rel="stylesheet" type="text/css" href="style.php">
+<link rel="STYLESHEET" type="text/css" href="style.php">
+<link rel="SHORTCUT ICON" href="favicon.ico">
 
 <SCRIPT LANGUAGE="JavaScript"> function addNetscapePanel() { 
       if ((typeof window.sidebar == "object") && (typeof window.sidebar.addPanel == "function")) 
@@ -74,4 +75,10 @@ require("menubar.inc");
 <td WIDTH="10"><img SRC="images/blank.gif" BORDER=0 height=1 width=10></td>
 
 <td WIDTH="99%">
-<p>&nbsp;
+<br>
+<?php
+if ( file_exists("./include/adsense.php") ) {
+        include("./include/adsense.php");
+}
+?>
+<br>

@@ -274,7 +274,7 @@ function solshow($db) {
 
 function solupd($db) {
 	global $bx, $tbw, $tbf, $tbg, $t, $sess;
-	global $sys_docu_url;
+	global $config_maxwidth,$sys_logo_dir,$sys_logo_url,$sys_docu_url;
 
 	$solu_id             = $db->f("solutions_id");
 	$solu_name           = $db->f("solutions_name");
@@ -347,7 +347,18 @@ function solupd($db) {
 	if (!empty($solu_logo)) {
   		$tbw->table_row_next();
 		$tbw->table_body_column("<b>".$t->translate("Current logo").":</b>");
-		$tbw->table_body_column("$solu_logo",2);
+
+		$logodir = $sys_logo_dir.$solu_id."solution_".rawurlencode(basename($solu_logo));
+		$logourl = $sys_logo_url.$solu_id."solution_".rawurlencode(basename($solu_logo));
+		$size = GetImageSize($logodir);
+		$width = $size[0];
+		$height = $size[1];
+		if ($width > $config_maxwidth) {
+			$height = round($height / $width * $config_maxwidth); 
+			$width = $config_maxwidth;
+		}
+
+		$tbw->table_body_column("<img src=\"".$logourl."\" width=\"".$width."\" height=\"".$height."\" border=\"0\">",2);
   		$tbw->table_row_next();
 		$tbw->table_body_column("");
 		$tbw->table_body_column_begin(2);
@@ -431,7 +442,18 @@ function solupd($db) {
 	if (!empty($solu_contact_logo)) {
   		$tbw->table_row_next();
 		$tbw->table_body_column("<b>".$t->translate("Current contact logo").":</b>");
-		$tbw->table_body_column("$solu_contact_logo",2);
+
+		$logodir = $sys_logo_dir.$solu_id."contact_".rawurlencode(basename($solu_contact_logo));
+		$logourl = $sys_logo_url.$solu_id."contact_".rawurlencode(basename($solu_contact_logo));
+		$size = GetImageSize($logodir);
+		$width = $size[0];
+		$height = $size[1];
+		if ($width > $config_maxwidth) {
+			$height = round($height / $width * $config_maxwidth); 
+			$width = $config_maxwidth;
+		}
+
+		$tbw->table_body_column("<img src=\"".$logourl."\" width=\"".$width."\" height=\"".$height."\" border=\"0\">",2);
   		$tbw->table_row_next();
 		$tbw->table_body_column("");
 		$tbw->table_body_column_begin(2);
@@ -483,7 +505,18 @@ function solupd($db) {
 	if (!empty($solu_supplier_logo)) {
   		$tbw->table_row_next();
 		$tbw->table_body_column("<b>".$t->translate("Current supplier logo").":</b>");
-		$tbw->table_body_column("$solu_supplier_logo",2);
+
+		$logodir = $sys_logo_dir.$solu_id."supplier_".rawurlencode(basename($solu_supplier_logo));
+		$logourl = $sys_logo_url.$solu_id."supplier_".rawurlencode(basename($solu_supplier_logo));
+		$size = GetImageSize($logodir);
+		$width = $size[0];
+		$height = $size[1];
+		if ($width > $config_maxwidth) {
+			$height = round($height / $width * $config_maxwidth); 
+			$width = $config_maxwidth;
+		}
+
+		$tbw->table_body_column("<img src=\"".$logourl."\" width=\"".$width."\" height=\"".$height."\" border=\"0\">",2);
   		$tbw->table_row_next();
 		$tbw->table_body_column("");
 		$tbw->table_body_column_begin(2);
@@ -534,8 +567,8 @@ function solupd($db) {
 	$bx->box_begin();
 	$bx->box_title_begin();
 
-	echo "<b>".$t->translate("Branch")."</b>";
-        echo " <b>[<a href='".$sess->url("selbranch.php").$sess->add_query(array("solu_id" => $solu_id, "bran_id" => $bran_id))."'>".$t->translate("Select")."</a>]</b>";
+	echo "<span class=\"small\"><b>".$t->translate("Branch")."</b>";
+        echo " <b>[<a href='".$sess->url("selbranch.php").$sess->add_query(array("solu_id" => $solu_id, "bran_id" => $bran_id))."'>".$t->translate("Select")."</a>]</b></span>";
 #        echo "<form action='".$sess->url("selbranch.php")."' method='POST'>";
 #        echo "<input type='submit' value='".$t->translate("Select")."'>";
 #        echo "<input type='hidden' name='solu_id' value=$solu_id>";
@@ -550,12 +583,12 @@ function solupd($db) {
 	$db_branch->query($query);
 	$string = "";
 	if($db_branch->next_record()) {
-		$string = "<a href=\"".$sess->url("bybranch.php").$sess->add_query(array("bran_id" => $db_branch->f("branch_id")))."\">".$t->translate($db_branch->f("branch_name"))."</a>";
+		$string = "<a href=\"".$sess->url("bybranch.php").$sess->add_query(array("bran_id" => $db_branch->f("branch_id")))."\">".$t->translate($db_branch->f("branch_name"))."</a></span>";
 	}
 	if (strlen($string) <= 0) {
 		$string = $t->translate("no branch selected");
 	}
-	echo "$string\n";
+	echo "<span class=\"small\">$string</span>\n";
 	$bx->box_body_end();
 	$bx->box_end();
 
@@ -567,8 +600,8 @@ function solupd($db) {
 	$bx->box_begin();
 	$bx->box_title_begin();
 
-	echo "<b>".$t->translate("Category")."</b>";
-        echo " <b>[<a href='".$sess->url("selcategory.php").$sess->add_query(array("solu_id" => $solu_id, "cate_id" => $cate_id))."'>".$t->translate("Select")."</a>]</b>";
+	echo "<span class=\"small\"><b>".$t->translate("Category")."</b>";
+        echo " <b>[<a href='".$sess->url("selcategory.php").$sess->add_query(array("solu_id" => $solu_id, "cate_id" => $cate_id))."'>".$t->translate("Select")."</a>]</b></span>";
 #	echo "<form action='".$sess->url("selcategory.php")."' method='POST'>";
 #        echo "<input type='submit' value='".$t->translate("Select")."'>";
 #        echo "<input type='hidden' name='solu_id' value=$solu_id>";
@@ -604,7 +637,7 @@ function solupd($db) {
         } else {
         	$string = substr($string, 0, $stringlength - 4);
 	}
-	echo "$string";
+	echo "<span class=\"small\">$string</span>";
 	$bx->box_body_end();
 	$bx->box_end();
 
@@ -616,8 +649,8 @@ function solupd($db) {
 	$bx->box_begin();
 	$bx->box_title_begin();
 	
-	echo "<b>".$t->translate("Keywords")."</b>";
-        echo " <b>[<a href='".$sess->url("selkeyword.php").$sess->add_query(array("solu_id" => $solu_id))."'>".$t->translate("Select")."</a>]</b>";
+	echo "<span class=\"small\"><b>".$t->translate("Keywords")."</b>";
+        echo " <b>[<a href='".$sess->url("selkeyword.php").$sess->add_query(array("solu_id" => $solu_id))."'>".$t->translate("Select")."</a>]</b></span>";
 #        echo "<form action='".$sess->url("selkeyword.php")."' method='POST'>";
 #        echo "<input type='submit' value='".$t->translate("Select")."'>";
 #        echo "<input type='hidden' name='solu_id' value='$solu_id'>";
@@ -639,7 +672,7 @@ function solupd($db) {
         } else {
         	$string = substr($string, 4, $stringlength);
 	}
-	echo "$string";
+	echo "<span class=\"small\">$string</span>";
 	$bx->box_body_end();
 	$bx->box_end();
 
@@ -651,8 +684,8 @@ function solupd($db) {
 	$bx->box_begin();
 	$bx->box_title_begin();
 		
-	echo "<b>".$t->translate("Language")."</b>";
-        echo " <b>[<a href='".$sess->url("sellanguage.php").$sess->add_query(array("solu_id" => $solu_id))."'>".$t->translate("Select")."</a>]</b>";
+	echo "<span class=\"small\"><b>".$t->translate("Language")."</b>";
+        echo " <b>[<a href='".$sess->url("sellanguage.php").$sess->add_query(array("solu_id" => $solu_id))."'>".$t->translate("Select")."</a>]</b></span>";
 #        echo "<form action='".$sess->url("sellanguage.php")."' method='POST'>";
 #        echo "<input type='submit' value='".$t->translate("Select")."'>";
 #        echo "<input type='hidden' name='solu_id' value='$solu_id'>";
@@ -677,7 +710,7 @@ function solupd($db) {
         } else {
         	$string = substr($string, 4, $stringlength);
 	}
-	echo "$string";
+	echo "<span class=\"small\">$string</span>";
 	$bx->box_body_end();
 	$bx->box_end();
 
@@ -689,8 +722,8 @@ function solupd($db) {
 	$bx->box_begin();
 	$bx->box_title_begin();
 
-	echo "<b>".$t->translate("Components")."</b>";
-        echo " <b>[<a href='".$sess->url("selcomponent.php").$sess->add_query(array("solu_id" => $solu_id))."'>".$t->translate("Select")."</a>]</b>";
+	echo "<span class=\"small\"><b>".$t->translate("Components")."</b>";
+        echo " <b>[<a href='".$sess->url("selcomponent.php").$sess->add_query(array("solu_id" => $solu_id))."'>".$t->translate("Select")."</a>]</b></span>";
 #        echo "<form action='".$sess->url("selcomponent.php")."' method='POST'>";
 #        echo "<input type='submit' value='".$t->translate("Select")."'>";
 #        echo "<input type='hidden' name='solu_id' value='$solu_id'>";
@@ -721,17 +754,23 @@ function solupd($db) {
 		/*-----*/
 		$string = "";
 		while ($db_comp->next_record()) {
-			$string .= "<a href=\"".$db_comp->f("component_url")."\" target=\"_blank\">".$db_comp->f("component_name")." ".$db_comp->f("component_version")."</a>, ";
+			$component_url = $db_comp->f("component_url");
+			if ($component_url != "http://" && !empty($component_url)) {
+				$string .= "<a href=\"$component_url\" target=\"_blank\">".$db_comp->f("component_name")." ".$db_comp->f("component_version")."</a>, ";
+			} else {
+				$string .= $db_comp->f("component_name")." ".$db_comp->f("component_version").", ";
+			}
 		}
 		/*-----*/
 		$stringlength = strlen($string);
 		$string = substr($string, 0, $stringlength - 2);
 		/*-----*/
-		echo "<b>".$t->translate($typename[$x]).":</b><br>";
-		if(trim($string)!="")
-			echo $string."<br>";
+		echo "<span class=\"small\"><b>".$t->translate($typename[$x]).":</b><br>";
+		if(trim($string) != "")
+			echo $string;
 		else
-			echo $t->translate("not applicable")."<br>";
+			echo $t->translate("not applicable");
+		echo "</span><br>";
 	}
 	$bx->box_body_end();
 	$bx->box_end();
@@ -744,8 +783,8 @@ function solupd($db) {
 	$bx->box_begin();
 	$bx->box_title_begin();
 	
-	echo "<b>".$t->translate("Documents")."</b>";
-        echo " <b>[<a href='".$sess->url("seldocument.php").$sess->add_query(array("solu_id" => $solu_id))."'>".$t->translate("Select")."</a>]</b>";
+	echo "<span class=\"small\"><b>".$t->translate("Documents")."</b>";
+        echo " <b>[<a href='".$sess->url("seldocument.php").$sess->add_query(array("solu_id" => $solu_id))."'>".$t->translate("Select")."</a>]</b></span>";
 #        echo "<form action='".$sess->url("seldocument.php")."' method='POST'>";
 #        echo "<input type='submit' value='".$t->translate("Select")."'>";
 #        echo "<input type='hidden' name='solu_id' value='$solu_id'>";
@@ -768,7 +807,7 @@ function solupd($db) {
         } else {
         	$string = substr($string, 4, $stringlength);
 	}
-	echo "$string";
+	echo "<span class=\"small\">$string</span>";
 	$bx->box_body_end();
 	$bx->box_end();
 
@@ -1170,17 +1209,23 @@ function solfull($db) {
 		/*-----*/
 		$string = "";
 		while ($db_comp->next_record()) {
-			$string .= "<a href=\"".$db_comp->f("component_url")."\" target=\"_blank\">".$db_comp->f("component_name")." ".$db_comp->f("component_version")."</a>, ";
+			$component_url = $db_comp->f("component_url");
+			if ($component_url != "http://" && !empty($component_url)) {
+				$string .= "<a href=\"$component_url\" target=\"_blank\">".$db_comp->f("component_name")." ".$db_comp->f("component_version")."</a>, ";
+			} else {
+				$string .= $db_comp->f("component_name")." ".$db_comp->f("component_version").", ";
+			}
 		}
 		/*-----*/
 		$stringlength = strlen($string);
 		$string = substr($string, 0, $stringlength - 2);
 		/*-----*/
-		echo "<span class=\"small\"><b>".$t->translate($typename[$x]).":</b><br></small>";
-		if(trim($string)!="")
-			echo "<span class=\"small\">".$string."<br></small>";
+		echo "<span class=\"small\"><b>".$t->translate($typename[$x]).":</b><br>";
+		if(trim($string) != "")
+			echo $string;
 		else
-			echo "<span class=\"small\">".$t->translate("not applicable")."<br></small>";
+			echo $t->translate("not applicable");
+		echo "</small><br>";
 	}
 	$bx->box_body_end();
 	$bx->box_end();
@@ -1662,7 +1707,7 @@ function solrecent() {
 	global $db, $t, $sess, $bx;
 
 	$bx->box_begin();
-	$bx->box_title("<span class=\"small\">".$t->translate("Recent Solutions")."</span>");
+	$bx->box_title($t->translate("Recent Solutions"));
 	$bx->box_body_begin();
 	$query = "SELECT * FROM tblsolutions WHERE tblsolutions.solutions_name != 'no_name' ORDER BY solutions_modify_date DESC, solutions_id DESC";
 	$db->query($query);
@@ -1670,7 +1715,8 @@ function solrecent() {
 	while ($db->next_record() && $i <= 20) {
 		$timestamp = mktimestamp($db->f("solutions_modify_date"));
 		$datetime = timestr_short($timestamp);
-		echo "<span class=\"small\"><li><a href=\"".$sess->url("solutions.php").$sess->add_query(array("solu_id" => $db->f("solutions_id")))."\">".$db->f("solutions_name")."</a> [".$datetime."]</span>\n";
+		echo "<div class=newsind>&#149;&nbsp;";
+		echo "<a href=\"".$sess->url("solutions.php").$sess->add_query(array("solu_id" => $db->f("solutions_id")))."\">".$db->f("solutions_name")."</a> [".$datetime."]</div>\n";
 		$i++;
 	}
 	$bx->box_body_end();

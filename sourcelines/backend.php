@@ -18,14 +18,16 @@
 # the Free Software Foundation; either version 2 or later of the GPL.
 ###################################################################### 
 
-header("Content-Type: text/plain");
+require "./include/prepend.php3";
+
+header("Content-Type: text/xml");
 
 // Disabling cache
 header("Cache-Control: no-cache, must-revalidate");     // HTTP/1.1
 header("Pragma: no-cache");                             // HTTP/1.0
 
-require "config.inc";
-require "lib.inc";
+require "./include/config.inc";
+require "./include/lib.inc";
 
 echo "<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?>\n";
 echo "<!DOCTYPE rss PUBLIC \"-//Netscape Communications//DTD RSS 0.91//EN\"\n";
@@ -33,32 +35,27 @@ echo "           \"http://my.netscape.com/publish/formats/rss-0.91.dtd\">\n";
 echo "<rss version=\"0.91\">\n";
 
 echo "  <channel>\n";
-echo "    <title>".$sys_name."</title>\n";
+echo "    <title>".htmlspecialchars($sys_name)."</title>\n";
 echo "    <link>".$sys_url."</link>\n";
-echo "    <description>".$sys_name." - ".$sys_title."</description>\n";
+echo "    <description>".htmlspecialchars($sys_name." - ".$sys_title)."</description>\n";
 echo "    <language>en-us</language>\n";
 
 echo "  <image>\n";
-echo "    <title>".$sys_name."</title>\n";
+echo "    <title>".htmlspecialchars($sys_name)."</title>\n";
 echo "    <url>".$sys_url.$sys_logo_image."</url>\n";
 echo "    <link>".$sys_url."</link>\n";
-echo "    <description>".$sys_name." - ".$sys_title."</description>\n";
+echo "    <description>".htmlspecialchars($sys_name." - ".$sys_title)."</description>\n";
 echo "    <width>66</width>\n";
 echo "    <height>73</height>\n";
 echo "  </image>\n";
 
 $db = new DB_SourceLines;
-$db->query("SELECT * FROM tblsolutions,auth_user WHERE tblsolutions.username = auth_user.username ORDER BY tblsolutions.solutions_modify_date DESC limit 10");
+$db->query("SELECT * FROM tblsolutions,auth_user WHERE tblsolutions.username = auth_user.username AND tblsolutions.solutions_name != 'no_name' ORDER BY tblsolutions.solutions_modify_date DESC limit 10");
 $i=0;
 while($db->next_record()) {
   echo "  <item>\n";
-  echo "    <title>".$db->f("solutions_name")."</title>\n";
+  echo "    <title>".htmlspecialchars($db->f("solutions_name"))."</title>\n";
   echo "    <link>".$sys_url."solutions.php?solu_id=".$db->f("solutions_id")."</link>\n";
-  $summary = $db->f("solutions_summary");
-  if (strlen($summary) > 200) {
-    $summary = substr($summary, 0 , 200);
-  }
-  echo "    <description>".wrap($summary)."</description>\n";
   echo "  </item>\n";
   $i++;
 } 

@@ -1,0 +1,1945 @@
+A Land- und Forstwirtschaft
+AA Land- und Forstwirtschaft
+
+01 Landwirtschaft und Jagd
+01.1 Pflanzenbau
+01.11 Ackerbau
+01.11.1 Getreidebau
+01.11.2 Allgemeiner Ackerbau
+01.12 Gartenbau
+01.12.1 Gemüsebau
+01.12.2 Zierpflanzenbau
+01.12.3 Baumschulen
+01.12.4 Allgemeiner Gartenbau
+01.13 Dauerkulturbau
+01.13.1 Obstbau
+01.13.2 Weinbau
+01.13.3 Allgemeiner Dauerkulturbau
+01.2 Tierhaltung
+01.21 Haltung von Rindern
+01.21.1 Milchviehhaltung
+01.21.2 Gemischte Rindviehhaltung
+01.21.3 Gemischte Weideviehhaltung
+01.22 Haltung von Schafen, Ziegen, Pferden und Eseln
+01.22.1 Haltung von Schafen und Ziegen
+01.22.2 Haltung von Pferden und Eseln
+01.23 Haltung von Schweinen
+01.23.0 Haltung von Schweinen
+01.24 Haltung von Geflügel
+01.24.0 Haltung von Geflügel
+01.25 Sonstige Tierhaltung
+01.25.0 Sonstige Tierhaltung
+01.3 Gemischte Landwirtschaft
+01.30 Gemischte Landwirtschaft
+01.30.1 Gemischte Landwirtschaft, ohne ausgeprägten Schwerpunkt
+01.30.2 Gemischte Landwirtschaft, mit Schwerpunkt Pflanzenbau
+01.30.3 Gemischte Landwirtschaft, mit Schwerpunkt Tierhaltung
+01.4 Erbringung von landwirtschaftlichen und gärtnerischen Dienstleistungen
+01.41 Erbringung von landwirtschaftlichen Dienstleistungen für den Pflanzenbau sowie von gärtnerischen Dienstleistungen
+01.41.1 Erbringung von landwirtschaftlichen Dienstleistungen für den Pflanzenbau
+01.41.2 Garten- und Landschaftsbau
+01.41.3 Erbringung von gärtnerischen Dienstleistungen (ohne Garten- und Landschaftsbau)
+01.42 Erbringung von landwirtschaftlichen Dienstleistungen für die Tierhaltung
+01.42.0 Erbringung von landwirtschaftlichen Dienstleistungen für die Tierhaltung
+01.5 Jagd
+01.50 Jagd
+01.50.0 Jagd
+02 Forstwirtschaft
+02.0 Forstwirtschaft
+02.01 Forstwirtschaft (ohne Erbringung von forstwirtschaftlichen Dienstleistungen)
+02.01.0 Forstwirtschaft (ohne Erbringung von forstwirtschaftlichen Dienstleistungen)
+02.02 Erbringung von forstwirtschaftlichen Dienstleistungen
+02.02.0 Erbringung von forstwirtschaftlichen Dienstleistungen
+
+B Fischerei und Fischzucht
+BA Fischerei und Fischzucht
+
+05 Fischerei und Fischzucht
+05.0 Fischerei und Fischzucht
+05.01 Fischerei
+05.01.1 Hochsee- und Küstenfischerei
+05.01.2 Fluss- und Seenfischerei
+05.02 Teichwirtschaft und Fischzucht
+05.02.0 Teichwirtschaft und Fischzucht
+
+C Bergbau und Gewinnung von Steinen und Erden
+CA Kohlenbergbau, Torfgewinnung, Gewinnung von Erdöl und Erdgas, Bergbau auf Uran- und Thoriumerze
+
+10 Kohlenbergbau, Torfgewinnung
+10.1 Steinkohlenbergbau und -brikettherstellung
+10.10 Steinkohlenbergbau und -brikettherstellung
+10.10.1 Steinkohlenbergbau
+10.10.2 Herstellung von Steinkohlenbriketts
+10.2 Braunkohlenbergbau und -veredlung
+10.20 Braunkohlenbergbau und -veredlung
+10.20.0 Braunkohlenbergbau und -veredlung
+10.3 Torfgewinnung und -veredlung
+10.30 Torfgewinnung und -veredlung
+10.30.0 Torfgewinnung und -veredlung
+11 Gewinnung von Erdöl und Erdgas, Erbringung damit verbundener Dienstleistungen
+11.1 Gewinnung von Erdöl und Erdgas
+11.10 Gewinnung von Erdöl und Erdgas
+11.10.0 Gewinnung von Erdöl und Erdgas
+11.2 Erbringung von Dienstleistungen bei der Gewinnung von Erdöl und Erdgas
+11.20 Erbringung von Dienstleistungen bei der Gewinnung von Erdöl und Erdgas
+11.20.0 Erbringung von Dienstleistungen bei der Gewinnung von Erdöl und Erdgas
+12 Bergbau auf Uran- und Thoriumerze
+12.0 Bergbau auf Uran- und Thoriumerze
+12.00 Bergbau auf Uran- und Thoriumerze
+12.00.0 Bergbau auf Uran- und Thoriumerze
+
+CB Erzbergbau, Gewinnung von Steinen und Erden, sonstiger Bergbau
+
+13 Erzbergbau
+13.1 Eisenerzbergbau
+13.10 Eisenerzbergbau
+13.10.0 Eisenerzbergbau
+13.2 NE-Metallerzbergbau (ohne Bergbau auf Uran- und Thoriumerze)
+13.20 NE-Metallerzbergbau (ohne Bergbau auf Uran- und Thoriumerze)
+13.20.0 NE-Metallerzbergbau (ohne Bergbau auf Uran- und Thoriumerze)
+14 Gewinnung von Steinen und Erden, sonstiger Bergbau
+14.1 Gewinnung von Natursteinen
+14.11 Gewinnung von Naturwerksteinen und Natursteinen, anderweitig nicht genannt
+14.11.1 Gewinnung von Naturwerksteinen, anderweitig nicht genannt
+14.11.2 Gewinnung von Natursteinen, anderweitig nicht genannt
+14.12 Gewinnung von Kalk- und Gipsstein sowie Anhydrit, Dolomit und Kreide
+14.12.1 Gewinnung von Kalkstein, Dolomitstein und Kreide
+14.12.2 Gewinnung von Gips- und Anhydritstein
+14.13 Gewinnung von Schiefer
+14.13.0 Gewinnung von Schiefer
+14.2 Gewinnung von Kies, Sand, Ton und Kaolin
+14.21 Gewinnung von Kies und Sand
+14.21.0 Gewinnung von Kies und Sand
+14.22 Gewinnung von Ton und Kaolin
+14.22.1 Gewinnung von Ton
+14.22.2 Gewinnung von Kaolin
+14.3 Gewinnung von Mineralien für die Herstellung von chemischen Erzeugnissen
+14.30 Gewinnung von Mineralien für die Herstellung von chemischen Erzeugnissen
+14.30.1 Kaligewinnung
+14.30.2 Gewinnung von Mineralien, anderweitig nicht genannt
+14.4 Gewinnung von Salz
+14.40 Gewinnung von Salz
+14.40.0 Gewinnung von Salz
+14.5 Gewinnung von Steinen und Erden, anderweitig nicht genannt, sonstiger Bergbau
+14.50 Gewinnung von Steinen und Erden, anderweitig nicht genannt, sonstiger Bergbau
+14.50.0 Gewinnung von Steinen und Erden, anderweitig nicht genannt, sonstiger Bergbau
+
+D Verarbeitendes Gewerbe
+DA Ernährungsgewerbe und Tabakverarbeitung
+
+15 Ernährungsgewerbe
+15.1 Schlachten und Fleischverarbeitung
+15.11 Schlachten (ohne Schlachten von Geflügel)
+15.11.1 Schlachten (ohne Schlachten von Geflügel, Talgschmelzen und Schmalzsiedereien)
+15.11.2 Talgschmelzen und Schmalzsiedereien
+15.12 Schlachten von Geflügel
+15.12.0 Schlachten von Geflügel
+15.13 Fleischverarbeitung
+15.13.0 Fleischverarbeitung
+15.2 Fischverarbeitung
+15.20 Fischverarbeitung
+15.20.0 Fischverarbeitung
+15.3 Obst- und Gemüseverarbeitung
+15.31 Kartoffelverarbeitung
+15.31.0 Kartoffelverarbeitung
+15.32 Herstellung von Frucht- und Gemüsesäften
+15.32.0 Herstellung von Frucht- und Gemüsesäften
+15.33 Obst- und Gemüseverarbeitung, anderweitig nicht genannt
+15.33.1 Herstellung von Obst- und Gemüsekonserven
+15.33.2 Herstellung von Sauerkonserven
+15.33.4 Herstellung von Konfitüren sowie von Brotaufstrichen auf Fruchtbasis
+15.33.5 Herstellung von Fruchtzubereitungen für die Milch- und Eiscremeindustrie
+15.4 Herstellung von pflanzlichen und tierischen Ölen und Fetten
+15.41 Herstellung von rohen Ölen und Fetten
+15.41.0 Herstellung von rohen Ölen und Fetten
+15.42 Herstellung von raffinierten Ölen und Fetten
+15.42.0 Herstellung von raffinierten Ölen und Fetten
+15.43 Herstellung von Margarine u.ä. Nahrungsfetten
+15.43.0 Herstellung von Margarine u.ä. Nahrungsfetten
+15.5 Milchverarbeitung; Herstellung von Speiseeis
+15.51 Milchverarbeitung
+15.51.0 Milchverarbeitung
+15.52 Herstellung von Speiseeis
+15.52.0 Herstellung von Speiseeis
+15.6 Mahl- und Schälmühlen, Herstellung von Stärke und Stärkeerzeugnissen
+15.61 Mahl- und Schälmühlen
+15.61.1 Mahlmühlen
+15.61.2 Schälmühlen
+15.62 Herstellung von Stärke und Stärkeerzeugnissen
+15.62.0 Herstellung von Stärke und Stärkeerzeugnissen
+15.7 Herstellung von Futtermitteln
+15.71 Herstellung von Futtermitteln für Nutztiere
+15.71.0 Herstellung von Futtermitteln für Nutztiere
+15.72 Herstellung von Futtermitteln für sonstige Tiere
+15.72.0 Herstellung von Futtermitteln für sonstige Tiere
+15.8 Sonstiges Ernährungsgewerbe (ohne Getränkeherstellung)
+15.81 Herstellung von Backwaren (ohne Dauerbackwaren)
+15.81.1 Herstellung von Backwaren (ohne Konditor- und Dauerbackwaren)
+15.81.2 Herstellung von Konditorwaren
+15.82 Herstellung von Dauerbackwaren
+15.82.0 Herstellung von Dauerbackwaren
+15.83 Herstellung von Zucker
+15.83.0 Herstellung von Zucker
+15.84 Herstellung von Süßwaren (ohne Dauerbackwaren)
+15.84.0 Herstellung von Süßwaren (ohne Dauerbackwaren)
+15.85 Herstellung von Teigwaren
+15.85.0 Herstellung von Teigwaren
+15.86 Verarbeitung von Kaffee und Tee, Herstellung von Kaffee-Ersatz
+15.86.0 Verarbeitung von Kaffee und Tee, Herstellung von Kaffee-Ersatz
+15.87 Herstellung von Würzmitteln und Saucen
+15.87.0 Herstellung von Würzmitteln und Saucen
+15.88 Herstellung von homogenisierten und diätetischen Nahrungsmitteln
+15.88.0 Herstellung von homogenisierten und diätetischen Nahrungsmitteln
+15.89 Herstellung von sonstigen Nahrungsmitteln (ohne Getränke)
+15.89.1 Herstellung von Backmitteln
+15.89.2 Herstellung von Nahrungsmitteln, anderweitig nicht genannt (ohne Getränke)
+15.9 Herstellung von Getränken
+15.91 Herstellung von Spirituosen
+15.91.0 Herstellung von Spirituosen
+15.92 Herstellung von Alkohol
+15.92.0 Herstellung von Alkohol
+15.93 Herstellung von Traubenwein
+15.93.0 Herstellung von Traubenwein
+15.94 Herstellung von Apfelwein und sonstigen Fruchtweinen
+15.94.0 Herstellung von Apfelwein und sonstigen Fruchtweinen
+15.95 Herstellung von Wermutwein und sonstigen aromatisierten Weinen
+15.95.0 Herstellung von Wermutwein und sonstigen aromatisierten Weinen
+15.96 Herstellung von Bier
+15.96.0 Herstellung von Bier
+15.97 Herstellung von Malz
+15.97.0 Herstellung von Malz
+15.98 Gewinnung natürlicher Mineralwässer, Herstellung von Erfrischungsgetränken
+15.98.0 Gewinnung natürlicher Mineralwässer, Herstellung von Erfrischungsgetränken
+16 Tabakverarbeitung
+16.0 Tabakverarbeitung
+16.00 Tabakverarbeitung
+16.00.1 Tabakverarbeitung (ohne Herstellung von Zigaretten)
+16.00.2 Herstellung von Zigaretten
+
+DB Textil- und Bekleidungsgewerbe
+
+17 Textilgewerbe
+17.1 Spinnstoffaufbereitung und Spinnerei
+17.11 Baumwollaufbereitung und -spinnerei
+17.11.0 Baumwollaufbereitung und -spinnerei
+17.12 Wollaufbereitung und Streichgarnspinnerei
+17.12.0 Wollaufbereitung und Streichgarnspinnerei
+17.13 Wollaufbereitung und Kammgarnspinnerei
+17.13.0 Wollaufbereitung und Kammgarnspinnerei
+17.14 Flachsaufbereitung und -spinnerei
+17.14.0 Flachsaufbereitung und -spinnerei
+17.15 Zwirnen und Texturieren von Filamentgarnen, Seidenaufbereitung und - spinnerei
+17.15.0 Zwirnen und Texturieren von Filamentgarnen, Seidenaufbereitung und - spinnerei
+17.16 Herstellung von Nähgarn
+17.16.0 Herstellung von Nähgarn
+17.17 Sonstige Spinnstoffaufbereitung und Spinnerei
+17.17.0 Sonstige Spinnstoffaufbereitung und Spinnerei
+17.2 Weberei
+17.21 Baumwollweberei
+17.21.1 Baumwollweberei (ohne Möbel-, Dekorations- und Gardinenstoffweberei)
+17.21.2 Möbel- und Dekorationsstoffweberei
+17.21.3 Gardinenstoffweberei
+17.22 Streichgarnweberei
+17.22.0 Streichgarnweberei
+17.23 Kammgarnweberei
+17.23.0 Kammgarnweberei
+17.24 Seiden- und Filamentgarnweberei
+17.24.0 Seiden- und Filamentgarnweberei
+17.25 Sonstige Weberei
+17.25.0 Sonstige Weberei
+17.3 Textilveredlung
+17.30 Textilveredlung
+17.30.0 Textilveredlung
+17.4 Herstellung von konfektionierten Textilwaren (ohne Bekleidung)
+17.40 Herstellung von konfektionierten Textilwaren (ohne Bekleidung)
+17.40.1 Herstellung von Haus-, Bett- und Tischwäsche
+17.40.2 Herstellung von Bettwaren (ohne Matratzen)
+17.40.3 Herstellung von konfektionierten textilen Artikeln für die Innenausstattung
+17.40.4 Herstellung von sonstigen konfektionierten textilen Artikeln, anderweitig nicht genannt
+17.5 Sonstiges Textilgewerbe (ohne Herstellung von Maschenware)
+17.51 Herstellung von Teppichen
+17.51.0 Herstellung von Teppichen
+17.52 Herstellung von Seilerwaren
+17.52.0 Herstellung von Seilerwaren
+17.53 Herstellung von Vliesstoff und Erzeugnissen daraus (ohne Bekleidung)
+17.53.0 Herstellung von Vliesstoff und Erzeugnissen daraus (ohne Bekleidung)
+17.54 Textilgewerbe, anderweitig nicht genannt
+17.54.1 Bandweberei und -flechterei
+17.54.2 Sonstiges Textilgewerbe, anderweitig nicht genannt
+17.6 Herstellung von gewirktem und gestricktem Stoff
+17.60 Herstellung von gewirktem und gestricktem Stoff
+17.60.1 Herstellung von gewirktem und gestricktem Stoff (ohne Gardinenstoff)
+17.60.2 Herstellung von gewirktem Gardinenstoff
+17.7 Herstellung von gewirkten und gestrickten Fertigerzeugnissen
+17.71 Herstellung von Strumpfwaren
+17.71.0 Herstellung von Strumpfwaren
+17.72 Herstellung von Pullovern, Strickjacken u.ä. Waren
+17.72.0 Herstellung von Pullovern, Strickjacken u.ä. Waren
+18 Bekleidungsgewerbe
+18.1 Herstellung von Lederbekleidung
+18.10 Herstellung von Lederbekleidung
+18.10.0 Herstellung von Lederbekleidung
+18.2 Herstellung von Bekleidung (ohne Lederbekleidung)
+18.21 Herstellung von Arbeits- und Berufsbekleidung
+18.21.0 Herstellung von Arbeits- und Berufsbekleidung
+18.22 Herstellung von Oberbekleidung (ohne Arbeits- und Berufsbekleidung)
+18.22.1 Herstellung von gewebter Oberbekleidung für Herren und Knaben
+18.22.2 Herstellung von gewebter Oberbekleidung für Damen und Mädchen
+18.22.3 Herstellung von gewirkter und gestrickter Oberbekleidung
+18.23 Herstellung von Wäsche
+18.23.1 Herstellung von gewebter Wäsche (ohne Miederwaren)
+18.23.2 Herstellung von gewirkter und gestrickter Wäsche (ohne Miederwaren)
+18.23.3 Herstellung von Miederwaren
+18.24 Herstellung von sonstiger Bekleidung und Bekleidungszubehör
+18.24.1 Herstellung von Sportbekleidung
+18.24.2 Herstellung von Hüten und sonstigen Kopfbedeckungen
+18.24.3 Herstellung von Bekleidung und Bekleidungszubehör für Kleinkinder
+18.24.4 Herstellung von sonstigen gewirkten und gestrickten Fertigerzeugnissen
+18.24.5 Herstellung von Bekleidungszubehör, anderweitig nicht genannt
+18.3 Zurichtung und Färben von Fellen, Herstellung von Pelzwaren
+18.30 Zurichtung und Färben von Fellen, Herstellung von Pelzwaren
+18.30.0 Zurichtung und Färben von Fellen, Herstellung von Pelzwaren
+
+DC Ledergewerbe
+
+19 Ledergewerbe
+19.1 Herstellung von Leder und Lederfaserstoff
+19.10 Herstellung von Leder und Lederfaserstoff
+19.10.0 Herstellung von Leder und Lederfaserstoff
+19.2 Lederverarbeitung (ohne Herstellung von Lederbekleidung und Schuhen)
+19.20 Lederverarbeitung (ohne Herstellung von Lederbekleidung und Schuhen)
+19.20.0 Lederverarbeitung (ohne Herstellung von Lederbekleidung und Schuhen)
+19.3 Herstellung von Schuhen
+19.30 Herstellung von Schuhen
+19.30.1 Herstellung von Sportschuhen
+19.30.2 Herstellung von sonstigen Schuhen
+
+DD Holzgewerbe (ohne Herstellung von Möbeln)
+
+20 Holzgewerbe (ohne Herstellung von Möbeln)
+20.1 Säge-, Hobel- und Holzimprägnierwerke
+20.10 Säge-, Hobel- und Holzimprägnierwerke
+20.10.0 Säge-, Hobel- und Holzimprägnierwerke
+20.2 Herstellung von Furnier-, Sperrholz-, Holzfaser- und Holzspanplatten
+20.20 Herstellung von Furnier-, Sperrholz-, Holzfaser- und Holzspanplatten
+20.20.1 Herstellung von Furnier-, Sperrholz- und Holzfaserplatten
+20.20.2 Herstellung von Holzspanplatten
+20.3 Herstellung von Konstruktionsteilen, Fertigbauteilen, Ausbauelementen und Fertigteilbauten aus Holz
+20.30 Herstellung von Konstruktionsteilen, Fertigbauteilen, Ausbauelementen und Fertigteilbauten aus Holz
+20.30.1 Herstellung von Konstruktionsteilen, Fertigbauteilen und Ausbauelementen aus Holz
+20.30.2 Herstellung von Bausätzen für Fertigteilbauten aus Holz im Hochbau sowie von Fertigteilbauten daraus
+20.4 Herstellung von Verpackungsmitteln, Lagerbehältern und Ladungsträgern aus Holz
+20.40 Herstellung von Verpackungsmitteln, Lagerbehältern und Ladungsträgern aus Holz
+20.40.0 Herstellung von Verpackungsmitteln, Lagerbehältern und Ladungsträgern aus Holz
+20.5 Herstellung von Holzwaren, anderweitig nicht genannt, sowie von Kork-, Flecht- und Korbwaren (ohne Herstellung von Möbeln)
+20.51 Herstellung von Holzwaren, anderweitig nicht genannt (ohne Herstellung von Möbeln)
+20.51.0 Herstellung von Holzwaren, anderweitig nicht genannt (ohne Herstellung von Möbeln)
+20.52 Herstellung von Kork-, Flecht- und Korbwaren (ohne Herstellung von Möbeln)
+20.52.0 Herstellung von Kork-, Flecht- und Korbwaren (ohne Herstellung von Möbeln)
+
+DE Papier-, Verlags- und Druckgewerbe
+
+21 Papiergewerbe
+21.1 Herstellung von Holz- und Zellstoff, Papier, Karton und Pappe
+21.11 Herstellung von Holz- und Zellstoff
+21.11.0 Herstellung von Holz- und Zellstoff
+21.12 Herstellung von Papier, Karton und Pappe
+21.12.0 Herstellung von Papier, Karton und Pappe
+21.2 Herstellung von Waren aus Papier, Karton und Pappe
+21.21 Herstellung von Wellpapier und -pappe sowie von Verpackungsmitteln aus Papier, Karton und Pappe
+21.21.0 Herstellung von Wellpapier und -pappe sowie von Verpackungsmitteln aus Papier, Karton und Pappe
+21.22 Herstellung von Haushalts-, Hygiene- und Toilettenartikeln aus Zellstoff, Papier und Pappe
+21.22.0 Herstellung von Haushalts-, Hygiene- und Toilettenartikeln aus Zellstoff, Papier und Pappe
+21.23 Herstellung von Schreibwaren und Bürobedarf aus Papier, Karton und Pappe
+21.23.0 Herstellung von Schreibwaren und Bürobedarf aus Papier, Karton und Pappe
+21.24 Herstellung von Tapeten
+21.24.0 Herstellung von Tapeten
+21.25 Herstellung von sonstigen Waren aus Papier, Karton und Pappe
+21.25.0 Herstellung von sonstigen Waren aus Papier, Karton und Pappe
+22 Verlagsgewerbe, Druckgewerbe, Vervielfältigung von bespielten Ton-, Bild- und Datenträgern
+22.1 Verlagsgewerbe
+22.11 Verlegen von Büchern
+22.11.1 Verlegen von Büchern (ohne Adressbücher)
+22.11.2 Verlegen von Adressbüchern
+22.12 Verlegen von Zeitungen
+22.12.1 Verlegen von Tageszeitungen
+22.12.2 Verlegen von Wochen- und Sonntagszeitungen
+22.13 Verlegen von Zeitschriften
+22.13.1 Verlegen von Fachzeitschriften
+22.13.2 Verlegen von allgemeinen Zeitschriften
+22.13.3 Verlegen von sonstigen Zeitschriften
+22.14 Verlegen von bespielten Tonträgern und Musikalien
+22.14.1 Verlegen von bespielten Tonträgern
+22.14.2 Verlegen von Musikalien
+22.15 Sonstiges Verlagsgewerbe
+22.15.0 Sonstiges Verlagsgewerbe
+22.2 Druckgewerbe
+22.21 Drucken von Zeitungen
+22.21.0 Drucken von Zeitungen
+22.22 Drucken anderer Druckerzeugnisse
+22.22.0 Drucken anderer Druckerzeugnisse
+22.23 Druckweiterverarbeitung
+22.23.0 Druckweiterverarbeitung
+22.24 Druck- und Medienvorstufe
+22.24.0 Druck- und Medienvorstufe
+22.25 Erbringung von sonstigen druckbezogenen Dienstleistungen
+22.25.0 Erbringung von sonstigen druckbezogenen Dienstleistungen
+22.3 Vervielfältigung von bespielten Ton-, Bild- und Datenträgern
+22.31 Vervielfältigung von bespielten Tonträgern
+22.31.0 Vervielfältigung von bespielten Tonträgern
+22.32 Vervielfältigung von bespielten Bildträgern
+22.32.0 Vervielfältigung von bespielten Bildträgern
+22.33 Vervielfältigung von bespielten Datenträgern
+22.33.0 Vervielfältigung von bespielten Datenträgern
+
+DF Kokerei, Mineralölverarbeitung, Herstellung und Verarbeitung von Spalt- und Brutstoffen
+
+23 Kokerei, Mineralölverarbeitung, Herstellung und Verarbeitung von Spalt- und Brutstoffen
+23.1 Kokerei
+23.10 Kokerei
+23.10.0 Kokerei
+23.2 Mineralölverarbeitung
+23.20 Mineralölverarbeitung
+23.20.0 Mineralölverarbeitung
+23.3 Herstellung und Verarbeitung von Spalt- und Brutstoffen
+23.30 Herstellung und Verarbeitung von Spalt- und Brutstoffen
+23.30.0 Herstellung und Verarbeitung von Spalt- und Brutstoffen
+
+DG Herstellung von chemischen Erzeugnissen
+
+24 Herstellung von chemischen Erzeugnissen
+24.1 Herstellung von chemischen Grundstoffen
+24.11 Herstellung von Industriegasen
+24.11.0 Herstellung von Industriegasen
+24.12 Herstellung von Farbstoffen und Pigmenten
+24.12.0 Herstellung von Farbstoffen und Pigmenten
+24.13 Herstellung von sonstigen anorganischen Grundstoffen und Chemikalien
+24.13.0 Herstellung von sonstigen anorganischen Grundstoffen und Chemikalien
+24.14 Herstellung von sonstigen organischen Grundstoffen und Chemikalien
+24.14.0 Herstellung von sonstigen organischen Grundstoffen und Chemikalien
+24.15 Herstellung von Düngemitteln und Stickstoffverbindungen
+24.15.0 Herstellung von Düngemitteln und Stickstoffverbindungen
+24.16 Herstellung von Kunststoffen in Primärformen
+24.16.0 Herstellung von Kunststoffen in Primärformen
+24.17 Herstellung von synthetischem Kautschuk in Primärformen
+24.17.0 Herstellung von synthetischem Kautschuk in Primärformen
+24.2 Herstellung von Schädlingsbekämpfungs-, Pflanzenschutz- und Desinfektionsmitteln
+24.20 Herstellung von Schädlingsbekämpfungs-, Pflanzenschutz- und Desinfektionsmitteln
+24.20.0 Herstellung von Schädlingsbekämpfungs-, Pflanzenschutz- und Desinfektionsmitteln
+24.3 Herstellung von Anstrichmitteln, Druckfarben und Kitten
+24.30 Herstellung von Anstrichmitteln, Druckfarben und Kitten
+24.30.0 Herstellung von Anstrichmitteln, Druckfarben und Kitten
+24.4 Herstellung von pharmazeutischen Erzeugnissen
+24.41 Herstellung von pharmazeutischen Grundstoffen
+24.41.0 Herstellung von pharmazeutischen Grundstoffen
+24.42 Herstellung von pharmazeutischen Spezialitäten und sonstigen pharmazeutischen Erzeugnissen
+24.42.0 Herstellung von pharmazeutischen Spezialitäten und sonstigen pharmazeutischen Erzeugnissen
+24.5 Herstellung von Seifen, Wasch-, Reinigungs- und Körperpflegemitteln sowie von Duftstoffen
+24.51 Herstellung von Seifen, Wasch-, Reinigungs- und Poliermitteln
+24.51.0 Herstellung von Seifen, Wasch-, Reinigungs- und Poliermitteln
+24.52 Herstellung von Duftstoffen und Körperpflegemitteln
+24.52.0 Herstellung von Duftstoffen und Körperpflegemitteln
+24.6 Herstellung von sonstigen chemischen Erzeugnissen
+24.61 Herstellung von pyrotechnischen Erzeugnissen
+24.61.0 Herstellung von pyrotechnischen Erzeugnissen
+24.62 Herstellung von Klebstoffen und Gelatine
+24.62.0 Herstellung von Klebstoffen und Gelatine
+24.63 Herstellung von etherischen Ölen
+24.63.0 Herstellung von etherischen Ölen
+24.64 Herstellung von fotochemischen Erzeugnissen
+24.64.0 Herstellung von fotochemischen Erzeugnissen
+24.65 Herstellung von unbespielten Ton-, Bild- und Datenträgern
+24.65.0 Herstellung von unbespielten Ton-, Bild- und Datenträgern
+24.66 Herstellung von sonstigen chemischen Erzeugnissen, anderweitig nicht genannt
+24.66.0 Herstellung von sonstigen chemischen Erzeugnissen, anderweitig nicht genannt
+24.7 Herstellung von Chemiefasern
+24.70 Herstellung von Chemiefasern
+24.70.0 Herstellung von Chemiefasern
+
+DH Herstellung von Gummi- und Kunststoffwaren
+
+25 Herstellung von Gummi- und Kunststoffwaren
+25.1 Herstellung von Gummiwaren
+25.11 Herstellung von Bereifungen
+25.11.0 Herstellung von Bereifungen
+25.12 Runderneuerung von Bereifungen
+25.12.0 Runderneuerung von Bereifungen
+25.13 Herstellung von sonstigen Gummiwaren
+25.13.0 Herstellung von sonstigen Gummiwaren
+25.2 Herstellung von Kunststoffwaren
+25.21 Herstellung von Platten, Folien, Schläuchen und Profilen aus Kunststoffen
+25.21.0 Herstellung von Platten, Folien, Schläuchen und Profilen aus Kunststoffen
+25.22 Herstellung von Verpackungsmitteln aus Kunststoffen
+25.22.0 Herstellung von Verpackungsmitteln aus Kunststoffen
+25.23 Herstellung von Baubedarfsartikeln aus Kunststoffen
+25.23.0 Herstellung von Baubedarfsartikeln aus Kunststoffen
+25.24 Herstellung von sonstigen Kunststoffwaren
+25.24.1 Herstellung von technischen Kunststoffteilen
+25.24.2 Herstellung von Fertigerzeugnissen aus Kunststoffen
+
+DI Glasgewerbe, Herstellung von Keramik, Verarbeitung von Steinen und Erden
+
+26 Glasgewerbe, Herstellung von Keramik, Verarbeitung von Steinen und Erden
+26.1 Herstellung von Glas und Glaswaren
+26.11 Herstellung von Flachglas
+26.11.0 Herstellung von Flachglas
+26.12 Veredlung und Bearbeitung von Flachglas
+26.12.0 Veredlung und Bearbeitung von Flachglas
+26.13 Herstellung von Hohlglas
+26.13.1 Herstellung von Behältnissen aus Glas
+26.13.2 Herstellung von Trinkgläsern und Tischzubehör aus Glas
+26.14 Herstellung von Glasfasern und Waren daraus
+26.14.1 Herstellung von Verstärkungsglasfasern
+26.14.2 Herstellung von Isolierglasfasern u.Ä.
+26.15 Herstellung, Veredlung und Bearbeitung von sonstigem Glas einschließlich technischen Glaswaren
+26.15.0 Herstellung, Veredlung und Bearbeitung von sonstigem Glas einschließlich technischen Glaswaren
+26.2 Herstellung von keramischen Erzeugnissen (ohne Herstellung von Ziegeln und Baukeramik)
+26.21 Herstellung von keramischen Haushaltswaren und Ziergegenständen
+26.21.1 Herstellung von Haushaltswaren und Ziergegenständen aus Porzellan
+26.21.2 Herstellung von Haushaltswaren und Ziergegenständen aus Steingut, Steinzeug und Feinsteinzeug
+26.21.3 Herstellung von Haushaltswaren und Ziergegenständen aus Ton sowie von Töpferwaren
+26.22 Herstellung von Sanitärkeramik
+26.22.0 Herstellung von Sanitärkeramik
+26.23 Herstellung von keramischen Isolatoren und Isolierteilen
+26.23.0 Herstellung von keramischen Isolatoren und Isolierteilen
+26.24 Herstellung von keramischen Erzeugnissen für sonstige technische Zwecke
+26.24.0 Herstellung von keramischen Erzeugnissen für sonstige technische Zwecke
+26.25 Herstellung von keramischen Erzeugnissen, anderweitig nicht genannt
+26.25.0 Herstellung von keramischen Erzeugnissen, anderweitig nicht genannt
+26.26 Herstellung von feuerfesten keramischen Werkstoffen und Waren
+26.26.1 Herstellung von Waren aus feuerfesten keramischen Werkstoffen
+26.26.2 Herstellung von ungeformten feuerfesten keramischen Werkstoffen
+26.3 Herstellung von keramischen Wand- und Bodenfliesen und -platten
+26.30 Herstellung von keramischen Wand- und Bodenfliesen und -platten
+26.30.0 Herstellung von keramischen Wand- und Bodenfliesen und -platten
+26.4 Herstellung von Ziegeln und sonstiger Baukeramik
+26.40 Herstellung von Ziegeln und sonstiger Baukeramik
+26.40.1 Herstellung von Ziegeln
+26.40.2 Herstellung von sonstiger Baukeramik
+26.5 Herstellung von Zement, Kalk und gebranntem Gips
+26.51 Herstellung von Zement
+26.51.0 Herstellung von Zement
+26.52 Herstellung von Kalk
+26.52.0 Herstellung von Kalk
+26.53 Herstellung von gebranntem Gips
+26.53.0 Herstellung von gebranntem Gips
+26.6 Herstellung von Erzeugnissen aus Beton, Zement und Gips
+26.61 Herstellung von Erzeugnissen aus Beton, Zement und aus Kalksandstein für den Bau
+26.61.1 Herstellung von Bausätzen für Fertigteilbauten aus Beton für den Bau
+26.61.2 Herstellung von Konstruktionsteilen und großformatigen Fertigbauteilen aus Beton sowie von sonstigen Betonerzeugnissen für den Bau
+26.61.3 Herstellung von Erzeugnissen aus Porenbeton für den Bau
+26.61.4 Herstellung von Erzeugnissen aus Kalksandstein für den Bau
+26.62 Herstellung von Gipserzeugnissen für den Bau
+26.62.0 Herstellung von Gipserzeugnissen für den Bau
+26.63 Herstellung von Frischbeton (Transportbeton)
+26.63.0 Herstellung von Frischbeton (Transportbeton)
+26.64 Herstellung von Mörtel und anderem Beton (Trockenbeton)
+26.64.0 Herstellung von Mörtel und anderem Beton (Trockenbeton)
+26.65 Herstellung von Faserzementwaren
+26.65.0 Herstellung von Faserzementwaren
+26.66 Herstellung von Erzeugnissen aus Beton, Zement und Gips, anderweitig nicht genannt
+26.66.0 Herstellung von Erzeugnissen aus Beton, Zement und Gips, anderweitig nicht genannt
+26.7 Be- und Verarbeitung von Naturwerksteinen und Natursteinen, anderweitig nicht genannt
+26.70 Be- und Verarbeitung von Naturwerksteinen und Natursteinen, anderweitig nicht genannt
+26.70.1 Steinbildhauerei und Steinmetzerei
+26.70.2 Sonstige Be- und Verarbeitung von Naturwerksteinen und Natursteinen, anderweitig nicht genannt
+26.8 Herstellung von sonstigen Erzeugnissen aus nicht metallischen Mineralien
+26.81 Herstellung von Mühl-, Mahl-, Schleif-, Wetz- und Poliersteinen sowie Schleifstoffen
+26.81.3 Herstellung von Schleifkörpern mit Diamant oder Bornitrid
+26.81.4 Herstellung von Schleifmitteln auf Unterlage
+26.81.5 Herstellung von Mühlsteinen und Steinen zum Zerfasern
+26.81.6 Herstellung von Schleifkörpern (ohne Diamantschleifkörper) und Poliersteinen
+26.82 Herstellung von sonstigen Erzeugnissen aus nicht metallischen Mineralien, anderweitig nicht genannt
+26.82.0 Herstellung von sonstigen Erzeugnissen aus nicht metallischen Mineralien, anderweitig nicht genannt
+
+DJ Metallerzeugung und -bearbeitung, Herstellung von Metallerzeugnissen
+
+27 Metallerzeugung und -bearbeitung
+27.1 Erzeugung von Roheisen, Stahl und Ferrolegierungen
+27.10 Erzeugung von Roheisen, Stahl und Ferrolegierungen
+27.10.0 Erzeugung von Roheisen, Stahl und Ferrolegierungen
+27.2 Herstellung von Rohren
+27.21 Herstellung von Rohren, Rohrform-, Rohrverschluss- und Rohrverbindungsstücken aus Gusseisen
+27.21.1 Herstellung von Rohren aus Gusseisen
+27.21.2 Herstellung von Rohrform-, Rohrverschluss- und Rohrverbindungsstücken aus Gusseisen
+27.22 Herstellung von Stahlrohren, Rohrform-, Rohrverschluss- und Rohrverbindungsstücken aus Stahl
+27.22.1 Herstellung von Stahlrohren (ohne Präzisionsstahlrohre)
+27.22.2 Herstellung von Präzisionsstahlrohren
+27.22.3 Herstellung von Rohrform-, Rohrverschluss- und Rohrverbindungsstücken aus Stahl
+27.3 Sonstige erste Bearbeitung von Eisen und Stahl
+27.31 Herstellung von Blankstahl
+27.31.0 Herstellung von Blankstahl
+27.32 Herstellung von Kaltband mit einer Breite von weniger als 600 mm
+27.32.0 Herstellung von Kaltband mit einer Breite von weniger als 600 mm
+27.33 Herstellung von Kaltprofilen
+27.33.0 Herstellung von Kaltprofilen
+27.34 Herstellung von gezogenem Draht
+27.34.0 Herstellung von gezogenem Draht
+27.4 Erzeugung und erste Bearbeitung von NE-Metallen
+27.41 Erzeugung und erste Bearbeitung von Edelmetallen
+27.41.0 Erzeugung und erste Bearbeitung von Edelmetallen
+27.42 Erzeugung und erste Bearbeitung von Aluminium
+27.42.1 Erzeugung von Aluminium
+27.42.2 Erste Bearbeitung von Aluminium
+27.43 Erzeugung und erste Bearbeitung von Blei, Zink und Zinn
+27.43.1 Erzeugung von Blei, Zink und Zinn
+27.43.2 Erste Bearbeitung von Blei, Zink und Zinn
+27.44 Erzeugung und erste Bearbeitung von Kupfer
+27.44.1 Erzeugung von Kupfer
+27.44.2 Erste Bearbeitung von Kupfer
+27.45 Erzeugung und erste Bearbeitung von sonstigen NE-Metallen
+27.45.1 Erzeugung von sonstigen NE-Metallen
+27.45.2 Erste Bearbeitung von sonstigen NE-Metallen
+27.5 Gießereien
+27.51 Eisengießereien
+27.51.1 Eisengießereien (ohne Herstellung von duktilem Gusseisen)
+27.51.2 Herstellung von duktilem Gusseisen
+27.52 Stahlgießereien
+27.52.0 Stahlgießereien
+27.53 Leichtmetallgießereien
+27.53.0 Leichtmetallgießereien
+27.54 Buntmetallgießereien
+27.54.0 Buntmetallgießereien
+28 Herstellung von Metallerzeugnissen
+28.1 Stahl- und Leichtmetallbau
+28.11 Herstellung von Metallkonstruktionen
+28.11.1 Herstellung von Metallkonstruktionen (ohne Grubenausbaukonstruktionen)
+28.11.2 Herstellung von Grubenausbaukonstruktionen
+28.12 Herstellung von Ausbauelementen aus Metall
+28.12.0 Herstellung von Ausbauelementen aus Metall
+28.2 Herstellung von Metallbehältern mit einem Fassungsvermögen von mehr als 300 l; Herstellung von Heizkörpern und -kesseln für Zentralheizungen
+28.21 Herstellung von Metallbehältern mit einem Fassungsvermögen von mehr als 300 l
+28.21.0 Herstellung von Metallbehältern mit einem Fassungsvermögen von mehr als 300 l
+28.22 Herstellung von Heizkörpern und -kesseln für Zentralheizungen
+28.22.0 Herstellung von Heizkörpern und -kesseln für Zentralheizungen
+28.3 Herstellung von Dampfkesseln (ohne Zentralheizungskessel)
+28.30 Herstellung von Dampfkesseln (ohne Zentralheizungskessel)
+28.30.0 Herstellung von Dampfkesseln (ohne Zentralheizungskessel)
+28.4 Herstellung von Schmiede-, Press-, Zieh- und Stanzteilen, gewalzten Ringen und pulvermetallurgischen Erzeugnissen
+28.40 Herstellung von Schmiede-, Press-, Zieh- und Stanzteilen, gewalzten Ringen und pulvermetallurgischen Erzeugnissen
+28.40.1 Herstellung von schweren Freiformschmiedestücken
+28.40.2 Herstellung von leichten Freiformschmiedestücken
+28.40.3 Herstellung von Gesenkschmiedeteilen
+28.40.4 Herstellung von Kaltfließpressteilen
+28.40.7 Herstellung von pulvermetallurgischen Erzeugnissen
+28.40.8 Herstellung von Press-, Zieh- und Stanzteilen
+28.5 Oberflächenveredlung und Wärmebehandlung; Mechanik, anderweitig nicht genannt
+28.51 Oberflächenveredlung und Wärmebehandlung
+28.51.0 Oberflächenveredlung und Wärmebehandlung
+28.52 Mechanik, anderweitig nicht genannt
+28.52.1 Schlosserei und Schweißerei
+28.52.2 Schleiferei und Dreherei
+28.52.3 Beschlag- und Kunstschmieden
+28.6 Herstellung von Schneidwaren, Werkzeugen, Schlössern und Beschlägen aus unedlen Metallen
+28.61 Herstellung von Schneidwaren und Bestecken aus unedlen Metallen
+28.61.0 Herstellung von Schneidwaren und Bestecken aus unedlen Metallen
+28.62 Herstellung von Werkzeugen
+28.62.1 Herstellung von Handwerkzeugen
+28.62.2 Herstellung von Sägen und von Maschinenwerkzeugen für die Holzbearbeitung
+28.62.3 Herstellung von Werkzeugen für das Baugewerbe
+28.62.4 Herstellung von auswechselbaren Werkzeugen für die Metallbearbeitung
+28.62.5 Herstellung von Geräten für die Landwirtschaft
+28.62.6 Herstellung von sonstigen Werkzeugen
+28.63 Herstellung von Schlössern und Beschlägen aus unedlen Metallen
+28.63.0 Herstellung von Schlössern und Beschlägen aus unedlen Metallen
+28.7 Herstellung von sonstigen Metallwaren
+28.71 Herstellung von Metallbehältern mit einem Fassungsvermögen von 300 l oder weniger
+28.71.0 Herstellung von Metallbehältern mit einem Fassungsvermögen von 300 l oder weniger
+28.72 Herstellung von Verpackungen und Verschlüssen aus Eisen, Stahl und NE-Metall
+28.72.0 Herstellung von Verpackungen und Verschlüssen aus Eisen, Stahl und NE-Metall
+28.73 Herstellung von Drahtwaren
+28.73.0 Herstellung von Drahtwaren
+28.74 Herstellung von Schrauben, Nieten, Ketten und Federn
+28.74.1 Herstellung von Schrauben, Muttern, Bolzen und Nieten
+28.74.2 Herstellung von Ketten
+28.74.3 Herstellung von Federn
+28.75 Herstellung von sonstigen Metallwaren, anderweitig nicht genannt
+28.75.1 Herstellung von nicht elektrischen Haushaltsartikeln aus Metall
+28.75.2 Herstellung von Panzerschränken und Tresoranlagen
+28.75.3 Herstellung von Metallwaren, anderweitig nicht genannt
+
+DK Maschinenbau
+
+29 Maschinenbau
+29.1 Herstellung von Maschinen für die Erzeugung und Nutzung von mechanischer Energie (ohne Motoren für Luft- und Straßenfahrzeuge)
+29.11 Herstellung von Verbrennungsmotoren und Turbinen (ohne Motoren für Luft- und Straßenfahrzeuge)
+29.11.0 Herstellung von Verbrennungsmotoren und Turbinen (ohne Motoren für Luft- und Straßenfahrzeuge)
+29.12 Herstellung von Pumpen und Kompressoren
+29.12.0 Herstellung von Pumpen und Kompressoren
+29.13 Herstellung von Armaturen
+29.13.0 Herstellung von Armaturen
+29.14 Herstellung von Lagern, Getrieben, Zahnrädern und Antriebselementen
+29.14.0 Herstellung von Lagern, Getrieben, Zahnrädern und Antriebselementen
+29.2 Herstellung von sonstigen nicht wirtschaftszweigspezifischen Maschinen
+29.21 Herstellung von Öfen und Brennern
+29.21.0 Herstellung von Öfen und Brennern
+29.22 Herstellung von Hebezeugen und Fördermitteln
+29.22.0 Herstellung von Hebezeugen und Fördermitteln
+29.23 Herstellung von kälte- und lufttechnischen Erzeugnissen, nicht für den Haushalt
+29.23.0 Herstellung von kälte- und lufttechnischen Erzeugnissen, nicht für den Haushalt
+29.24 Herstellung von sonstigen nicht wirtschaftszweigspezifischen Maschinen, anderweitig nicht genannt
+29.24.0 Herstellung von sonstigen nicht wirtschaftszweigspezifischen Maschinen, anderweitig nicht genannt
+29.3 Herstellung von land- und forstwirtschaftlichen Maschinen
+29.31 Herstellung von land- und forstwirtschaftlichen Zugmaschinen
+29.31.1 Herstellung von land- und forstwirtschaftlichen Zugmaschinen (ohne Reparatur)
+29.31.2 Instandhaltung und Reparatur von land- und forstwirtschaftlichen Zugmaschinen
+29.32 Herstellung von sonstigen land- und forstwirtschaftlichen Maschinen
+29.32.1 Herstellung von sonstigen land- und forstwirtschaftlichen Maschinen (ohne Reparatur)
+29.32.2 Instandhaltung und Reparatur von sonstigen land- und forstwirtschaftlichen Maschinen
+29.4 Herstellung von Werkzeugmaschinen
+29.41 Herstellung von handgeführten kraftbetriebenen Werkzeugen
+29.41.0 Herstellung von handgeführten kraftbetriebenen Werkzeugen
+29.42 Herstellung von Werkzeugmaschinen für die Metallbearbeitung
+29.42.0 Herstellung von Werkzeugmaschinen für die Metallbearbeitung
+29.43 Herstellung von Werkzeugmaschinen, anderweitig nicht genannt
+29.43.1 Herstellung von Werkzeugmaschinen zur Bearbeitung von Steinen, Beton und sonstigen mineralischen Stoffen
+29.43.2 Herstellung von Werkzeugmaschinen zur Bearbeitung von sonstigen harten Stoffen
+29.43.3 Herstellung von Maschinenspannzeugen und sonstigem Zubehör von Werkzeugmaschinen
+29.43.4 Herstellung von Elektroschweiß- und -lötgeräten
+29.43.5 Herstellung von sonstigen Werkzeugmaschinen, anderweitig nicht genannt
+29.5 Herstellung von Maschinen für sonstige bestimmte Wirtschaftszweige
+29.51 Herstellung von Maschinen für die Metallerzeugung, von Walzwerkseinrichtungen und Gießmaschinen
+29.51.0 Herstellung von Maschinen für die Metallerzeugung, von Walzwerkseinrichtungen und Gießmaschinen
+29.52 Herstellung von Bergwerks-, Bau- und Baustoffmaschinen
+29.52.1 Herstellung von Bergwerksmaschinen
+29.52.2 Herstellung von Bau- und Baustoffmaschinen
+29.53 Herstellung von Maschinen für das Ernährungsgewerbe und die Tabakverarbeitung
+29.53.0 Herstellung von Maschinen für das Ernährungsgewerbe und die Tabakverarbeitung
+29.54 Herstellung von Maschinen für das Textil-, Bekleidungs- und Ledergewerbe
+29.54.0 Herstellung von Maschinen für das Textil-, Bekleidungs- und Ledergewerbe
+29.55 Herstellung von Maschinen für das Papiergewerbe
+29.55.0 Herstellung von Maschinen für das Papiergewerbe
+29.56 Herstellung von Maschinen für bestimmte Wirtschaftszweige, anderweitig nicht genannt
+29.56.1 Herstellung von Maschinen für das Druckgewerbe
+29.56.3 Herstellung von Maschinen für die Kunststoff- und Gummibe- und -verarbeitung
+29.56.4 Herstellung von Maschinen für sonstige bestimmte Wirtschaftszweige, anderweitig nicht genannt
+29.6 Herstellung von Waffen und Munition
+29.60 Herstellung von Waffen und Munition
+29.60.0 Herstellung von Waffen und Munition
+29.7 Herstellung von Haushaltsgeräten, anderweitig nicht genannt
+29.71 Herstellung von elektrischen Haushaltsgeräten
+29.71.0 Herstellung von elektrischen Haushaltsgeräten
+29.72 Herstellung von nicht elektrischen Heiz-, Koch-, Heißwasser- und Heißluftgeräten, anderweitig nicht genannt
+29.72.0 Herstellung von nicht elektrischen Heiz-, Koch-, Heißwasser- und Heißluftgeräten, anderweitig nicht genannt
+
+DL Herstellung von Büromaschinen, Datenverarbeitungsgeräten und -einrichtungen; Elektrotechnik, Feinmechanik und Optik
+
+30 Herstellung von Büromaschinen, Datenverarbeitungsgeräten und -einrichtungen
+30.0 Herstellung von Büromaschinen, Datenverarbeitungsgeräten und -einrichtungen
+30.01 Herstellung von Büromaschinen
+30.01.0 Herstellung von Büromaschinen
+30.02 Herstellung von Datenverarbeitungsgeräten und -einrichtungen
+30.02.0 Herstellung von Datenverarbeitungsgeräten und -einrichtungen
+31 Herstellung von Geräten der Elektrizitätserzeugung, -verteilung u.Ä.
+31.1 Herstellung von Elektromotoren, Generatoren und Transformatoren
+31.10 Herstellung von Elektromotoren, Generatoren und Transformatoren
+31.10.0 Herstellung von Elektromotoren, Generatoren und Transformatoren
+31.2 Herstellung von Elektrizitätsverteilungs- und -schalteinrichtungen
+31.20 Herstellung von Elektrizitätsverteilungs- und -schalteinrichtungen
+31.20.0 Herstellung von Elektrizitätsverteilungs- und -schalteinrichtungen
+31.3 Herstellung von isolierten Elektrokabeln, -leitungen und -drähten
+31.30 Herstellung von isolierten Elektrokabeln, -leitungen und -drähten
+31.30.0 Herstellung von isolierten Elektrokabeln, -leitungen und -drähten
+31.4 Herstellung von Akkumulatoren und Batterien
+31.40 Herstellung von Akkumulatoren und Batterien
+31.40.0 Herstellung von Akkumulatoren und Batterien
+31.5 Herstellung von elektrischen Lampen und Leuchten
+31.50 Herstellung von elektrischen Lampen und Leuchten
+31.50.0 Herstellung von elektrischen Lampen und Leuchten
+31.6 Herstellung von elektrischen Ausrüstungen, anderweitig nicht genannt
+31.61 Herstellung von elektrischen Ausrüstungen für Motoren und Fahrzeuge, anderweitig nicht genannt
+31.61.0 Herstellung von elektrischen Ausrüstungen für Motoren und Fahrzeuge, anderweitig nicht genannt
+31.62 Herstellung von sonstigen elektrischen Ausrüstungen, anderweitig nicht genannt
+31.62.0 Herstellung von sonstigen elektrischen Ausrüstungen, anderweitig nicht genannt
+32 Rundfunk- und Nachrichtentechnik
+32.1 Herstellung von elektronischen Bauelementen
+32.10 Herstellung von elektronischen Bauelementen
+32.10.0 Herstellung von elektronischen Bauelementen
+32.2 Herstellung von Geräten und Einrichtungen der Telekommunikationstechnik
+32.20 Herstellung von Geräten und Einrichtungen der Telekommunikationstechnik
+32.20.0 Herstellung von Geräten und Einrichtungen der Telekommunikationstechnik
+32.3 Herstellung von Rundfunkgeräten sowie phono- und videotechnischen Geräten
+32.30 Herstellung von Rundfunkgeräten sowie phono- und videotechnischen Geräten
+32.30.0 Herstellung von Rundfunkgeräten sowie phono- und videotechnischen Geräten
+33 Medizin-, Mess-, Steuer- und Regelungstechnik, Optik, Herstellung von Uhren
+33.1 Herstellung von medizinischen Geräten und orthopädischen Erzeugnissen
+33.10 Herstellung von medizinischen Geräten und orthopädischen Erzeugnissen
+33.10.1 Herstellung von elektromedizinischen Geräten und Instrumenten
+33.10.2 Herstellung von medizintechnischen Geräten
+33.10.3 Herstellung von orthopädischen Erzeugnissen
+33.10.4 Zahntechnische Laboratorien
+33.2 Herstellung von Mess-, Kontroll-, Navigations- u.ä. Instrumenten und Vorrichtungen
+33.20 Herstellung von Mess-, Kontroll-, Navigations- u.ä. Instrumenten und Vorrichtungen
+33.20.1 Herstellung von elektrischen Mess-, Kontroll-, Navigations- u.ä. Instrumenten und Vorrichtungen
+33.20.2 Herstellung von feinmechanisch-optischen Mess-, Kontroll-, Navigations- u.ä. Instrumenten und Vorrichtungen
+33.20.3 Herstellung von mechanischen Prüfmaschinen
+33.3 Herstellung von industriellen Prozesssteuerungseinrichtungen
+33.30 Herstellung von industriellen Prozesssteuerungseinrichtungen
+33.30.0 Herstellung von industriellen Prozesssteuerungseinrichtungen
+33.4 Herstellung von optischen und fotografischen Geräten
+33.40 Herstellung von optischen und fotografischen Geräten
+33.40.1 Herstellung von augenoptischen Erzeugnissen
+33.40.2 Herstellung von optischen Instrumenten
+33.40.3 Herstellung von Foto-, Projektions- und Kinogeräten
+33.5 Herstellung von Uhren
+33.50 Herstellung von Uhren
+33.50.0 Herstellung von Uhren
+
+DM Fahrzeugbau
+
+34 Herstellung von Kraftwagen und Kraftwagenteilen
+34.1 Herstellung von Kraftwagen und Kraftwagenmotoren
+34.10 Herstellung von Kraftwagen und Kraftwagenmotoren
+34.10.1 Herstellung von Personenkraftwagen und Personenkraftwagenmotoren
+34.10.2 Herstellung von Nutzkraftwagen und Nutzkraftwagenmotoren
+34.2 Herstellung von Karosserien, Aufbauten und Anhängern
+34.20 Herstellung von Karosserien, Aufbauten und Anhängern
+34.20.0 Herstellung von Karosserien, Aufbauten und Anhängern
+34.3 Herstellung von Teilen und Zubehör für Kraftwagen und Kraftwagenmotoren
+34.30 Herstellung von Teilen und Zubehör für Kraftwagen und Kraftwagenmotoren
+34.30.0 Herstellung von Teilen und Zubehör für Kraftwagen und Kraftwagenmotoren
+35 Sonstiger Fahrzeugbau
+35.1 Schiff- und Bootsbau
+35.11 Schiffbau (ohne Boots- und Yachtbau)
+35.11.0 Schiffbau (ohne Boots- und Yachtbau)
+35.12 Boots- und Yachtbau
+35.12.0 Boots- und Yachtbau
+35.2 Bahnindustrie
+35.20 Bahnindustrie
+35.20.6 Schienenfahrzeugbau
+35.20.7 Herstellung von Eisenbahninfrastruktur
+35.3 Luft- und Raumfahrzeugbau
+35.30 Luft- und Raumfahrzeugbau
+35.30.0 Luft- und Raumfahrzeugbau
+35.4 Herstellung von Krafträdern, Fahrrädern und Behindertenfahrzeugen
+35.41 Herstellung von Krafträdern
+35.41.1 Herstellung von Krafträdern (ohne Kraftradteile)
+35.41.2 Herstellung von Kraftradteilen und -zubehör
+35.42 Herstellung von Fahrrädern
+35.42.1 Herstellung von Fahrrädern (ohne Fahrradteile)
+35.42.2 Herstellung von Fahrradteilen und -zubehör
+35.43 Herstellung von Behindertenfahrzeugen
+35.43.0 Herstellung von Behindertenfahrzeugen
+35.5 Fahrzeugbau, anderweitig nicht genannt
+35.50 Fahrzeugbau, anderweitig nicht genannt
+35.50.0 Fahrzeugbau, anderweitig nicht genannt
+
+DN Herstellung von Möbeln, Schmuck, Musikinstrumenten, Sportgeräten, Spielwaren und sonstigen Erzeugnissen; Recycling
+
+36 Herstellung von Möbeln, Schmuck, Musikinstrumenten, Sportgeräten, Spielwaren und sonstigen Erzeugnissen
+36.1 Herstellung von Möbeln
+36.11 Herstellung von Sitzmöbeln
+36.11.1 Herstellung von Polstermöbeln
+36.11.2 Herstellung von sonstigen Sitzmöbeln
+36.12 Herstellung von Büro- und Ladenmöbeln
+36.12.1 Herstellung von Büromöbeln
+36.12.2 Herstellung von Ladenmöbeln und sonstigen Objektmöbeln
+36.13 Herstellung von Küchenmöbeln
+36.13.0 Herstellung von Küchenmöbeln
+36.14 Herstellung von sonstigen Möbeln
+36.14.1 Herstellung von Esszimmer- und Wohnzimmermöbeln
+36.14.2 Herstellung von Schlafzimmermöbeln
+36.14.3 Herstellung von Möbeln, anderweitig nicht genannt
+36.15 Herstellung von Matratzen
+36.15.0 Herstellung von Matratzen
+36.2 Herstellung von Schmuck u.ä. Erzeugnissen
+36.21 Herstellung von Münzen
+36.21.0 Herstellung von Münzen
+36.22 Herstellung von Schmuck, Gold- und Silberschmiedewaren (ohne Phantasieschmuck)
+36.22.1 Bearbeitung von Edelsteinen, Schmucksteinen und Perlen
+36.22.2 Herstellung von Schmuck aus Edelmetallen und Edelmetallplattierungen
+36.22.3 Herstellung von Gold- und Silberschmiedewaren (ohne Tafelgeräte und Bestecke)
+36.22.4 Herstellung von Tafelgeräten und Bestecken aus Edelmetallen oder mit Edelmetallen überzogen
+36.22.5 Herstellung von Edelmetallerzeugnissen für technische Zwecke
+36.3 Herstellung von Musikinstrumenten
+36.30 Herstellung von Musikinstrumenten
+36.30.0 Herstellung von Musikinstrumenten
+36.4 Herstellung von Sportgeräten
+36.40 Herstellung von Sportgeräten
+36.40.0 Herstellung von Sportgeräten
+36.5 Herstellung von Spielwaren
+36.50 Herstellung von Spielwaren
+36.50.0 Herstellung von Spielwaren
+36.6 Herstellung von sonstigen Erzeugnissen
+36.61 Herstellung von Phantasieschmuck
+36.61.0 Herstellung von Phantasieschmuck
+36.62 Herstellung von Besen und Bürsten
+36.62.0 Herstellung von Besen und Bürsten
+36.63 Herstellung von Erzeugnissen, anderweitig nicht genannt
+36.63.1 Herstellung von Bodenbelägen auf textiler Unterlage
+36.63.2 Herstellung von sonstigem Bekleidungszubehör, anderweitig nicht genannt
+36.63.3 Herstellung von chemischen Erzeugnissen, anderweitig nicht genannt
+36.63.4 Herstellung von Kinderwagen
+36.63.5 Herstellung von Füllhaltern, Kugelschreibern, Filzstiften und Stempeln
+36.63.6 Verarbeitung von natürlichen Schnitz- und Formstoffen; Tierausstopferei
+36.63.7 Herstellung von Weihnachtsschmuck
+36.63.8 Herstellung von sonstigen Erzeugnissen, anderweitig nicht genannt
+37 Recycling
+37.1 Recycling von metallischen Altmaterialien und Reststoffen
+37.10 Recycling von metallischen Altmaterialien und Reststoffen
+37.10.1 Recycling von Altmaterialien und Reststoffen aus Eisen oder Stahl
+37.10.2 Recycling von Altmaterialien und Reststoffen aus NE-Metallen
+37.2 Recycling von nicht metallischen Altmaterialien und Reststoffen
+37.20 Recycling von nicht metallischen Altmaterialien und Reststoffen
+37.20.1 Recycling von textilen Altmaterialien und Reststoffen
+37.20.2 Recycling von Altmaterialien und Reststoffen aus Papier, Karton und Pappe
+37.20.3 Recycling von Altmaterialien und Reststoffen aus Glas
+37.20.4 Recycling von Altmaterialien und Reststoffen aus Kunststoffen
+37.20.5 Recycling von sonstigen Altmaterialien und Reststoffen
+
+E Energie- und Wasserversorgung
+EA Energie- und Wasserversorgung
+
+40 Energieversorgung
+40.1 Elektrizitätsversorgung
+40.11 Elektrizitätserzeugung
+40.11.1 Elektrizitätserzeugung ohne Verteilung
+40.11.2 Elektrizitätserzeugung aus Wärmekraft mit Fremdbezug zur Verteilung
+40.11.3 Elektrizitätserzeugung aus erneuerbaren Energieträgern und sonstigen Energiequellen mit Fremdbezug zur Verteilung
+40.11.4 Elektrizitätserzeugung aus Wärmekraft ohne Fremdbezug zur Verteilung
+40.11.5 Elektrizitätserzeugung aus erneuerbaren Energieträgern und sonstigen Energiequellen ohne Fremdbezug zur Verteilung
+40.12 Elektrizitätsübertragung
+40.12.0 Elektrizitätsübertragung
+40.13 Elektrizitätsverteilung und -handel
+40.13.0 Elektrizitätsverteilung und -handel
+40.2 Gasversorgung
+40.21 Gaserzeugung
+40.21.1 Gaserzeugung ohne Verteilung
+40.21.2 Gaserzeugung mit Fremdbezug zur Verteilung
+40.21.3 Gaserzeugung ohne Fremdbezug zur Verteilung
+40.22 Gasverteilung und -handel durch Rohrleitungen
+40.22.0 Gasverteilung und -handel durch Rohrleitungen
+40.3 Wärmeversorgung
+40.30 Wärmeversorgung
+40.30.1 Wärmeerzeugung durch Heizkraftwerk mit Fremdbezug zur Verteilung
+40.30.2 Wärmeerzeugung durch Fernheizwerk mit Fremdbezug zur Verteilung
+40.30.3 Wärmeerzeugung durch Heizkraftwerk ohne Fremdbezug zur Verteilung
+40.30.4 Wärmeerzeugung durch Fernheizwerk ohne Fremdbezug zur Verteilung
+40.30.5 Wärmeverteilung ohne Erzeugung
+41 Wasserversorgung
+41.0 Wasserversorgung
+41.00 Wasserversorgung
+41.00.1 Wassergewinnung mit Fremdbezug zur Verteilung
+41.00.2 Wassergewinnung ohne Fremdbezug zur Verteilung
+41.00.3 Wasserverteilung ohne Gewinnung
+
+F Baugewerbe
+FA Baugewerbe
+
+45 Baugewerbe
+45.1 Vorbereitende Baustellenarbeiten
+45.11 Abbruch-, Spreng- und Enttrümmerungsgewerbe, Erdbewegungsarbeiten
+45.11.1 Abbruch-, Spreng- und Enttrümmerungsgewerbe
+45.11.2 Erdbewegungsarbeiten
+45.11.4 Aufschließung von Lagerstätten; Auffüllen stillgelegter Lagerstätten
+45.12 Test- und Suchbohrung
+45.12.0 Test- und Suchbohrung
+45.2 Hoch- und Tiefbau
+45.21 Hochbau, Brücken- und Tunnelbau u.Ä.
+45.21.1 Hoch- und Tiefbau, ohne ausgeprägten Schwerpunkt
+45.21.2 Hochbau (ohne Fertigteilbau)
+45.21.3 Errichtung von Fertigteilbauten aus Beton im Hochbau aus selbst hergestellten Fertigteilen
+45.21.4 Errichtung von Fertigteilbauten aus Beton im Hochbau aus fremd bezogenen Fertigteilen
+45.21.5 Errichtung von Fertigteilbauten aus Holz und Kunststoffen im Hochbau aus fremd bezogenen Fertigteilen
+45.21.6 Brücken- und Tunnelbau u.Ä.
+45.21.7 Rohrleitungs- und Kabelleitungstiefbau
+45.22 Dachdeckerei, Bauspenglerei, Abdichtungen und Zimmerei
+45.22.1 Dachdeckerei und Bauspenglerei
+45.22.2 Abdichtung gegen Wasser und Feuchtigkeit
+45.22.3 Zimmerei und Ingenieurholzbau
+45.23 Bau von Straßen, Bahnverkehrsstrecken, Rollbahnen und Sportanlagen
+45.23.1 Bau von Straßen, Rollbahnen und Sportanlagen
+45.23.2 Bau von Bahnverkehrsstrecken
+45.24 Wasserbau
+45.24.0 Wasserbau
+45.25 Sonstiger spezialisierter Hoch- und Tiefbau
+45.25.1 Brunnenbau
+45.25.2 Schachtbau
+45.25.3 Schornstein-, Feuerungs- und Industrieofenbau
+45.25.4 Gerüstbau
+45.25.5 Gebäudetrocknung
+45.25.6 Sonstiger spezialisierter Hoch- und Tiefbau, anderweitig nicht genannt
+45.3 Bauinstallation
+45.31 Elektroinstallation
+45.31.0 Elektroinstallation
+45.32 Dämmung gegen Kälte, Wärme, Schall und Erschütterung
+45.32.0 Dämmung gegen Kälte, Wärme, Schall und Erschütterung
+45.33 Klempnerei, Gas-, Wasser-, Heizungs- und Lüftungsinstallation
+45.33.0 Klempnerei, Gas-, Wasser-, Heizungs- und Lüftungsinstallation
+45.34 Sonstige Bauinstallation
+45.34.0 Sonstige Bauinstallation
+45.4 Sonstiges Ausbaugewerbe
+45.41 Stukkateurgewerbe, Gipserei und Verputzerei
+45.41.0 Stukkateurgewerbe, Gipserei und Verputzerei
+45.42 Bautischlerei und -schlosserei
+45.42.0 Bautischlerei und -schlosserei
+45.43 Fußboden-, Fliesen- und Plattenlegerei, Raumausstattung
+45.43.1 Parkettlegerei
+45.43.2 Fliesen-, Platten- und Mosaiklegerei
+45.43.3 Estrichlegerei
+45.43.4 Sonstige Fußbodenlegerei und -kleberei
+45.43.5 Tapetenkleberei
+45.43.6 Raumausstattung, ohne ausgeprägten Schwerpunkt
+45.44 Maler- und Glasergewerbe
+45.44.1 Maler- und Lackierergewerbe
+45.44.2 Glasergewerbe
+45.45 Baugewerbe, anderweitig nicht genannt
+45.45.1 Fassadenreinigung
+45.45.3 Ausbaugewerbe, anderweitig nicht genannt
+45.5 Vermietung von Baumaschinen und -geräten mit Bedienungspersonal
+45.50 Vermietung von Baumaschinen und -geräten mit Bedienungspersonal
+45.50.1 Vermietung von Betonpumpen mit Bedienungspersonal
+45.50.2 Vermietung von sonstigen Baumaschinen und -geräten mit Bedienungspersonal
+
+G Handel; Instandhaltung und Reparatur von Kraftfahrzeugen und Gebrauchsgütern
+GA Handel; Instandhaltung und Reparatur von Kraftfahrzeugen und Gebrauchsgütern
+
+50 Kraftfahrzeughandel; Instandhaltung und Reparatur von Kraftfahrzeugen; Tankstellen
+50.1 Handel mit Kraftwagen
+50.10 Handel mit Kraftwagen
+50.10.1 Handelsvermittlung von Kraftwagen
+50.10.2 Großhandel mit Kraftwagen
+50.10.3 Einzelhandel mit Kraftwagen
+50.2 Instandhaltung und Reparatur von Kraftwagen
+50.20 Instandhaltung und Reparatur von Kraftwagen
+50.20.3 Lackierung von Kraftwagen
+50.20.4 Autowaschanlagen
+50.20.5 Instandhaltung und Reparatur von Kraftwagen (ohne Lackierung und Autowäsche)
+50.3 Handel mit Kraftwagenteilen und -zubehör
+50.30 Handel mit Kraftwagenteilen und -zubehör
+50.30.1 Handelsvermittlung von Kraftwagenteilen und -zubehör
+50.30.2 Großhandel mit Kraftwagenteilen und -zubehör
+50.30.3 Einzelhandel mit Kraftwagenteilen und -zubehör
+50.4 Handel mit Krafträdern, Kraftradteilen und -zubehör; Instandhaltung und Reparatur von Krafträdern
+50.40 Handel mit Krafträdern, Kraftradteilen und -zubehör; Instandhaltung und Reparatur von Krafträdern
+50.40.1 Handelsvermittlung von Krafträdern, Kraftradteilen und -zubehör
+50.40.2 Großhandel mit Krafträdern, Kraftradteilen und -zubehör
+50.40.3 Einzelhandel mit Krafträdern, Kraftradteilen und -zubehör
+50.40.4 Instandhaltung und Reparatur von Krafträdern
+50.5 Tankstellen
+50.50 Tankstellen
+50.50.1 Tankstellen mit Absatz in fremdem Namen (Agenturtankstellen)
+50.50.2 Tankstellen mit Absatz in eigenem Namen (Freie Tankstellen)
+51 Handelsvermittlung und Großhandel (ohne Handel mit Kraftfahrzeugen)
+51.1 Handelsvermittlung
+51.11 Handelsvermittlung von landwirtschaftlichen Grundstoffen, lebenden Tieren, textilen Rohstoffen und Halbwaren
+51.11.2 Handelsvermittlung von Blumen und Pflanzen
+51.11.4 Handelsvermittlung von lebenden Tieren
+51.11.5 Handelsvermittlung von textilen Rohstoffen und Halbwaren, Häuten, Fellen und Leder
+51.11.6 Handelsvermittlung von Getreide, Saaten, Futtermitteln und Rohtabak
+51.12 Handelsvermittlung von Brennstoffen, Erzen, Metallen und technischen Chemikalien
+51.12.1 Handelsvermittlung von festen Brennstoffen und Mineralölerzeugnissen
+51.12.3 Handelsvermittlung von technischen Chemikalien, Rohdrogen, Kautschuk, Kunststoffen und Düngemitteln
+51.12.4 Handelsvermittlung von Erzen, Eisen, Stahl und NE-Metallen
+51.12.5 Handelsvermittlung von Eisen-, Stahl- und NE-Metallhalbzeug
+51.13 Handelsvermittlung von Holz, Baustoffen und Anstrichmitteln
+51.13.1 Handelsvermittlung von Rohholz, Holzhalbwaren und Bauelementen aus Holz
+51.13.2 Handelsvermittlung von Baustoffen, Bauelementen aus Stahl und mineralischen Stoffen und von Flachglas
+51.13.3 Handelsvermittlung von Anstrichmitteln
+51.13.4 Handelsvermittlung von chemisch-technischen Erzeugnissen
+51.14 Handelsvermittlung von Maschinen, technischem Bedarf, Wasser- und Luftfahrzeugen
+51.14.1 Handelsvermittlung von Maschinen und technischem Bedarf (ohne landwirtschaftliche Maschinen und Büromaschinen)
+51.14.2 Handelsvermittlung von Wasser- und Luftfahrzeugen
+51.14.4 Handelsvermittlung von Geräten der Unterhaltungselektronik und Zubehör
+51.14.5 Handelsvermittlung von Werkzeugen
+51.14.6 Handelsvermittlung von Büromaschinen und Software
+51.14.7 Handelsvermittlung von landwirtschaftlichen Maschinen und Geräten
+51.14.8 Handelsvermittlung von Installationsbedarf für Gas, Wasser, Heizung und Klimatechnik
+51.14.9 Handelsvermittlung von elektrotechnischen und elektronischen Erzeugnissen, anderweitig nicht genannt
+51.15 Handelsvermittlung von Möbeln, Einrichtungs- und Haushaltsgegenständen, Eisen-und Metallwaren
+51.15.1 Handelsvermittlung von Möbeln, Einrichtungsgegenständen und Antiquitäten
+51.15.2 Handelsvermittlung von keramischen Erzeugnissen, Glaswaren, Holzwaren, anderweitig nicht genannt, sowie Flecht- und Korbwaren
+51.15.3 Handelsvermittlung von elektrischen Haushaltsgeräten
+51.15.4 Handelsvermittlung von Eisen-, Metall- und Kunststoffwaren, anderweitig nicht genannt
+51.15.5 Handelsvermittlung von Putz- und Reinigungsmitteln
+51.16 Handelsvermittlung von Textilien, Bekleidung, Schuhen und Lederwaren
+51.16.1 Handelsvermittlung von Meterware für Bekleidung und Wäsche
+51.16.2 Handelsvermittlung von Heim- und Haushaltstextilien und Bodenbelägen
+51.16.7 Handelsvermittlung von Bekleidung
+51.16.8 Handelsvermittlung von Bekleidungszubehör
+51.16.9 Handelsvermittlung von Schuhen, Leder- und Täschnerwaren
+51.17 Handelsvermittlung von Nahrungsmitteln, Getränken und Tabakwaren
+51.17.1 Handelsvermittlung von Nahrungsmitteln, Getränken und Tabakwaren, ohne ausgeprägten Schwerpunkt
+51.17.2 Handelsvermittlung von Obst, Gemüse und Kartoffeln
+51.17.3 Handelsvermittlung von Zucker und Süßwaren
+51.17.4 Handelsvermittlung von Milch, Milcherzeugnissen, Eiern, Speiseölen, Nahrungsfetten, Fleisch, Fleischwaren, Geflügel und Wild
+51.17.5 Handelsvermittlung von Kaffee, Tee, Kakao und Gewürzen
+51.17.6 Handelsvermittlung von Wein, Sekt und Spirituosen
+51.17.7 Handelsvermittlung von sonstigen Getränken
+51.17.8 Handelsvermittlung von tiefgefrorenen Nahrungsmitteln
+51.17.9 Handelsvermittlung von sonstigen Nahrungsmitteln sowie Tabakwaren
+51.18 Handelsvermittlung von Waren, anderweitig nicht genannt
+51.18.1 Handelsvermittlung von feinmechanischen, Foto- und optischen Erzeugnissen
+51.18.2 Handelsvermittlung von Uhren, Edelmetallwaren und Schmuck
+51.18.3 Handelsvermittlung von Spielwaren und Musikinstrumenten
+51.18.4 Handelsvermittlung von Fahrrädern, Fahrradteilen und -zubehör, Sport- und Campingartikeln (ohne Campingmöbel)
+51.18.5 Handelsvermittlung von pharmazeutischen Erzeugnissen, medizinischen und orthopädischen Artikeln und Laborbedarf, Ärztebedarf, Dentalbedarf, zahnärztlichen Instrumenten, Krankenhaus- und Altenpflegebedarf
+51.18.6 Handelsvermittlung von kosmetischen Erzeugnissen und Körperpflegemitteln
+51.18.7 Handelsvermittlung von Karton, Papier und Pappe, Schreibwaren, Bürobedarf, Geschenk- und Werbeartikeln, Verpackungsmitteln und Tapeten
+51.18.8 Handelsvermittlung von Büchern, Zeitschriften, Zeitungen, Musikalien und sonstigen Druckerzeugnissen
+51.18.9 Handelsvermittlung von Altmaterialien und Reststoffen
+51.19 Handelsvermittlung von Waren, ohne ausgeprägten Schwerpunkt
+51.19.0 Handelsvermittlung von Waren, ohne ausgeprägten Schwerpunkt
+51.2 Großhandel mit landwirtschaftlichen Grundstoffen und lebenden Tieren
+51.21 Großhandel mit Getreide, Saatgut und Futtermitteln
+51.21.0 Großhandel mit Getreide, Saatgut und Futtermitteln
+51.22 Großhandel mit Blumen und Pflanzen
+51.22.0 Großhandel mit Blumen und Pflanzen
+51.23 Großhandel mit lebenden Tieren
+51.23.0 Großhandel mit lebenden Tieren
+51.24 Großhandel mit Häuten, Fellen und Leder
+51.24.0 Großhandel mit Häuten, Fellen und Leder
+51.25 Großhandel mit Rohtabak
+51.25.0 Großhandel mit Rohtabak
+51.3 Großhandel mit Nahrungsmitteln, Getränken und Tabakwaren
+51.31 Großhandel mit Obst, Gemüse und Kartoffeln
+51.31.0 Großhandel mit Obst, Gemüse und Kartoffeln
+51.32 Großhandel mit Fleisch, Fleischwaren, Geflügel und Wild
+51.32.0 Großhandel mit Fleisch, Fleischwaren, Geflügel und Wild
+51.33 Großhandel mit Milch, Milcherzeugnissen, Eiern, Speiseölen und Nahrungsfetten
+51.33.0 Großhandel mit Milch, Milcherzeugnissen, Eiern, Speiseölen und Nahrungsfetten
+51.34 Großhandel mit Getränken
+51.34.1 Großhandel mit Getränken, ohne ausgeprägten Schwerpunkt
+51.34.2 Großhandel mit Wein, Sekt und Spirituosen
+51.34.5 Großhandel mit sonstigen Getränken
+51.35 Großhandel mit Tabakwaren
+51.35.0 Großhandel mit Tabakwaren
+51.36 Großhandel mit Zucker, Süßwaren und Backwaren
+51.36.1 Großhandel mit Zucker
+51.36.2 Großhandel mit Süßwaren
+51.36.3 Großhandel mit Backwaren
+51.37 Großhandel mit Kaffee, Tee, Kakao und Gewürzen
+51.37.1 Großhandel mit Kaffee, Tee und Kakao
+51.37.2 Großhandel mit Gewürzen
+51.38 Großhandel mit sonstigen Nahrungsmitteln
+51.38.1 Großhandel mit Fisch und Fischerzeugnissen
+51.38.2 Großhandel mit Mehl und Getreideprodukten
+51.38.3 Großhandel mit Nahrungsmitteln, anderweitig nicht genannt
+51.39 Großhandel mit Nahrungsmitteln, Getränken und Tabakwaren, ohne ausgeprägten Schwerpunkt
+51.39.1 Großhandel mit tiefgefrorenen Nahrungsmitteln, ohne ausgeprägten Schwerpunkt
+51.39.2 Großhandel mit sonstigen Nahrungsmitteln, Getränken und Tabakwaren, ohne ausgeprägten Schwerpunkt
+51.4 Großhandel mit Gebrauchs- und Verbrauchsgütern
+51.41 Großhandel mit Textilien
+51.41.1 Großhandel mit Meterware für Bekleidung und Wäsche
+51.41.2 Großhandel mit Heim- und Haushaltstextilien
+51.42 Großhandel mit Bekleidung und Schuhen
+51.42.3 Großhandel mit Schuhen
+51.42.4 Großhandel mit Oberbekleidung sowie Bekleidungszubehör
+51.42.5 Großhandel mit Unterbekleidung, Pullovern u.Ä.
+51.43 Großhandel mit elektrischen Haushaltsgeräten und Geräten der Unterhaltungselektronik
+51.43.1 Großhandel mit elektrischen Haushaltsgeräten und Geräten der Unterhaltungselektronik, ohne ausgeprägten Schwerpunkt
+51.43.2 Großhandel mit elektrischen Haushaltsgeräten
+51.43.3 Großhandel mit Geräten der Unterhaltungselektronik und Zubehör
+51.43.4 Großhandel mit elektrotechnischem Zubehör und Elektroinstallationszubehör
+51.44 Großhandel mit Haushaltswaren aus Metall, keramischen Erzeugnissen, Glaswaren, Tapeten und Reinigungsmitteln
+51.44.1 Großhandel mit Haushaltswaren aus Metall
+51.44.2 Großhandel mit keramischen Erzeugnissen und Glaswaren
+51.44.3 Großhandel mit Tapeten
+51.44.4 Großhandel mit Wasch-, Putz- und Reinigungsmitteln
+51.45 Großhandel mit kosmetischen Erzeugnissen und Körperpflegemitteln
+51.45.0 Großhandel mit kosmetischen Erzeugnissen und Körperpflegemitteln
+51.46 Großhandel mit pharmazeutischen, medizinischen und orthopädischen Erzeugnissen
+51.46.1 Großhandel mit pharmazeutischen Erzeugnissen
+51.46.2 Großhandel mit medizinischen und orthopädischen Artikeln und Laborbedarf
+51.46.3 Großhandel mit Dentalbedarf
+51.47 Großhandel mit sonstigen Gebrauchs- und Verbrauchsgütern
+51.47.1 Großhandel mit nicht elektrischen Haushaltsgeräten
+51.47.2 Großhandel mit Spielwaren und Musikinstrumenten
+51.47.3 Großhandel mit Fahrrädern, Fahrradteilen und -zubehör, Sport- und Campingartikeln (ohne Campingmöbel)
+51.47.4 Großhandel mit Uhren, Edelmetallwaren und Schmuck
+51.47.5 Großhandel mit Leder- und Täschnerwaren, Geschenk- und Werbeartikeln
+51.47.6 Großhandel mit Möbeln, Einrichtungsgegenständen, Antiquitäten und Bodenbelägen
+51.47.7 Großhandel mit feinmechanischen, Foto- und optischen Erzeugnissen
+51.47.8 Großhandel mit Karton, Papier, Pappe, Schreibwaren, Bürobedarf, Büchern, Zeitschriften und Zeitungen
+51.5 Großhandel mit nicht landwirtschaftlichen Halbwaren, Altmaterialien und Reststoffen
+51.51 Großhandel mit festen Brennstoffen und Mineralölerzeugnissen
+51.51.2 Großhandel mit festen Brennstoffen
+51.51.3 Großhandel mit Mineralölerzeugnissen
+51.52 Großhandel mit Erzen, Metallen und Metallhalbzeug
+51.52.1 Großhandel mit Erzen
+51.52.2 Großhandel mit Eisen, Stahl, Eisen- und Stahlhalbzeug
+51.52.3 Großhandel mit NE-Metallen und NE-Metallhalbzeug
+51.53 Großhandel mit Holz, Baustoffen, Anstrichmitteln und Sanitärkeramik
+51.53.1 Großhandel mit Holz, Baustoffen, Anstrichmitteln und Sanitärkeramik, ohne ausgeprägten Schwerpunkt
+51.53.2 Großhandel mit Roh- und Schnittholz
+51.53.3 Großhandel mit sonstigen Holzhalbwaren sowie Bauelementen aus Holz
+51.53.4 Großhandel mit Baustoffen und Bauelementen aus mineralischen Stoffen
+51.53.5 Großhandel mit Flachglas
+51.53.6 Großhandel mit Anstrichmitteln
+51.53.7 Großhandel mit Sanitärkeramik
+51.54 Großhandel mit Metall- und Kunststoffwaren für Bauzwecke sowie Installationsbedarf für Gas, Wasser und Heizung
+51.54.2 Großhandel mit Werkzeugen und Kleineisenwaren
+51.54.3 Großhandel mit Installationsbedarf für Gas, Wasser und Heizung
+51.54.4 Großhandel mit Metall- und Kunststoffwaren für Bauzwecke
+51.55 Großhandel mit chemischen Erzeugnissen
+51.55.1 Großhandel mit chemischen Erzeugnissen, ohne ausgeprägten Schwerpunkt
+51.55.2 Großhandel mit technischen Chemikalien und Rohdrogen
+51.55.3 Großhandel mit rohen technischen Fetten und Ölen sowie Kautschuk
+51.55.4 Großhandel mit chemisch-technischen Erzeugnissen
+51.55.5 Großhandel mit Düngemitteln
+51.56 Großhandel mit sonstigen Halbwaren
+51.56.0 Großhandel mit sonstigen Halbwaren
+51.57 Großhandel mit Altmaterialien und Reststoffen
+51.57.1 Großhandel mit Altmaterialien und Reststoffen, ohne ausgeprägten Schwerpunkt
+51.57.2 Großhandel mit metallischen Altmaterialien und Reststoffen
+51.57.3 Großhandel mit sonstigen Altmaterialien und Reststoffen
+51.8 Großhandel mit Maschinen, Ausrüstungen und Zubehör
+51.81 Großhandel mit Werkzeugmaschinen
+51.81.1 Großhandel mit Werkzeugmaschinen (ohne Holzbearbeitungsmaschinen)
+51.81.2 Großhandel mit Holzbearbeitungsmaschinen
+51.82 Großhandel mit Bergwerks-, Bau- und Baustoffmaschinen
+51.82.0 Großhandel mit Bergwerks-, Bau- und Baustoffmaschinen
+51.83 Großhandel mit Textil-, Näh- und Strickmaschinen
+51.83.0 Großhandel mit Textil-, Näh- und Strickmaschinen
+51.84 Großhandel mit Datenverarbeitungsgeräten, peripheren Einheiten und Software
+51.84.0 Großhandel mit Datenverarbeitungsgeräten, peripheren Einheiten und Software
+51.85 Großhandel mit sonstigen Büromaschinen und Büromöbeln
+51.85.1 Großhandel mit sonstigen Büromaschinen
+51.85.2 Großhandel mit Büromöbeln
+51.86 Großhandel mit elektronischen Bauelementen
+51.86.0 Großhandel mit elektronischen Bauelementen
+51.87 Großhandel mit sonstigen Maschinen, Ausrüstungen und Zubehör (ohne landwirtschaftliche Maschinen)
+51.87.1 Großhandel mit Flurförderzeugen und Fahrzeugen, anderweitig nicht genannt
+51.87.2 Großhandel mit sonstigen Maschinen (ohne landwirtschaftliche Maschinen)
+51.87.3 Großhandel mit sonstigen Ausrüstungen und Zubehör für Maschinen sowie technischem Bedarf
+51.88 Großhandel mit landwirtschaftlichen Maschinen und Geräten
+51.88.0 Großhandel mit landwirtschaftlichen Maschinen und Geräten
+51.9 Sonstiger Großhandel
+51.90 Sonstiger Großhandel
+51.90.1 Großhandel mit Rohstoffen, Halb- und Fertigwaren, ohne ausgeprägten Schwerpunkt
+51.90.2 Großhandel mit Rohstoffen und Halbwaren, ohne ausgeprägten Schwerpunkt
+51.90.3 Großhandel mit Fertigwaren, ohne ausgeprägten Schwerpunkt
+52 Einzelhandel (ohne Handel mit Kraftfahrzeugen und ohne Tankstellen); Reparatur von Gebrauchsgütern
+52.1 Einzelhandel mit Waren verschiedener Art (in Verkaufsräumen)
+52.11 Einzelhandel mit Waren verschiedener Art, Hauptrichtung Nahrungsmittel, Getränke und Tabakwaren
+52.11.1 Einzelhandel mit Nahrungsmitteln, Getränken und Tabakwaren, ohne ausgeprägten Schwerpunkt
+52.11.2 Sonstiger Einzelhandel mit Waren verschiedener Art, Hauptrichtung Nahrungsmittel, Getränke und Tabakwaren
+52.12 Sonstiger Einzelhandel mit Waren verschiedener Art
+52.12.1 Einzelhandel mit Waren verschiedener Art (ohne Nahrungsmittel)
+52.12.2 Einzelhandel mit Waren verschiedener Art, Hauptrichtung Nicht-Nahrungsmittel
+52.2 Facheinzelhandel mit Nahrungsmitteln, Getränken und Tabakwaren (in Verkaufsräumen)
+52.21 Einzelhandel mit Obst, Gemüse und Kartoffeln
+52.21.0 Einzelhandel mit Obst, Gemüse und Kartoffeln
+52.22 Einzelhandel mit Fleisch, Fleischwaren, Geflügel und Wild
+52.22.0 Einzelhandel mit Fleisch, Fleischwaren, Geflügel und Wild
+52.23 Einzelhandel mit Fisch, Meeresfrüchten und Fischerzeugnissen
+52.23.0 Einzelhandel mit Fisch, Meeresfrüchten und Fischerzeugnissen
+52.24 Einzelhandel mit Back- und Süßwaren
+52.24.1 Einzelhandel mit Backwaren
+52.24.2 Einzelhandel mit Süßwaren
+52.25 Einzelhandel mit Getränken
+52.25.1 Einzelhandel mit Wein, Sekt und Spirituosen
+52.25.2 Einzelhandel mit sonstigen Getränken
+52.26 Einzelhandel mit Tabakwaren
+52.26.0 Einzelhandel mit Tabakwaren
+52.27 Sonstiger Facheinzelhandel mit Nahrungsmitteln
+52.27.1 Einzelhandel mit Reformwaren
+52.27.5 Sonstiger Facheinzelhandel mit Nahrungsmitteln (ohne Reformwaren)
+52.3 Apotheken; Facheinzelhandel mit medizinischen, orthopädischen und kosmetischen Artikeln (in Verkaufsräumen)
+52.31 Apotheken
+52.31.0 Apotheken
+52.32 Einzelhandel mit medizinischen und orthopädischen Artikeln
+52.32.0 Einzelhandel mit medizinischen und orthopädischen Artikeln
+52.33 Einzelhandel mit Parfümeriewaren und Körperpflegemitteln
+52.33.1 Einzelhandel mit kosmetischen Erzeugnissen und Körperpflegemitteln (ohne Drogerieartikel)
+52.33.2 Einzelhandel mit Drogerieartikeln
+52.4 Sonstiger Facheinzelhandel (in Verkaufsräumen)
+52.41 Einzelhandel mit Textilien
+52.41.1 Einzelhandel mit Haushaltstextilien
+52.41.2 Einzelhandel mit Kurzwaren, Schneidereibedarf, Handarbeiten sowie Meterware für Bekleidung und Wäsche
+52.42 Einzelhandel mit Bekleidung
+52.42.1 Einzelhandel mit Bekleidung, ohne ausgeprägten Schwerpunkt
+52.42.2 Einzelhandel mit Herrenbekleidung und Bekleidungszubehör
+52.42.3 Einzelhandel mit Damenbekleidung und Bekleidungszubehör
+52.42.4 Einzelhandel mit Kinder- und Säuglingsbekleidung und Bekleidungszubehör
+52.42.5 Einzelhandel mit Kürschnerwaren
+52.43 Einzelhandel mit Schuhen und Lederwaren
+52.43.1 Einzelhandel mit Schuhen
+52.43.2 Einzelhandel mit Leder- und Täschnerwaren
+52.44 Einzelhandel mit Möbeln, Einrichtungsgegenständen und Hausrat, anderweitig nicht genannt
+52.44.1 Einzelhandel mit Wohnmöbeln
+52.44.2 Einzelhandel mit Beleuchtungsartikeln
+52.44.3 Einzelhandel mit Haushaltsgegenständen
+52.44.4 Einzelhandel mit keramischen Erzeugnissen und Glaswaren
+52.44.6 Einzelhandel mit Holz-, Kork-, Flecht- und Korbwaren
+52.44.7 Einzelhandel mit Heimtextilien
+52.45 Einzelhandel mit elektrischen Haushaltsgeräten, Geräten der Unterhaltungselektronik und Musikinstrumenten
+52.45.1 Einzelhandel mit elektrischen Haushaltsgeräten und elektrotechnischen Erzeugnissen, anderweitig nicht genannt
+52.45.2 Einzelhandel mit Geräten der Unterhaltungselektronik und Zubehör
+52.45.3 Einzelhandel mit Musikinstrumenten und Musikalien
+52.46 Einzelhandel mit Metallwaren, Anstrichmitteln, Bau- und Heimwerkerbedarf
+52.46.1 Einzelhandel mit Eisen-, Metall- und Kunststoffwaren, anderweitig nicht genannt
+52.46.2 Einzelhandel mit Anstrichmitteln
+52.46.3 Einzelhandel mit Bau- und Heimwerkerbedarf
+52.47 Einzelhandel mit Büchern, Zeitschriften, Zeitungen, Schreibwaren und Bürobedarf
+52.47.1 Einzelhandel mit Schreib- und Papierwaren, Schul- und Büroartikeln
+52.47.2 Einzelhandel mit Büchern und Fachzeitschriften
+52.47.3 Einzelhandel mit Unterhaltungszeitschriften und Zeitungen
+52.48 Einzelhandel mit Tapeten, Bodenbelägen, Kunstgegenständen, Briefmarken, Münzen, Geschenkartikeln, Uhren, Schmuck und Spielwaren
+52.48.1 Einzelhandel mit Tapeten und Bodenbelägen
+52.48.2 Einzelhandel mit Kunstgegenständen, Bildern, kunstgewerblichen Erzeugnissen, Briefmarken, Münzen und Geschenkartikeln
+52.48.5 Einzelhandel mit Uhren, Edelmetallwaren und Schmuck
+52.48.6 Einzelhandel mit Spielwaren
+52.49 Facheinzelhandel, anderweitig nicht genannt (in Verkaufsräumen)
+52.49.1 Einzelhandel mit Blumen, Pflanzen und Saatgut
+52.49.2 Einzelhandel mit zoologischem Bedarf und lebenden Tieren
+52.49.3 Augenoptiker
+52.49.4 Einzelhandel mit Foto- und optischen Erzeugnissen (ohne Augenoptiker)
+52.49.5 Einzelhandel mit Computern, Computerteilen, peripheren Einheiten und Software
+52.49.6 Einzelhandel mit Telekommunikationsendgeräten und Mobiltelefonen
+52.49.7 Einzelhandel mit Fahrrädern, Fahrradteilen und -zubehör
+52.49.8 Einzelhandel mit Sport- und Campingartikeln (ohne Campingmöbel)
+52.49.9 Sonstiger Facheinzelhandel, anderweitig nicht genannt (in Verkaufsräumen)
+52.5 Einzelhandel mit Antiquitäten und Gebrauchtwaren (in Verkaufsräumen)
+52.50 Einzelhandel mit Antiquitäten und Gebrauchtwaren (in Verkaufsräumen)
+52.50.1 Einzelhandel mit Antiquitäten und antiken Teppichen
+52.50.2 Antiquariate
+52.50.3 Einzelhandel mit sonstigen Gebrauchtwaren
+52.6 Einzelhandel (nicht in Verkaufsräumen)
+52.61 Versandhandel
+52.61.1 Versandhandel mit Waren, ohne ausgeprägten Schwerpunkt
+52.61.2 Versandhandel mit Textilien, Bekleidung, Schuhen und Lederwaren
+52.61.3 Sonstiger Fachversandhandel
+52.62 Einzelhandel an Verkaufsständen und auf Märkten
+52.62.1 Einzelhandel mit Nahrungsmitteln und Getränken an Verkaufsständen und auf Märkten
+52.62.2 Sonstiger Einzelhandel an Verkaufsständen und auf Märkten
+52.63 Sonstiger Einzelhandel (nicht in Verkaufsräumen)
+52.63.1 Einzelhandel vom Lager mit Brennstoffen
+52.63.4 Sonstiger Einzelhandel, anderweitig nicht genannt (nicht in Verkaufsräumen)
+52.7 Reparatur von Gebrauchsgütern
+52.71 Reparatur von Schuhen und Lederwaren
+52.71.0 Reparatur von Schuhen und Lederwaren
+52.72 Reparatur von elektrischen Haushaltsgeräten
+52.72.1 Reparatur von elektrischen Haushaltsgeräten (ohne Geräte der Unterhaltungselektronik)
+52.72.2 Reparatur von Geräten der Unterhaltungselektronik
+52.73 Reparatur von Uhren und Schmuck
+52.73.0 Reparatur von Uhren und Schmuck
+52.74 Reparatur von sonstigen Gebrauchsgütern
+52.74.1 Reparatur von Fahrrädern
+52.74.2 Reparatur von sonstigen Gebrauchsgütern, anderweitig nicht genannt
+
+H Gastgewerbe
+HA Gastgewerbe
+
+55 Gastgewerbe
+55.1 Hotellerie
+55.10 Hotellerie
+55.10.1 Hotels (ohne Hotels garnis)
+55.10.2 Hotels garnis
+55.10.3 Gasthöfe
+55.10.4 Pensionen
+55.2 Sonstiges Beherbergungsgewerbe
+55.21 Jugendherbergen und Hütten
+55.21.0 Jugendherbergen und Hütten
+55.22 Campingplätze
+55.22.0 Campingplätze
+55.23 Beherbergungsgewerbe, anderweitig nicht genannt
+55.23.1 Erholungs- und Ferienheime
+55.23.2 Ferienzentren
+55.23.3 Ferienhäuser und Ferienwohnungen
+55.23.4 Privatquartiere
+55.23.6 Boardinghouses
+55.23.7 Sonstiges Beherbergungsgewerbe, anderweitig nicht genannt
+55.3 Speisengeprägte Gastronomie
+55.30 Speisengeprägte Gastronomie
+55.30.1 Restaurants mit herkömmlicher Bedienung
+55.30.2 Restaurants mit Selbstbedienung
+55.30.3 Cafés
+55.30.4 Eissalons
+55.30.5 Imbissstuben
+55.4 Getränkegeprägte Gastronomie
+55.40 Getränkegeprägte Gastronomie
+55.40.1 Schankwirtschaften
+55.40.3 Diskotheken und Tanzlokale
+55.40.5 Bars
+55.40.6 Vergnügungslokale
+55.40.7 Sonstige getränkegeprägte Gastronomie
+55.5 Kantinen und Caterer
+55.51 Kantinen
+55.51.0 Kantinen
+55.52 Caterer
+55.52.0 Caterer
+
+I Verkehr und Nachrichtenübermittlung
+IA Verkehr und Nachrichtenübermittlung
+
+60 Landverkehr; Transport in Rohrfernleitungen
+60.1 Eisenbahnverkehr
+60.10 Eisenbahnverkehr
+60.10.0 Eisenbahnverkehr
+60.2 Sonstiger Landverkehr
+60.21 Personenbeförderung im Linienverkehr zu Land
+60.21.1 Personenbeförderung im Omnibus-Orts- und -Nachbarortslinienverkehr
+60.21.2 Personenbeförderung im Omnibus-Überlandlinienverkehr
+60.21.3 Personenbeförderung mit Stadtschnellbahnen und Straßenbahnen
+60.21.4 Berg- und Seilbahnen
+60.22 Betrieb von Taxis und Mietwagen mit Fahrer
+60.22.0 Betrieb von Taxis und Mietwagen mit Fahrer
+60.23 Sonstige Personenbeförderung im Landverkehr
+60.23.1 Personenbeförderung im Omnibus-Gelegenheitsverkehr
+60.23.2 Personenbeförderung im Landverkehr, anderweitig nicht genannt
+60.24 Güterbeförderung im Straßenverkehr
+60.24.5 Erlaubnispflichtiger gewerblicher Güterkraftverkehr
+60.24.6 Erlaubnisfreier und freigestellter Straßengüterverkehr
+60.3 Transport in Rohrfernleitungen
+60.30 Transport in Rohrfernleitungen
+60.30.0 Transport in Rohrfernleitungen
+61 Schifffahrt
+61.1 See- und Küstenschifffahrt
+61.10 See- und Küstenschifffahrt
+61.10.0 See- und Küstenschifffahrt
+61.2 Binnenschifffahrt
+61.20 Binnenschifffahrt
+61.20.1 Personenbeförderung in der Binnenschifffahrt
+61.20.2 Güterbeförderung in der Binnenschifffahrt durch Reedereien
+61.20.3 Güterbeförderung in der Binnenschifffahrt durch Partikuliere
+61.20.4 Fluss- und Kanalfähren, Hafenschifffahrt
+62 Luftfahrt
+62.1 Linienflugverkehr
+62.10 Linienflugverkehr
+62.10.0 Linienflugverkehr
+62.2 Gelegenheitsflugverkehr
+62.20 Gelegenheitsflugverkehr
+62.20.0 Gelegenheitsflugverkehr
+62.3 Raumtransport
+62.30 Raumtransport
+62.30.0 Raumtransport
+63 Hilfs- und Nebentätigkeiten für den Verkehr; Verkehrsvermittlung
+63.1 Frachtumschlag und Lagerei
+63.11 Frachtumschlag
+63.11.0 Frachtumschlag
+63.12 Lagerei
+63.12.1 Lagerei (ohne Kühlhäuser)
+63.12.2 Kühlhäuser
+63.2 Sonstige Hilfs- und Nebentätigkeiten für den Verkehr
+63.21 Sonstige Hilfs- und Nebentätigkeiten für den Landverkehr
+63.21.1 Parkhäuser und Parkplätze
+63.21.2 Hilfs- und Nebentätigkeiten für den Landverkehr, anderweitig nicht genannt
+63.22 Sonstige Hilfs- und Nebentätigkeiten für die Schifffahrt
+63.22.1 Sonstige Hilfs- und Nebentätigkeiten für die Binnenschifffahrt
+63.22.2 Seehafenbetriebe
+63.22.3 Bugsier- und Bergungsschifffahrt
+63.22.4 Lotsbetriebe
+63.23 Sonstige Hilfs- und Nebentätigkeiten für die Luftfahrt
+63.23.1 Flughafenbetriebe
+63.23.2 Landeplätze für Luftfahrzeuge
+63.23.3 Hilfs- und Nebentätigkeiten für die Luftfahrt, anderweitig nicht genannt
+63.3 Reisebüros und Reiseveranstalter
+63.30 Reisebüros und Reiseveranstalter
+63.30.1 Reisebüros
+63.30.2 Reiseveranstalter und Fremdenführung
+63.4 Spedition, sonstige Verkehrsvermittlung
+63.40 Spedition, sonstige Verkehrsvermittlung
+63.40.1 Spedition
+63.40.2 Schiffsmaklerbüros und -agenturen
+63.40.4 Logistische Dienstleistungen, anderweitig nicht genannt
+63.40.5 Verkehrsvermittlung, anderweitig nicht genannt
+64 Nachrichtenübermittlung
+64.1 Postverwaltung und private Post- und Kurierdienste
+64.11 Postverwaltung
+64.11.0 Postverwaltung
+64.12 Private Post- und Kurierdienste
+64.12.1 Briefdienste
+64.12.2 Zeitungsdienste
+64.12.3 Paketdienste
+64.12.5 Expressdienste
+64.12.6 Kurierdienste
+64.12.7 Erbringung von sonstigen postalischen Dienstleistungen
+64.3 Fernmeldedienste
+64.30 Fernmeldedienste
+64.30.1 Erbringung von festnetzgebundenen Telekommunikationsdienstleistungen
+64.30.2 Erbringung von Mobilfunkdienstleistungen
+64.30.3 Erbringung von Satellitenfunkdienstleistungen
+64.30.4 Erbringung von sonstigen Telekommunikationsdienstleistungen
+
+J Kredit- und Versicherungsgewerbe
+JA Kredit- und Versicherungsgewerbe
+
+65 Kreditgewerbe
+65.1 Zentralbanken und Kreditinstitute
+65.11 Zentralbanken
+65.11.0 Zentralbanken
+65.12 Kreditinstitute (ohne Spezialkreditinstitute)
+65.12.1 Kreditbanken einschließlich Zweigstellen ausländischer Banken
+65.12.2 Girozentralen
+65.12.3 Sparkassen
+65.12.4 Genossenschaftliche Zentralbanken
+65.12.5 Kreditgenossenschaften
+65.12.6 Realkreditinstitute
+65.12.7 Kreditinstitute mit Sonderaufgaben
+65.12.9 Bausparkassen
+65.2 Sonstige Finanzierungsinstitutionen
+65.21 Institutionen für Finanzierungsleasing
+65.21.0 Institutionen für Finanzierungsleasing
+65.22 Spezialkreditinstitute
+65.22.0 Spezialkreditinstitute
+65.23 Finanzierungsinstitutionen, anderweitig nicht genannt
+65.23.1 Kapitalanlagegesellschaften
+65.23.2 Leihhäuser
+65.23.3 Sonstige Finanzierungsinstitutionen, anderweitig nicht genannt
+66 Versicherungsgewerbe
+66.0 Versicherungsgewerbe
+66.01 Lebensversicherungen
+66.01.1 Lebensversicherungen (ohne Rückversicherungen)
+66.01.2 Rückversicherungen für die Lebensversicherungen
+66.02 Pensions- und Sterbekassen
+66.02.0 Pensions- und Sterbekassen
+66.03 Sonstiges Versicherungsgewerbe
+66.03.1 Krankenversicherungen
+66.03.2 Schaden- und Unfallversicherungen
+66.03.3 Rückversicherungen für das sonstige Versicherungsgewerbe
+67 Mit dem Kredit- und Versicherungsgewerbe verbundene Tätigkeiten
+67.1 Mit dem Kreditgewerbe verbundene Tätigkeiten
+67.11 Effekten- und Warenbörsen
+67.11.0 Effekten- und Warenbörsen
+67.12 Effektenvermittlung und -verwaltung (ohne Effektenverwahrung)
+67.12.0 Effektenvermittlung und -verwaltung (ohne Effektenverwahrung)
+67.13 Sonstige mit dem Kreditgewerbe verbundene Tätigkeiten
+67.13.0 Sonstige mit dem Kreditgewerbe verbundene Tätigkeiten
+67.2 Mit dem Versicherungsgewerbe verbundene Tätigkeiten
+67.20 Mit dem Versicherungsgewerbe verbundene Tätigkeiten
+67.20.1 Versicherungsvertreter
+67.20.2 Versicherungsmakler
+67.20.3 Sonstige mit dem Versicherungsgewerbe verbundene Tätigkeiten
+
+K Grundstücks- und Wohnungswesen, Vermietung beweglicher Sachen, Erbringung von wirtschaftlichen Dienstleistungen, anderweitig nicht genannt
+KA Grundstücks- und Wohnungswesen, Vermietung beweglicher Sachen, Erbringung von wirtschaftlichen Dienstleistungen, anderweitig nicht genannt
+
+70 Grundstücks- und Wohnungswesen
+70.1 Erschließung, Kauf und Verkauf von Grundstücken, Gebäuden und Wohnungen
+70.11 Erschließung von Grundstücken
+70.11.1 Erschließung von unbebauten Grundstücken
+70.11.2 Bauträger für Nichtwohngebäude
+70.11.3 Bauträger für Wohngebäude
+70.12 Kauf und Verkauf von eigenen Grundstücken, Gebäuden und Wohnungen
+70.12.1 Kauf und Verkauf von eigenen Grundstücken und Nichtwohngebäuden
+70.12.2 Kauf und Verkauf von eigenen Wohngebäuden und Wohnungen
+70.2 Vermietung und Verpachtung von eigenen Grundstücken, Gebäuden und Wohnungen
+70.20 Vermietung und Verpachtung von eigenen Grundstücken, Gebäuden und Wohnungen
+70.20.1 Vermietung und Verpachtung von eigenen Grundstücken und Nichtwohngebäuden
+70.20.2 Vermietung und Verpachtung von eigenen Wohngebäuden und Wohnungen
+70.3 Vermittlung und Verwaltung von fremden Grundstücken, Gebäuden und Wohnungen
+70.31 Vermittlung von fremden Grundstücken, Gebäuden und Wohnungen
+70.31.0 Vermittlung von fremden Grundstücken, Gebäuden und Wohnungen
+70.32 Verwaltung von fremden Grundstücken, Gebäuden und Wohnungen
+70.32.0 Verwaltung von fremden Grundstücken, Gebäuden und Wohnungen
+71 Vermietung beweglicher Sachen ohne Bedienungspersonal
+71.1 Vermietung von Kraftwagen bis 3,5 t Gesamtgewicht
+71.10 Vermietung von Kraftwagen bis 3,5 t Gesamtgewicht
+71.10.0 Vermietung von Kraftwagen bis 3,5 t Gesamtgewicht
+71.2 Vermietung von sonstigen Verkehrsmitteln
+71.21 Vermietung von Landfahrzeugen (ohne Kraftwagen bis 3,5 t Gesamtgewicht)
+71.21.0 Vermietung von Landfahrzeugen (ohne Kraftwagen bis 3,5 t Gesamtgewicht)
+71.22 Vermietung von Wasserfahrzeugen
+71.22.0 Vermietung von Wasserfahrzeugen
+71.23 Vermietung von Luftfahrzeugen
+71.23.0 Vermietung von Luftfahrzeugen
+71.3 Vermietung von Maschinen und Geräten
+71.31 Vermietung von landwirtschaftlichen Maschinen und Geräten
+71.31.0 Vermietung von landwirtschaftlichen Maschinen und Geräten
+71.32 Vermietung von Baumaschinen und -geräten
+71.32.0 Vermietung von Baumaschinen und -geräten
+71.33 Vermietung von Büromaschinen, Datenverarbeitungsgeräten und -einrichtungen
+71.33.0 Vermietung von Büromaschinen, Datenverarbeitungsgeräten und -einrichtungen
+71.34 Vermietung von sonstigen Maschinen und Geräten
+71.34.0 Vermietung von sonstigen Maschinen und Geräten
+71.4 Vermietung von Gebrauchsgütern, anderweitig nicht genannt
+71.40 Vermietung von Gebrauchsgütern, anderweitig nicht genannt
+71.40.1 Verleih von Wäsche und Arbeitskleidung
+71.40.2 Verleih von Sportgeräten und Fahrrädern
+71.40.3 Leihbüchereien und Lesezirkel
+71.40.4 Videotheken
+71.40.5 Vermietung von sonstigen Gebrauchsgütern, anderweitig nicht genannt
+72 Datenverarbeitung und Datenbanken
+72.1 Hardwareberatung
+72.10 Hardwareberatung
+72.10.0 Hardwareberatung
+72.2 Softwarehäuser
+72.21 Verlegen von Software
+72.21.0 Verlegen von Software
+72.22 Softwareberatung und -entwicklung
+72.22.1 Softwareberatung
+72.22.2 Entwicklung und Programmierung von Internetpräsentationen
+72.22.3 Sonstige Softwareentwicklung
+72.3 Datenverarbeitungsdienste
+72.30 Datenverarbeitungsdienste
+72.30.1 Datenerfassungsdienste
+72.30.3 Bereitstellungsdienste für Teilnehmersysteme
+72.30.5 Sonstige Datenverarbeitungsdienste
+72.4 Datenbanken
+72.40 Datenbanken
+72.40.0 Datenbanken
+72.5 Instandhaltung und Reparatur von Büromaschinen, Datenverarbeitungsgeräten und -einrichtungen
+72.50 Instandhaltung und Reparatur von Büromaschinen, Datenverarbeitungsgeräten und -einrichtungen
+72.50.0 Instandhaltung und Reparatur von Büromaschinen, Datenverarbeitungsgeräten und -einrichtungen
+72.6 Sonstige mit der Datenverarbeitung verbundene Tätigkeiten
+72.60 Sonstige mit der Datenverarbeitung verbundene Tätigkeiten
+72.60.1 Informationsvermittlung
+72.60.2 Mit der Datenverarbeitung verbundene Tätigkeiten, anderweitig nicht genannt
+73 Forschung und Entwicklung
+73.1 Forschung und Entwicklung im Bereich Natur-, Ingenieur-, Agrarwissenschaften und Medizin
+73.10 Forschung und Entwicklung im Bereich Natur-, Ingenieur-, Agrarwissenschaften und Medizin
+73.10.1 Forschung und Entwicklung im Bereich Naturwissenschaften und Mathematik
+73.10.2 Forschung und Entwicklung im Bereich Ingenieurwissenschaften
+73.10.3 Forschung und Entwicklung im Bereich Agrar-, Forst- und Ernährungswissenschaften
+73.10.4 Forschung und Entwicklung im Bereich Medizin
+73.10.5 Forschung und Entwicklung im Umweltbereich
+73.2 Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und Kunstwissenschaften
+73.20 Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und Kunstwissenschaften
+73.20.1 Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften
+73.20.2 Forschung und Entwicklung im Bereich Sprach-, Kultur- und Kunstwissenschaften
+74 Erbringung von wirtschaftlichen Dienstleistungen, anderweitig nicht genannt
+74.1 Rechts-, Steuer- und Unternehmensberatung, Wirtschaftsprüfung, Buchführung, Markt- und Meinungsforschung, Managementtätigkeiten von Holdinggesellschaften
+74.11 Rechtsberatung
+74.11.1 Rechtsanwaltskanzleien mit Notariat
+74.11.2 Rechtsanwaltskanzleien ohne Notariat
+74.11.3 Notariate
+74.11.4 Patentanwaltskanzleien
+74.11.5 Sonstige Rechtsberatung
+74.12 Wirtschafts- und Buchprüfung und Steuerberatung; Buchführung
+74.12.1 Praxen von Wirtschaftsprüferinnen und -prüfern, Wirtschaftsprüfungsgesellschaften
+74.12.2 Praxen von vereidigten Buchprüferinnen und -prüfern, Buchprüfungsgesellschaften
+74.12.3 Praxen von Steuerberaterinnen und -beratern, Steuerberatungsgesellschaften
+74.12.4 Praxen von Steuerbevollmächtigten
+74.12.5 Buchführung (ohne Datenverarbeitungsdienste)
+74.13 Markt- und Meinungsforschung
+74.13.1 Marktforschung
+74.13.2 Meinungsforschung
+74.14 Unternehmens- und Public-Relations-Beratung
+74.14.1 Unternehmensberatung
+74.14.2 Public-Relations-Beratung
+74.15 Managementtätigkeiten von Holdinggesellschaften
+74.15.1 Managementtätigkeiten von Holdinggesellschaften mit Schwerpunkt im Produzierenden Gewerbe
+74.15.2 Managementtätigkeiten von sonstigen Holdinggesellschaften (ohne geschlossene Immobilienfonds)
+74.15.3 Geschlossene Immobilienfonds mit Nichtwohngebäuden
+74.15.4 Geschlossene Immobilienfonds mit Wohngebäuden
+74.15.5 Komplementärgesellschaften
+74.15.6 Verwaltung und Führung von Unternehmen und Betrieben
+74.2 Architektur- und Ingenieurbüros
+74.20 Architektur- und Ingenieurbüros
+74.20.1 Architekturbüros für Hochbau und für Innenarchitektur
+74.20.2 Architekturbüros für Orts-, Regional- und Landesplanung
+74.20.3 Architekturbüros für Garten- und Landschaftsgestaltung
+74.20.4 Ingenieurbüros für bautechnische Gesamtplanung
+74.20.5 Ingenieurbüros für technische Fachplanung
+74.20.6 Büros für Industrie-Design
+74.20.7 Büros baufachlicher Sachverständiger
+74.20.8 Büros für technisch-wirtschaftliche Beratung
+74.20.9 Vermessungsbüros
+74.3 Technische, physikalische und chemische Untersuchung
+74.30 Technische, physikalische und chemische Untersuchung
+74.30.1 Technische Untersuchung und Beratung
+74.30.2 Physikalische Untersuchung und Beratung
+74.30.3 Chemische Untersuchung und Beratung
+74.30.4 Betrieb von Messnetzen und Messstationen
+74.4 Werbung
+74.40 Werbung
+74.40.1 Werbegestaltung
+74.40.2 Werbemittelverbreitung und Werbevermittlung
+74.5 Personal- und Stellenvermittlung, Überlassung von Arbeitskräften
+74.50 Personal- und Stellenvermittlung, Überlassung von Arbeitskräften
+74.50.1 Personal- und Stellenvermittlung
+74.50.2 Überlassung von Arbeitskräften
+74.6 Wach- und Sicherheitsdienste sowie Detekteien
+74.60 Wach- und Sicherheitsdienste sowie Detekteien
+74.60.1 Detekteien
+74.60.2 Wach- und Sicherheitsdienste
+74.7 Reinigung von Gebäuden, Inventar und Verkehrsmitteln
+74.70 Reinigung von Gebäuden, Inventar und Verkehrsmitteln
+74.70.1 Reinigung von Gebäuden, Räumen und Inventar
+74.70.2 Schornsteinreinigung
+74.70.3 Reinigung von Verkehrsmitteln
+74.70.4 Desinfektion und Schädlingsbekämpfung
+74.8 Erbringung von sonstigen wirtschaftlichen Dienstleistungen, anderweitig nicht genannt
+74.81 Fotografisches Gewerbe und fotografische Laboratorien
+74.81.1 Fotografisches Gewerbe
+74.81.2 Fotografische Laboratorien
+74.82 Abfüll- und Verpackungsgewerbe
+74.82.0 Abfüll- und Verpackungsgewerbe
+74.85 Sekretariats-, Schreib- und Übersetzungsdienste; Copy-Shops
+74.85.1 Freiberufliche Dolmetscher
+74.85.2 Übersetzungsbüros
+74.85.3 Sekretariats- und Schreibdienste; Copy-Shops
+74.86 Call Centers
+74.86.0 Call Centers
+74.87 Erbringung von wirtschaftlichen Dienstleistungen für Unternehmen und Privatpersonen, anderweitig nicht genannt
+74.87.1 Ausstellungs-, Messe- und Warenmarkteinrichtungen
+74.87.2 Sachverständige, anderweitig nicht genannt
+74.87.3 Versteigerungsgewerbe
+74.87.4 Ateliers für Textil-, Schmuck-, Möbel- u.ä. Design
+74.87.5 Auskunfteien
+74.87.6 Inkassobüros
+74.87.7 Sonstige Vermögensberatung
+74.87.8 Erbringung von sonstigen wirtschaftlichen Dienstleistungen für Unternehmen und Privatpersonen, anderweitig nicht genannt
+
+L Öffentliche Verwaltung, Verteidigung, Sozialversicherung
+LA Öffentliche Verwaltung, Verteidigung, Sozialversicherung
+
+75 Öffentliche Verwaltung, Verteidigung, Sozialversicherung
+75.1 Öffentliche Verwaltung
+75.11 Allgemeine öffentliche Verwaltung
+75.11.0 Allgemeine öffentliche Verwaltung
+75.12 Öffentliche Verwaltung auf den Gebieten Gesundheitswesen, Bildung, Kultur und Sozialwesen
+75.12.2 Öffentliche Verwaltung auf den Gebieten Bildung und Kultur
+75.12.3 Öffentliche Verwaltung auf dem Gebiet Sozialwesen
+75.12.4 Öffentliche Verwaltung auf dem Gebiet Gesundheitswesen
+75.12.5 Öffentliche Verwaltung auf dem Gebiet Sport
+75.13 Wirtschaftsförderung, -ordnung und -aufsicht
+75.13.0 Wirtschaftsförderung, -ordnung und -aufsicht
+75.14 Sonstige mit der öffentlichen Verwaltung verbundene Tätigkeiten
+75.14.0 Sonstige mit der öffentlichen Verwaltung verbundene Tätigkeiten
+75.2 Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und Ordnung
+75.21 Auswärtige Angelegenheiten
+75.21.0 Auswärtige Angelegenheiten
+75.22 Verteidigung
+75.22.0 Verteidigung
+75.23 Rechtspflege
+75.23.0 Rechtspflege
+75.24 Öffentliche Sicherheit und Ordnung
+75.24.0 Öffentliche Sicherheit und Ordnung
+75.25 Feuerschutz
+75.25.0 Feuerschutz
+75.3 Sozialversicherung und Arbeitsförderung
+75.30 Sozialversicherung und Arbeitsförderung
+75.30.1 Gesetzliche Rentenversicherung (ohne knappschaftliche Rentenversicherung und Altershilfe für Landwirte)
+75.30.2 Knappschaftliche Rentenversicherung
+75.30.3 Altershilfe für Landwirte
+75.30.4 Zusatzversorgung für Angehörige des öffentlichen Dienstes
+75.30.5 Gesetzliche Krankenversicherung (ohne knappschaftliche Krankenversicherung)
+75.30.6 Knappschaftliche Krankenversicherung
+75.30.7 Gesetzliche Unfallversicherung
+75.30.8 Arbeitsförderung
+75.30.9 Sonstige Sozialversicherung
+
+M Erziehung und Unterricht
+MA Erziehung und Unterricht
+
+80 Erziehung und Unterricht
+80.1 Kindergärten, Vor- und Grundschulen
+80.10 Kindergärten, Vor- und Grundschulen
+80.10.1 Kindergärten
+80.10.2 Kinderhorte
+80.10.4 Vorklassen, Schulkindergärten
+80.10.5 Grundschulen
+80.2 Weiterführende Schulen
+80.21 Allgemein bildende weiterführende Schulen
+80.21.1 Allgemein bildende weiterführende Schulen Sekundarbereich I
+80.21.2 Allgemein bildende weiterführende Schulen Sekundarbereich II
+80.22 Berufsbildende weiterführende Schulen im Sekundarbereich
+80.22.0 Berufsbildende weiterführende Schulen im Sekundarbereich
+80.3 Hochschulen und andere Bildungseinrichtungen des Tertiärsbereichs
+80.30 Hochschulen und andere Bildungseinrichtungen des Tertiärsbereichs
+80.30.5 Universitäten
+80.30.6 Allgemeine Fachhochschulen
+80.30.7 Verwaltungsfachhochschulen
+80.30.8 Berufsakademien, Fachakademien, Schulen des Gesundheitswesens
+80.4 Erwachsenenbildung und sonstiger Unterricht
+80.41 Fahr- und Flugschulen
+80.41.1 Kraftfahrschulen
+80.41.2 Flug-, Bootsführer-, Segel- u.ä. Schulen
+80.42 Erwachsenenbildung und Unterricht, anderweitig nicht genannt
+80.42.1 Allgemeine und politische Erwachsenenbildung
+80.42.2 Berufliche Erwachsenenbildung
+80.42.3 Selbstständige Lehrerinnen und Lehrer
+80.42.4 Unterricht, anderweitig nicht genannt
+
+N Gesundheits-, Veterinär- und Sozialwesen
+NA Gesundheits-, Veterinär- und Sozialwesen
+
+85 Gesundheits-, Veterinär- und Sozialwesen
+85.1 Gesundheitswesen
+85.11 Krankenhäuser
+85.11.1 Krankenhäuser (ohne Hochschulkliniken sowie Vorsorge- und Rehabilitationskliniken)
+85.11.2 Hochschulkliniken
+85.11.3 Vorsorge- und Rehabilitationskliniken
+85.12 Arztpraxen (ohne Zahnarztpraxen)
+85.12.1 Arztpraxen für Allgemeinmedizin und Praxen von praktischen Ärztinnen und Ärzten
+85.12.2 Facharztpraxen (ohne Arztpraxen für Allgemeinmedizin)
+85.13 Zahnarztpraxen
+85.13.0 Zahnarztpraxen
+85.14 Gesundheitswesen, anderweitig nicht genannt
+85.14.1 Praxen von psychologischen Psychotherapeutinnen und -therapeuten
+85.14.2 Massagepraxen, Praxen von medizinischen Bademeisterinnen und Bademeistern, Krankengymnastikpraxen, Praxen von Hebammen und Entbindungspflegern sowie von verwandten Berufen
+85.14.3 Heilpraktikerpraxen
+85.14.4 Sonstige selbstständige Tätigkeiten im Gesundheitswesen
+85.14.5 Krankentransport- und Rettungsdienste
+85.14.6 Sonstige Anstalten und Einrichtungen des Gesundheitswesens
+85.2 Veterinärwesen
+85.20 Veterinärwesen
+85.20.1 Tierarztpraxen
+85.20.2 Sonstige selbstständige Tätigkeiten im Veterinärwesen
+85.20.3 Anstalten und Einrichtungen des Veterinärwesens
+85.3 Sozialwesen
+85.31 Heime (ohne Erholungs- und Ferienheime)
+85.31.1 Jugendwohnheime
+85.31.2 Erziehungsheime
+85.31.3 Altenwohnheime
+85.31.4 Altenheime
+85.31.5 Altenpflegeheime
+85.31.6 Heime für werdende Mütter sowie Mütter oder Väter mit Kind
+85.31.7 Einrichtungen zur Eingliederung und Pflege Behinderter
+85.31.8 Wohnheime für Behinderte
+85.31.9 Sonstige Heime (ohne Erholungs- und Ferienheime)
+85.32 Sozialwesen, anderweitig nicht genannt
+85.32.1 Tagesstätten (ohne Kinderkrippen, Kindergärten, Kinderhorte und Jugendzentren)
+85.32.2 Kinderkrippen und außerhäusliche Kinderbetreuung, anderweitig nicht genannt
+85.32.3 Jugendzentren und Häuser der offenen Tür
+85.32.4 Erziehungs-, Jugend- und Familienberatungsstellen
+85.32.5 Sonstige soziale Beratungsstellen
+85.32.6 Ambulante soziale Dienste
+85.32.7 Organisationen der freien Wohlfahrtspflege und Jugendhilfe
+85.32.8 Unterstützungskassen
+85.32.9 Sonstiges Sozialwesen, anderweitig nicht genannt
+
+O Erbringung von sonstigen öffentlichen und persönlichen Dienstleistungen
+OA Erbringung von sonstigen öffentlichen und persönlichen Dienstleistungen
+
+90 Abwasser- und Abfallbeseitigung und sonstige Entsorgung
+90.0 Abwasser- und Abfallbeseitigung und sonstige Entsorgung
+90.01 Abwasserbeseitigung
+90.01.1 Kläranlagen
+90.01.2 Sammelkanalisation
+90.02 Abfallbeseitigung
+90.02.1 Sammlung, Beförderung und Zwischenlagerung von Abfällen
+90.02.2 Thermische Abfallbeseitigung
+90.02.3 Abfalldeponien
+90.02.4 Biologische Abfallbeseitigung
+90.02.5 Sonstige Abfallbeseitigung
+90.03 Beseitigung von Umweltverschmutzungen und sonstige Entsorgung
+90.03.0 Beseitigung von Umweltverschmutzungen und sonstige Entsorgung
+91 Interessenvertretungen sowie kirchliche und sonstige Vereinigungen (ohne Sozialwesen, Kultur und Sport)
+91.1 Wirtschafts- und Arbeitgeberverbände, Berufsorganisationen
+91.11 Wirtschafts- und Arbeitgeberverbände
+91.11.1 Wirtschaftsverbände (ohne öffentlich-rechtliche Wirtschaftsvertretungen)
+91.11.2 Öffentlich-rechtliche Wirtschaftsvertretungen
+91.11.3 Arbeitgeberverbände
+91.12 Berufsorganisationen
+91.12.1 Berufsorganisationen (ohne öffentlich-rechtliche Berufsvertretungen)
+91.12.2 Öffentlich-rechtliche Berufsvertretungen
+91.2 Arbeitnehmervereinigungen
+91.20 Arbeitnehmervereinigungen
+91.20.0 Arbeitnehmervereinigungen
+91.3 Kirchliche Vereinigungen; politische Parteien sowie sonstige Interessenvertretungen und Vereinigungen, anderweitig nicht genannt
+91.31 Kirchliche und sonstige religiöse Vereinigungen
+91.31.1 Kirchen und kirchlich-religiöse Vereinigungen
+91.31.2 Sonstige religiöse und weltanschauliche Vereinigungen
+91.32 Politische Parteien und Vereinigungen
+91.32.0 Politische Parteien und Vereinigungen
+91.33 Interessenvertretungen und Vereinigungen, anderweitig nicht genannt
+91.33.1 Organisationen der Bildung, Wissenschaft, Forschung und Kultur
+91.33.2 Organisationen des Gesundheitswesens
+91.33.3 Jugendorganisationen
+91.33.4 Verbraucherorganisationen
+91.33.5 Kommunale Spitzen- und Regionalverbände
+91.33.6 Verbände der Sozialversicherungsträger
+91.33.7 Sonstige Interessenvertretungen und Vereinigungen, anderweitig nicht genannt
+92 Kultur, Sport und Unterhaltung
+92.1 Film- und Videofilmherstellung, -verleih und -vertrieb; Kinos
+92.11 Film- und Videofilmherstellung
+92.11.1 Herstellung von Kinofilmen
+92.11.2 Herstellung von Fernsehfilmen
+92.11.3 Herstellung von Industrie-, Wirtschafts- und Werbefilmen
+92.11.4 Sonstige Filmherstellung
+92.11.5 Filmtechnik
+92.11.6 Tonstudios
+92.12 Filmverleih und Videoprogrammanbieter
+92.12.1 Filmverleih
+92.12.2 Videoprogrammanbieter
+92.12.3 Filmvertrieb
+92.13 Kinos
+92.13.0 Kinos
+92.2 Rundfunkveranstalter, Herstellung von Hörfunk- und Fernsehprogrammen
+92.20 Rundfunkveranstalter, Herstellung von Hörfunk- und Fernsehprogrammen
+92.20.1 Rundfunkveranstalter
+92.20.2 Herstellung von Hörfunk- und Fernsehprogrammen
+92.3 Erbringung von sonstigen kulturellen und unterhaltenden Leistungen
+92.31 Künstlerische und schriftstellerische Tätigkeiten und Darbietungen
+92.31.1 Theaterensembles
+92.31.2 Ballettgruppen, Orchester, Kapellen und Chöre
+92.31.3 Selbstständige bildende Künstlerinnen und Künstler
+92.31.4 Selbstständige Restauratorinnen und Restauratoren
+92.31.5 Selbstständige Komponistinnen, Komponisten, Musikbearbeiterinnen und Musikbearbeiter
+92.31.6 Selbstständige Schriftstellerinnen und Schriftsteller
+92.31.7 Selbstständige Bühnen-, Film-, Hörfunk- und Fernsehkünstlerinnen und -künstler
+92.31.8 Selbstständige Artistinnen und Artisten
+92.32 Betrieb von Kultur- und Unterhaltungseinrichtungen und Hilfsdienste dafür
+92.32.1 Theater- und Konzertveranstalter
+92.32.2 Opern- und Schauspielhäuser, Konzerthallen und ähnliche Einrichtungen
+92.32.3 Varietés und Kleinkunstbühnen
+92.32.5 Technische Hilfsdienste für kulturelle und unterhaltende Leistungen
+92.33 Schaustellergewerbe und Vergnügungsparks
+92.33.0 Schaustellergewerbe und Vergnügungsparks
+92.34 Erbringung von kulturellen und unterhaltenden Leistungen, anderweitig nicht genannt
+92.34.1 Tanzschulen
+92.34.2 Erbringung von sonstigen kulturellen und unterhaltenden Leistungen, anderweitig nicht genannt
+92.4 Korrespondenz- und Nachrichtenbüros, selbstständige Journalistinnen und Journalisten
+92.40 Korrespondenz- und Nachrichtenbüros, selbstständige Journalistinnen und Journalisten
+92.40.1 Korrespondenz- und Nachrichtenbüros
+92.40.2 Selbstständige Journalistinnen, Journalisten, Pressefotografinnen und Pressefotografen
+92.5 Bibliotheken, Archive, Museen, botanische und zoologische Gärten
+92.51 Bibliotheken und Archive
+92.51.0 Bibliotheken und Archive
+92.52 Museen und Denkmalschutzeinrichtungen
+92.52.1 Museen und Kunstausstellungen
+92.52.2 Denkmalschutzeinrichtungen
+92.53 Botanische und zoologische Gärten sowie Naturparks
+92.53.1 Botanische und zoologische Gärten
+92.53.2 Naturparks und Tiergehege
+92.53.3 Natur- und Landschaftsschutz
+92.6 Sport
+92.61 Betrieb von Sportanlagen
+92.61.0 Betrieb von Sportanlagen
+92.62 Erbringung von sonstigen Dienstleistungen des Sports
+92.62.1 Sportverbände und Sportvereine
+92.62.2 Professionelle Sportmannschaften und Rennställe
+92.62.3 Selbstständige Berufssportlerinnen und -sportler sowie -trainerinnen und -trainer
+92.62.4 Sportpromoter und sonstige professionelle Sportveranstalter
+92.62.5 Sportschulen und selbstständige Sportlehrerinnen und -lehrer
+92.7 Erbringung von sonstigen Dienstleistungen für Unterhaltung, Erholung und Freizeit
+92.71 Spiel-, Wett- und Lotteriewesen
+92.71.1 Spielhallen und Betrieb von Spielautomaten
+92.71.2 Spielbanken und Spielklubs
+92.71.3 Wett-, Toto- und Lotteriewesen
+92.72 Erbringung von Dienstleistungen für Unterhaltung, Erholung und Freizeit, anderweitig nicht genannt
+92.72.1 Garten- und Grünanlagen
+92.72.2 Erbringung von sonstigen Dienstleistungen für Unterhaltung, Erholung und Freizeit, anderweitig nicht genannt
+93 Erbringung von sonstigen Dienstleistungen
+93.0 Erbringung von sonstigen Dienstleistungen
+93.01 Wäscherei und chemische Reinigung
+93.01.1 Wäscherei
+93.01.2 Annahmestellen für Wäscherei
+93.01.3 Chemische Reinigung und Bekleidungsfärberei
+93.01.4 Annahmestellen für chemische Reinigung und Bekleidungsfärberei
+93.01.5 Heißmangelei und Bügelei
+93.02 Frisör- und Kosmetiksalons
+93.02.4 Kosmetiksalons
+93.02.5 Frisörsalons
+93.03 Bestattungswesen
+93.03.1 Bestattungsinstitute
+93.03.2 Friedhöfe und Krematorien
+93.04 Saunas, Solarien, Fitnesszentren u.Ä.
+93.04.1 Bäder und Saunas (ohne medizinische Bäder)
+93.04.2 Solarien, Massagesalons (ohne medizinische Massagen), Fitnesszentren u.Ä.
+93.05 Erbringung von Dienstleistungen, anderweitig nicht genannt
+93.05.1 Ehevermittlungsinstitute
+93.05.2 Erbringung von sonstigen persönlichen Dienstleistungen
+93.05.3 Erbringung von sonstigen Dienstleistungen, anderweitig nicht genannt
+
+P Private Haushalte mit Hauspersonal
+PA Private Haushalte mit Hauspersonal
+
+95 Private Haushalte mit Hauspersonal
+95.0 Private Haushalte mit Hauspersonal
+95.00 Private Haushalte mit Hauspersonal
+95.00.2 Private Haushalte mit Hauspersonal zur Kinderbetreuung
+95.00.3 Private Haushalte mit sonstigem Hauspersonal
+
+Q Exterritoriale Organisationen und Körperschaften
+QA Exterritoriale Organisationen und Körperschaften
+
+99 Exterritoriale Organisationen und Körperschaften
+99.0 Exterritoriale Organisationen und Körperschaften
+99.00 Exterritoriale Organisationen und Körperschaften
+99.00.1 Vertretungen fremder Staaten
+99.00.2 Dienststellen von Stationierungsstreitkräften
+99.00.3 Internationale und supranationale Organisationen mit Behördencharakter

@@ -18,8 +18,10 @@
 # the Free Software Foundation; either version 2 or later of the GPL.
 ###################################################################### 
 
-require("config.inc");
-require("lib.inc");
+require("./include/prepend.php3");
+
+require("./include/config.inc");
+require("./include/lib.inc");
 
 $db = new DB_SourceLines;
 
