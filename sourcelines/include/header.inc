@@ -38,7 +38,7 @@ $db = new DB_SourceLines;
    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
    <meta http-equiv="expires" content="0">
    <title><?php echo $sys_name;?> - <?php echo $t->translate($sys_title);?></title>
-<link rel="stylesheet" type="text/css" href="berlios.css">
+<link rel="stylesheet" type="text/css" href="style.php">
 
 <SCRIPT LANGUAGE="JavaScript"> function addNetscapePanel() { 
       if ((typeof window.sidebar == "object") && (typeof window.sidebar.addPanel == "function")) 

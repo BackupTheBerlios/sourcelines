@@ -36,10 +36,10 @@ $sys_name = "SourceLines";
 $sys_title = "Open Source Solutions";
 $sys_url_title = "http://www.berlios.de/";
 $sys_url = "http://sourcelines.berlios.de/";
-$sys_logo_image = "images/berlios.jpg";
+$sys_logo_image = "images/berliOS_logo.png";
 $sys_logo_alt = "BerliOS";
 $sys_logo_width = "238";
-$sys_logo_heigth = "104";
+$sys_logo_heigth = "61";
 $sys_dir = "/home/groups/sourcelines/htdocs/";
 $sys_logo_dir = $sys_dir."logos/";
 $sys_logo_url = $sys_url."logos/";
@@ -98,7 +98,7 @@ $th_font_color = "#333333";
 $th_hover_font_color = "#FF0000";
 
 $th_nav_bgcolor = "#FFCC33";
-$th_navstrip_bgcolor = "#000000";
+$th_navstrip_bgcolor = "#7B7B7B";
 $th_nav_font_color = "#333333";
 $th_navstrip_font_color = "#FFFFFF";
 

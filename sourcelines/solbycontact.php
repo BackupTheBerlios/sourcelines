@@ -40,7 +40,7 @@ if (($config_perm_developer != "all") && (!isset($perm) || !$perm->have_perm($co
 } else {
 
   if (!isset($by) || empty($by)) {
-    $by = "";
+    $by = "A%";
   }
 
   $alphabet = array ("A","B","C","D","E","F","G","H","I","J","K","L",
@@ -57,7 +57,15 @@ if (($config_perm_developer != "all") && (!isset($perm) || !$perm->have_perm($co
   $bs->box_strip($msg);
   $db->query("SELECT DISTINCT solutions_contact_name,solutions_contact_email,solutions_contact_url FROM tblsolutions WHERE solutions_contact_name LIKE '$by' AND tblsolutions.solutions_name != 'no_name' ORDER BY solutions_contact_name ASC");
   $bx->box_begin();
-  $bx->box_title($t->translate("Contact"));
+  if ($by == "%") {
+    $conby = "All";
+  } else {
+    $conby = ereg_replace("%", "", $by);
+  }
+  if (empty($conby)) {
+    $conby = "Unknown";
+  }
+  $bx->box_title($t->translate("Contact").": ".$conby);
   $bx->box_body_begin();		
 ?>
 <table border=0 align=center cellspacing=1 cellpadding=1 width=100%>

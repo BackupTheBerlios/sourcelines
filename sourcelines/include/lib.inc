@@ -52,7 +52,7 @@ function timestr($timestamp) {
 
 function timestr_short($timestamp){
     global $t;
-    $time = strftime("%e. %b %H:%M", $timestamp);
+    $time = strftime("%a, %e. %b, %H:%M", $timestamp);
     return $time;
 }
 
@@ -95,7 +95,7 @@ function solshow($db) {
 	/*----------------------------------------------------------- User */
 	$timestamp = mktimestamp($solu_modify_date);
 	$datetime = timestr($timestamp);
-	echo "<b>".$t->translate("by")." <a href=\"mailto:$email_usr\">$username</a> - ".$datetime."</b>\n";
+	echo "<span class=\"small\"><b>".$t->translate("by")." <a href=\"mailto:$email_usr\">$username</a> - ".$datetime."</b></small>\n";
 
 	/*----------------------------------------------------------- Logo */
 	if (!empty($solu_logo)) {
@@ -250,9 +250,9 @@ function solshow($db) {
 	$bx->box_title_begin();
 	if (isset($auth) && !empty($auth->auth["perm"]) && !($logout)) {
 		if (($perm->have_perm("user") && $auth->auth["uname"] == $username) || $perm->have_perm("admin"))
-    			echo "<b><a href=\"".$sess->url("newsolutions.php").$sess->add_query(array("solu_id" => $solu_id))."\"><img src=\"images/recycled.png\" border=0 alt=\"".$t->translate("Update Solution")."\">&nbsp;".$t->translate("Update Solution")."</a></b>&nbsp;&nbsp;";
+    			echo "<span class=\"small\"><b><a href=\"".$sess->url("newsolutions.php").$sess->add_query(array("solu_id" => $solu_id))."\"><img src=\"images/recycled.png\" border=0 alt=\"".$t->translate("Update Solution")."\">&nbsp;".$t->translate("Update Solution")."</a></b>&nbsp;&nbsp;</small>";
 	}
-	echo "<b><a href=\"".$sess->url("comment.php").$sess->add_query(array("id" => $solu_id))."\"><img src=\"images/txt.png\" border=0 alt=\"".$t->translate("Add Comment")."\">&nbsp;".$t->translate("Add Comment")."</a></b>";
+	echo "<span class=\"small\"><b><a href=\"".$sess->url("comment.php").$sess->add_query(array("id" => $solu_id))."\"><img src=\"images/txt.png\" border=0 alt=\"".$t->translate("Add Comment")."\">&nbsp;".$t->translate("Add Comment")."</a></b></span>";
 
 	$db_cmt = new DB_SourceLines;
 	$query = "SELECT COUNT(*) FROM tblcomment WHERE solutions_id = '$solu_id'";
@@ -260,7 +260,7 @@ function solshow($db) {
 	if ($db_cmt->next_record()) {
 		$count = $db_cmt->f("COUNT(*)");
 		if ($count > 0) {
-			echo "<b>&nbsp;|&nbsp;<a href=\"".$sess->url("solutions.php").$sess->add_query(array("solu_id" => $solu_id, "action" => "cmt"))."\">".$t->translate("Read Comment")."&nbsp;[$count]</a></b>\n";
+			echo "<span class=\"small\"><b>&nbsp;|&nbsp;<a href=\"".$sess->url("solutions.php").$sess->add_query(array("solu_id" => $solu_id, "action" => "cmt"))."\">".$t->translate("Read Comment")."&nbsp;[$count]</a></b></span>\n";
 		}
 	}
 
@@ -500,6 +500,12 @@ function solupd($db) {
 	$tbw->table_body_column_begin(2);
 	echo "<input type=\"hidden\" name=\"MAX_FILE_SIZE\" value=\"$config_maxlogosize\">\n";
 	echo "<input name=\"solusupplogo\" type=\"file\">\n";
+	$tbw->table_body_column_end();
+
+	    /*--------------------------------------------- Separation */
+ 	$tbw->table_row_begin();
+	$tbw->table_body_column_begin(3);
+	echo "<hr>\n";
 	$tbw->table_body_column_end();
 
         /*------------------------------------ Buttons: OK and Delete */
@@ -1016,7 +1022,7 @@ function solfull($db) {
 
 	/*--------------------------------------------------- Branch */
 	$bx->box_begin();
-	$bx->box_title("<b>".$t->translate("Branch")."</b>");
+	$bx->box_title("<span class=\"small\"><b>".$t->translate("Branch")."</b></small>");
 
 	/*----------*/
 	$bx->box_body_begin();
@@ -1031,7 +1037,7 @@ function solfull($db) {
 	if (strlen($string) <= 0) {
 		$string = $t->translate("no branch selected");
 	}
-	echo "$string\n";
+	echo "<span class=\"small\">$string</span>\n";
 	$bx->box_body_end();
 	$bx->box_end();
 
@@ -1041,7 +1047,7 @@ function solfull($db) {
 	$tbf->table_body_column_begin();
 
 	$bx->box_begin();
-	$bx->box_title("<b>".$t->translate("Category")."</b>");
+	$bx->box_title("<span class=\"small\"><b>".$t->translate("Category")."</b></small>");
 	
 	/*----------*/
 	$bx->box_body_begin();
@@ -1071,7 +1077,7 @@ function solfull($db) {
 	} else {
 		$string = substr($string, 0, $stringlength - 4);
 	}
-	echo "$string";
+	echo "<span class=\"small\">$string</small>";
 	$bx->box_body_end();
 	$bx->box_end();
 
@@ -1081,7 +1087,7 @@ function solfull($db) {
 	$tbf->table_body_column_begin();
 
 	$bx->box_begin();
-	$bx->box_title("<b>".$t->translate("Keywords")."</b>");
+	$bx->box_title("<span class=\"small\"><b>".$t->translate("Keywords")."</b></small>");
 	
 	/*----------*/
 	$bx->box_body_begin();
@@ -1098,7 +1104,7 @@ function solfull($db) {
 	} else {
 		$string = substr($string, 4, $stringlength);
 	}
-	echo "$string";
+	echo "<span class=\"small\">$string</small>";
 	$bx->box_body_end();
 	$bx->box_end();
 
@@ -1108,7 +1114,7 @@ function solfull($db) {
 	$tbf->table_body_column_begin();
 
 	$bx->box_begin();
-	$bx->box_title("<b>".$t->translate("Language")."</b>");
+	$bx->box_title("<span class=\"small\"><b>".$t->translate("Language")."</b></small>");
 	
 	/*----------*/
 	$bx->box_body_begin();
@@ -1128,7 +1134,7 @@ function solfull($db) {
 	} else {
 		$string = substr($string, 4, $stringlength);
 	}
-	echo "$string";
+	echo "<span class=\"small\">$string</small>";
 	$bx->box_body_end();
 	$bx->box_end();
 
@@ -1138,7 +1144,7 @@ function solfull($db) {
 	$tbf->table_body_column_begin();
 
 	$bx->box_begin();
-	$bx->box_title("<b>".$t->translate("Components")."</b>");
+	$bx->box_title("<span class=\"small\"><b>".$t->translate("Components")."</b></small>");
 	
 	/*----------*/
 	$bx->box_body_begin();
@@ -1170,11 +1176,11 @@ function solfull($db) {
 		$stringlength = strlen($string);
 		$string = substr($string, 0, $stringlength - 2);
 		/*-----*/
-		echo "<b>".$t->translate($typename[$x]).":</b><br>";
+		echo "<span class=\"small\"><b>".$t->translate($typename[$x]).":</b><br></small>";
 		if(trim($string)!="")
-			echo $string."<br>";
+			echo "<span class=\"small\">".$string."<br></small>";
 		else
-			echo $t->translate("not applicable")."<br>";
+			echo "<span class=\"small\">".$t->translate("not applicable")."<br></small>";
 	}
 	$bx->box_body_end();
 	$bx->box_end();
@@ -1185,7 +1191,7 @@ function solfull($db) {
 	$tbf->table_body_column_begin();
 
 	$bx->box_begin();
-	$bx->box_title("<b>".$t->translate("Documents")."</b>");
+	$bx->box_title("<span class=\"small\"><b>".$t->translate("Documents")."</b></small>");
 	
 	/*----------*/
 	$bx->box_body_begin();
@@ -1203,7 +1209,7 @@ function solfull($db) {
 	} else {
 		$string = substr($string, 4, $stringlength);
 	}
-	echo "$string";
+	echo "<span class=\"small\">$string</small>";
 	$bx->box_body_end();
 	$bx->box_end();
 
@@ -1221,15 +1227,15 @@ function solfull($db) {
 	$bx->box_title_begin();
 	if (isset($auth) && !empty($auth->auth["perm"]) && !($logout)) {
 		if (($perm->have_perm("user") && $auth->auth["uname"] == $db->f("username")) || $perm->have_perm("admin"))
-			echo "<b><a href=\"".$sess->url("newsolutions.php").$sess->add_query(array("solu_id" => $db->f("solutions_id")))."\"><img src=\"images/recycled.png\" border=0 alt=\"".$t->translate("Update Solution")."\">&nbsp;".$t->translate("Update Solution")."</a></b>&nbsp;&nbsp;";
+			echo "<span class=\"small\"><b><a href=\"".$sess->url("newsolutions.php").$sess->add_query(array("solu_id" => $db->f("solutions_id")))."\"><img src=\"images/recycled.png\" border=0 alt=\"".$t->translate("Update Solution")."\">&nbsp;".$t->translate("Update Solution")."</a></b>&nbsp;&nbsp;</small>";
 	}
-	echo "<b><a href=\"".$sess->url("comment.php").$sess->add_query(array("id" => $db->f("solutions_id")))."\"><img src=\"images/txt.png\" border=0 alt=\"".$t->translate("Add Comment")."\">&nbsp;".$t->translate("Add Comment")."</a></b>";
+	echo "<span class=\"small\"><b><a href=\"".$sess->url("comment.php").$sess->add_query(array("id" => $db->f("solutions_id")))."\"><img src=\"images/txt.png\" border=0 alt=\"".$t->translate("Add Comment")."\">&nbsp;".$t->translate("Add Comment")."</a></b></small>";
 
 	$db_cmt = new DB_SourceLines;
 	$query = "SELECT COUNT(*) FROM tblcomment WHERE solutions_id = '".$db->f("solutions_id")."'";
 	$db_cmt->query($query);
 	if ($db_cmt->next_record()) {
-		echo "<b>&nbsp;|&nbsp;<a href=\"".$sess->url("solutions.php").$sess->add_query(array("solu_id" => $db->f("solutions_id"), "action" => "cmt"))."\">".$t->translate("Read Comment")."&nbsp;[".$db_cmt->f("COUNT(*)")."]</a></b>\n";
+		echo "<span class=\"small\"><b>&nbsp;|&nbsp;<a href=\"".$sess->url("solutions.php").$sess->add_query(array("solu_id" => $db->f("solutions_id"), "action" => "cmt"))."\">".$t->translate("Read Comment")."&nbsp;[".$db_cmt->f("COUNT(*)")."]</a></b></small>\n";
 	}
 
 	$bx->box_title_end();
@@ -1656,7 +1662,7 @@ function solrecent() {
 	global $db, $t, $sess, $bx;
 
 	$bx->box_begin();
-	$bx->box_title($t->translate("Recent Solutions"));
+	$bx->box_title("<span class=\"small\">".$t->translate("Recent Solutions")."</span>");
 	$bx->box_body_begin();
 	$query = "SELECT * FROM tblsolutions WHERE tblsolutions.solutions_name != 'no_name' ORDER BY solutions_modify_date DESC, solutions_id DESC";
 	$db->query($query);
@@ -1664,7 +1670,7 @@ function solrecent() {
 	while ($db->next_record() && $i <= 20) {
 		$timestamp = mktimestamp($db->f("solutions_modify_date"));
 		$datetime = timestr_short($timestamp);
-		echo "<li><a href=\"".$sess->url("solutions.php").$sess->add_query(array("solu_id" => $db->f("solutions_id")))."\">".$db->f("solutions_name")."</a> (".$datetime.")\n";
+		echo "<span class=\"small\"><li><a href=\"".$sess->url("solutions.php").$sess->add_query(array("solu_id" => $db->f("solutions_id")))."\">".$db->f("solutions_name")."</a> [".$datetime."]</span>\n";
 		$i++;
 	}
 	$bx->box_body_end();
