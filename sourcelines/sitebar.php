@@ -19,12 +19,6 @@
 ###################################################################### 
 
 page_open(array("sess" => "SourceLines_Session"));
-if (isset($auth) && !empty($auth->auth["perm"])) {
-  page_close();
-  page_open(array("sess" => "SourceLines_Session",
-                  "auth" => "SourceLines_Auth",
-                  "perm" => "SourceLines_Perm"));
-}
 // Disabling cache
 header("Last-Modified: ".gmdate("D, d M Y H:i:s")." GMT");
 header("Expires: ".gmdate("D, d M Y H:i:s")." GMT");
@@ -57,11 +51,11 @@ $bx = new box("95%",$th_box_frame_color,0,$th_box_title_bgcolor,$th_box_title_fo
 <p>&nbsp;
 <?php
 $bx->box_begin();
-$bx->box_title($t->translate("Recent Solutions"));
-$db->query("SELECT * FROM tblsolutions ORDER BY solutions_modify_date DESC limit 20");
+$bx->box_title("<font size=\"1\">".$t->translate("Recent Solutions")."</font>");
+$db->query("SELECT * FROM tblsolutions WHERE tblsolutions.solutions_name != 'no_name' ORDER BY solutions_modify_date DESC limit 20");
 $bx->box_body_begin();
 while($db->next_record()) {
-  echo "<li><a href=\"".$sys_url."solutions.php?solu_id=".$db->f("solutions_id")."\" target=\"_content\">".$db->f("solutions_name")."</a> ".$db->f("solutions_version")."</li>\n";
+  echo "<li><font size=\"1\"><a href=\"".$sys_url."solutions.php?solu_id=".$db->f("solutions_id")."\" target=\"_content\">".$db->f("solutions_name")."</a></font></li>\n";
 }
 $bx->box_body_end();
 $bx->box_end();

@@ -46,7 +46,7 @@ else $next_cnt = 0;
 
 $tables = "tblsolutions,auth_user,tblkeyword";
 $columns = "*";
-$where = "tblsolutions.username = auth_user.username AND tblsolutions.solutions_id = tblkeyword.solutions_id AND tblkeyword.keyword_text = '$keyword'";
+$where = "tblsolutions.username = auth_user.username AND tblsolutions.solutions_id = tblkeyword.solutions_id AND tblkeyword.keyword_text = '$keyword' AND tblsolutions.solutions_name != 'no_name'";
 
 switch ($by) {      
 	case "Date":

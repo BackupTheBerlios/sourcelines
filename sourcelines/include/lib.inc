@@ -116,19 +116,11 @@ function solshow($db) {
 
 	/*-------------------------------------------------------- Summary */
 	if (strlen($solu_summary) > 200) {
-		$solu_summary = substr($solu_summary, 0, 200)."...<br><b><a href=\"".$sess->url("solutions.php").$sess->add_query(array("solu_id" => $solu_id))."\">".$t->translate("more")."...</a></b>";
+		$solu_summary = substr($solu_summary, 0, 200)."...<br><b><a href=\"".$sess->url("solutions.php").$sess->add_query(array("solu_id" => $solu_id))."\">".$t->translate("more")."...</a></b><br>&nbsp;";
 	}
 	echo "<p>$solu_summary\n";
 
 	$tbw->table_begin();
-	/*-------------------------------------------------------- Version */
-	if ($solu_version != "") {
-		$tbw->table_row_begin();
-		$tbw->table_body_column("<b>".$t->translate("Version").":</b>");
-		$tbw->table_body_column($solu_version);
-		$tbw->table_row_end();
-	}
-
 	/*------------------------------------------------------------ Url */
 	if ($solu_url != "http://" && $solu_url != "") {
 		$tbw->table_row_begin();
@@ -234,6 +226,14 @@ function solshow($db) {
 		$email = str_replace("@", " at ", $solu_supplier_email);
 		$email = str_replace(".", " dot ", $email);
 		echo " &lt;<a href=\"mailto:$solu_supplier_email\">$email</a>&gt;";
+		$tbw->table_row_end();
+	}
+
+	/*-------------------------------------------------------- Version */
+	if ($solu_version != "") {
+		$tbw->table_row_begin();
+		$tbw->table_body_column("<b>".$t->translate("Version").":</b>");
+		$tbw->table_body_column($solu_version);
 		$tbw->table_row_end();
 	}
 
@@ -843,31 +843,8 @@ function solfull($db) {
  		$tbw->table_row_end();
 	}
 
-	/*----------------------------------------------------- User */
- 	$tbw->table_row_begin();
-	$tbw->table_body_column("<b>".$t->translate("User").":</b>");
-	$tbw->table_body_column_begin();
-	echo "<a href=\"mailto:$email_usr\">$username</a>";
-	$tbw->table_body_column_end();
-
-	/*------------------------------------------------------- Id */
- 	$tbw->table_row_next();
-	$tbw->table_body_column("<b>".$t->translate("Id").":</b>");
-	$tbw->table_body_column_begin();
-	echo "<a href=\"".$sess->url("solutions.php").$sess->add_query(array("solu_id" => $solu_id))."\">$solu_id</a>";
-	$tbw->table_body_column_end();
-
-	/*-------------------------------------------------- Version */
-	If (!empty($solu_version)) {
-		$tbw->table_row_next();
-		$tbw->table_body_column("<b>".$t->translate("Version").":</b>");
-		$tbw->table_body_column_begin();
-		echo "$solu_version";
-		$tbw->table_body_column_end();
-	}
-
 	/*-------------------------------------------------- Summary */
-	$tbw->table_row_next();
+	$tbw->table_row_begin();
 	$tbw->table_body_column("<b>".$t->translate("Summary").":</b>");
 	$tbw->table_body_column_begin();
 	echo "$solu_summary";
@@ -898,6 +875,29 @@ function solfull($db) {
 	$timestamp = mktimestamp($solu_modify_date);
 	$datetime = timestr($timestamp);
 	echo "$datetime";
+	$tbw->table_body_column_end();
+
+	/*-------------------------------------------------- Version */
+	If (!empty($solu_version)) {
+		$tbw->table_row_next();
+		$tbw->table_body_column("<b>".$t->translate("Version").":</b>");
+		$tbw->table_body_column_begin();
+		echo "$solu_version";
+		$tbw->table_body_column_end();
+	}
+
+	/*----------------------------------------------------- User */
+ 	$tbw->table_row_next();
+	$tbw->table_body_column("<b>".$t->translate("User").":</b>");
+	$tbw->table_body_column_begin();
+	echo "<a href=\"mailto:$email_usr\">$username</a>";
+	$tbw->table_body_column_end();
+
+	/*------------------------------------------------------- Id */
+ 	$tbw->table_row_next();
+	$tbw->table_body_column("<b>".$t->translate("Id").":</b>");
+	$tbw->table_body_column_begin();
+	echo "<a href=\"".$sess->url("solutions.php").$sess->add_query(array("solu_id" => $solu_id))."\">$solu_id</a>";
 	$tbw->table_body_column_end();
 
 	/*--------------------------------------------- Separation */
@@ -1279,7 +1279,7 @@ function select_branch($parent,$depth) {
 		if (ereg("^[0-9]",$db->f("branch_name"))) {
 			$issol = 1;
 			$db_sol = new DB_SourceLines;
-			$db_sol->query("SELECT COUNT(*) FROM tblsolutions WHERE branch_id='".$db->f("branch_id")."'");
+			$db_sol->query("SELECT COUNT(*) FROM tblsolutions WHERE branch_id='".$db->f("branch_id")."' AND solutions_name != 'no_name'");
 			$db_sol->next_record();
 			$sol_cnt = $db_sol->f("COUNT(*)");
 		}
@@ -1476,7 +1476,7 @@ function select_category($parent,$depth) {
 		if ($db_leave->num_rows() <= 0) {
 			$isleave = 1;
 			$db_sol = new DB_SourceLines;
-			$db_sol->query("SELECT COUNT(*) FROM tblsolutions WHERE category_id='".$db->f("category_id")."'");
+			$db_sol->query("SELECT COUNT(*) FROM tblsolutions WHERE category_id='".$db->f("category_id")."' AND solutions_name != 'no_name'");
 			$db_sol->next_record();
 			$sol_cnt = $db_sol->f("COUNT(*)");
 		}
@@ -1658,7 +1658,7 @@ function solrecent() {
 	$bx->box_begin();
 	$bx->box_title($t->translate("Recent Solutions"));
 	$bx->box_body_begin();
-	$query = "SELECT * FROM tblsolutions ORDER BY solutions_modify_date DESC, solutions_id DESC";
+	$query = "SELECT * FROM tblsolutions WHERE tblsolutions.solutions_name != 'no_name' ORDER BY solutions_modify_date DESC, solutions_id DESC";
 	$db->query($query);
 	$i = 1;
 	while ($db->next_record() && $i <= 20) {
@@ -1755,7 +1755,7 @@ function nlmsg($period) {
       break;
   }
 
-  $db->query("SELECT * FROM tblsolutions WHERE $where ORDER BY tblsolutions.solutions_modify_date DESC");
+  $db->query("SELECT * FROM tblsolutions WHERE solutions_name != 'no_name' AND $where ORDER BY tblsolutions.solutions_modify_date DESC");
 
 #echo "SELECT * FROM tblsolutions WHERE $where ORDER BY tblsolutions.solutions_modify_date DESC\n";
 
@@ -1789,17 +1789,14 @@ function nlmsg($period) {
     $msg .= "Last modified     : ".date("l, dS of F Y, H:i:s T", $timestamp)."\n";
     $msg .= "Version           : ".$db->f("solutions_version")."\n";
     if ($period == "daily") {
-      $msg .= "Logo              : ".$db->f("solutions_logo")."\n";
-      $msg .= "Summary           : ".$db->f("solutions_summary")."\n";
+      $msg .= "Summary           : ".substr($db->f("solutions_summary"), 0, 200)."...\n";
       $msg .= "Homepage          : ".$db->f("solutions_url")."\n";
       $msg .= "Contact name      : ".$db->f("solutions_contact_name")."\n";
       $msg .= "Contact email     : ".$db->f("solutions_contact_email")."\n";
       $msg .= "Contact Homepage  : ".$db->f("solutions_contact_url")."\n";
-      $msg .= "Contact Logo      : ".$db->f("solutions_contact_logo")."\n";
       $msg .= "Supplier name     : ".$db->f("solutions_supplier_name")."\n";
       $msg .= "Supplier email    : ".$db->f("solutions_supplier_email")."\n";
       $msg .= "Supplier Homepage : ".$db->f("solutions_supplier_url")."\n";
-      $msg .= "Supplier Logo     : ".$db->f("solutions_supplier_logo")."\n";
       $msg .= "\n";
     }
     $msg .= $GLOBALS["sys_name"]."       : ".$GLOBALS["sys_url"]."solutions.php?solu_id=".$db->f("solutions_id")."\n";

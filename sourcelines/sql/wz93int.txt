@@ -1735,7 +1735,7 @@ LA Öffentliche Verwaltung, Verteidigung, Sozialversicherung
 75.1 Öffentliche Verwaltung 
 75.11 Allgemeine öffentliche Verwaltung
 75.11.0 Allgemeine öffentliche Verwaltung 
-75.12 öffentliche Verwaltung auf den Gebieten des Gesundheitswesens, derBildung, der Kultur und des Sozialwesens 
+75.12 öffentliche Verwaltung auf den Gebieten des Gesundheitswesens, der Bildung, der Kultur und des Sozialwesens 
 75.12.1 öffentliche Verwaltung auf dem Gebiet des Gesundheitswesens und Sports
 75.12.2 öffentliche Verwaltung auf dem Gebiet der Bildung und Kultur 
 75.12.3 öffentliche Verwaltung auf dem Gebiet des Sozialwesens
@@ -1760,7 +1760,7 @@ LA Öffentliche Verwaltung, Verteidigung, Sozialversicherung
 75.30.2 Knappschaftliche Rentenversicherung 
 75.30.3 Altershilfe für Landwirte
 75.30.4 Zusatzversorgung für Angehörige des öffentlichen Dienstes 
-75.30.5 Gesetzliche Krankenversicherung (ohne knappschaftlicheKrankenversicherung) 
+75.30.5 Gesetzliche Krankenversicherung (ohne knappschaftliche Krankenversicherung) 
 75.30.6 Knappschaftliche Krankenversicherung
 75.30.7 Gesetzliche Unfallversicherung 
 75.30.8 Arbeitsförderung
@@ -1815,7 +1815,7 @@ NA Gesundheits-, Veterinär- und Sozialwesen
 85.13.0 Zahnarztpraxen 
 85.14 Gesundheitswesen a.n.g.
 85.14.1 Praxen von psychologischen Psychotherapeuten 
-85.14.2 Praxen von Masseuren, medizinischen Bademeistern, Krankengymnasten,Hebammen und verwandten Berufen 
+85.14.2 Praxen von Masseuren, medizinischen Bademeistern, Krankengymnasten, Hebammen und verwandten Berufen 
 85.14.3 Praxen von Heilpraktikern
 85.14.4 Sonstige selbständige Tätigkeiten im Gesundheitswesen 
 85.14.5 Krankentransport- und Rettungsdienste
@@ -1905,8 +1905,8 @@ OA Erbringung von sonstigen öffentlichen und persönlichen Dienstleistungen
 92.12.3 Filmvertrieb 
 92.13 Filmtheater
 92.13.0 Filmtheater 
-92.2 Hörfunk- und Fernsehanstalten, Herstellung von Hörfunk- undFernsehprogrammen
-92.20 Hörfunk- und Fernsehanstalten, Herstellung von Hörfunk- undFernsehprogrammen 
+92.2 Hörfunk- und Fernsehanstalten, Herstellung von Hörfunk- und Fernsehprogrammen
+92.20 Hörfunk- und Fernsehanstalten, Herstellung von Hörfunk- und Fernsehprogrammen 
 92.20.1 Hörfunk- und Fernsehanstalten
 92.20.2 Herstellung von Hörfunk- und Fernsehprogrammen 
 92.3 Erbringung von sonstigen kulturellen und unterhaltenden Leistungen
@@ -1919,7 +1919,7 @@ OA Erbringung von sonstigen öffentlichen und persönlichen Dienstleistungen
 92.31.6 Selbständige Schriftsteller 
 92.31.7 Selbständige Bühnen-, Film-, Hörfunk- und Fernsehkünstler
 92.31.8 Selbständige Artisten 
-92.32 Betrieb und technische Hilfsdienste für kulturelle und unterhaltendeLeistungen 
+92.32 Betrieb und technische Hilfsdienste für kulturelle und unterhaltende Leistungen 
 92.32.1 Theater- und Konzertveranstalter
 92.32.2 Opern- und Schauspielhäuser, Konzerthallen und ähnliche Einrichtungen 
 92.32.3 Variete's und Kleinkunstbühnen

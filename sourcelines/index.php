@@ -50,7 +50,7 @@ $tbf = new table("100%","0","1","4",$th_box_title_bgcolor,$th_box_title_font_col
   else $next_cnt = 0;
  
   $columns = "*";
-  $where = "tblsolutions.username = auth_user.username";
+  $where = "tblsolutions.username = auth_user.username AND tblsolutions.solutions_name != 'no_name'";
   $tables = "tblsolutions,auth_user";
 
   switch ($by) {      

@@ -55,7 +55,7 @@ if (($config_perm_developer != "all") && (!isset($perm) || !$perm->have_perm($co
   $msg .= "<a href=\"".$sess->url(basename($PHP_SELF)).$sess->add_query(array("by" => ""))."\">".$t->translate("Unknown")."</a>&nbsp;]";
 
   $bs->box_strip($msg);
-  $db->query("SELECT DISTINCT solutions_contact_name,solutions_contact_email,solutions_contact_url FROM tblsolutions WHERE solutions_contact_name LIKE '$by' ORDER BY solutions_contact_name ASC");
+  $db->query("SELECT DISTINCT solutions_contact_name,solutions_contact_email,solutions_contact_url FROM tblsolutions WHERE solutions_contact_name LIKE '$by' AND tblsolutions.solutions_name != 'no_name' ORDER BY solutions_contact_name ASC");
   $bx->box_begin();
   $bx->box_title($t->translate("Contact"));
   $bx->box_body_begin();		

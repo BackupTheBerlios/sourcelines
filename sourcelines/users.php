@@ -66,7 +66,7 @@ if (($config_perm_users != "all") && (!isset($perm) || !$perm->have_perm($config
     $user_id = $db->f("user_id");
     $username = $db->f("username");
     $db2 = new DB_SourceLines;
-    $db2->query("SELECT COUNT(*) FROM tblsolutions WHERE username='$username'");
+    $db2->query("SELECT COUNT(*) FROM tblsolutions WHERE username='$username' AND solutions_name != 'no_name'");
     $db2->next_record();
     $num = "[".sprintf("%03d",$db2->f("COUNT(*)"))."]";
     echo "<tr><td>".sprintf("%d",$i)."</td>\n";
