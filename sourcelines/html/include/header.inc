@@ -20,14 +20,13 @@
 
 require("config.inc");
 ?>
-
 <!doctype html public "-//w3c//dtd html 4.0 transitional//en">
 <html>
 <head>
    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
    <meta http-equiv="expires" content="0">
    <title><?php echo $sys_name;?> - <?php echo $sys_title;?></title>
-<link rel="stylesheet" type="text/css" href="berlios.css">
+<link rel="stylesheet" type="text/css" href="style.php">
 </head>
 <body bgcolor="<?php echo $th_body_bgcolor;?>" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0" marginheight="0" marginwidth="0">
 
