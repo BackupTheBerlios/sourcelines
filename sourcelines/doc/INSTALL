@@ -57,7 +57,7 @@ sourcelines.sql file:
     (enter sourcelines_password)
     mysql sourcelines < sourcelines.sql
     
-3) That's it!... now you need to edit the file "config.php" to set up the
+3) That's it!... now you need to edit the file "include/config.inc" to set up the
 options. Please read carefully the instructions in that file!
 After that, point your browser to:
 
@@ -91,7 +91,7 @@ good practice!
 Final Notes
 -----------
 
-    To change your site's logo, edit the config.php file.
+    To change your site's logo, edit the include/config.inc file.
 
     A note for the SourceLines site's administrators: Only admins are allowed
 to execute following functions:
