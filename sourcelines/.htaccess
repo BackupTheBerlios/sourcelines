@@ -1,0 +1,6 @@
+<Files berlios.css>
+ForceType application/x-httpd-php
+</Files>
+<Files *.php>
+ForceType application/x-httpd-php
+</Files>

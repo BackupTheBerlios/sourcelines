@@ -1,0 +1,118 @@
+SourceLines: Open Source Software Announcement and Retrieval System
+==================================================================
+
+Base Requirements
+-----------------
+
+In order to setup SourceLines the following prerequisits are necessary:
+
+- a Unix Box installed and connected to the Internet
+- an Apache Web Server (http://www.apache.org)
+- PHP (mod_php) Apache Module (http://www.php.net)
+- MySQL Database Server (http://www.mysql.com)
+- an email system
+- a Mailing List System, e.g. Mailman (http://www.gnu.org/software/mailman/mailman.html)
+
+The above doesn't mean that it wouldn't work with other configurations,
+OS's, DB's etc, but we only provide INSTALL instructions for the above
+configuration.
+ 
+Set-up of the required packages is beyond the scope of this document
+and if you are not sure how to install you should check each of
+the appropriate web sites for further details.
+
+Installing the Package
+----------------------
+
+Unzip and Untar the package into the directory you want to use on you web
+server, if you are not sure where it is, ask you system administrator.
+
+    tar -zxvf sourelines-x.x.x.tar.gz
+
+Change to the sql/ directory. There exist a file called "sourcelines.sql"
+which contains the commands to build the database structure, 
+tables and default data.
+
+1) Create a database called, for example, sourcelines:
+
+    mysql -h host -u database_superuser -p
+    (enter superuser_password)
+    mysql> USE mysql;
+    mysql> INSERT INTO user VALUES ( 'host', 'sourcelines', PASSWORD('sourcelines_password'), 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'N', 'N', 'N', 'N', 'N', 'N', 'N');
+    mysql> quit  
+    mysqladmin create sourcelines
+
+2) Now create the tables of the sourcelines database using commands in
+sourcelines.sql file:
+
+    mysql -h host -u sourcelines -p
+    (enter sourcelines_password)
+    mysql sourcelines < sourcelines.sql
+    
+3) That's it!... now you need to edit the file "config.php3" to set up the
+options. Please read carefully the instructions in that file!
+After that, point your browser to:
+
+    http://yourdomain.com/admuser.php3
+
+Login with the following data at the prompt:
+
+    Username: admin
+    Password: admin
+
+For security reasons please change the admin password and username 
+"immediately". You can do this by clicking on the "Change" button.
+
+
+Testing the Installation
+------------------------
+
+Go to your homepage, for example:
+
+    http://yourdomain.com/
+    
+    We recommend the use of phpMyAdmin. It's a good administration system for
+MySQL databases. To download it just go to http://phpwizard.net/phpMyAdmin
+
+    We also recommend to set a password for your MySQL access.
+This is important as some data in the nuke database is not encrypted,
+so for security reasons you need to set a password, not only that, it's
+good practice!
+
+
+Final Notes
+-----------
+
+    That's it! You're done with SourceLines.
+
+    To change your site's logo, edit the config.php3 file.
+
+    A note for the SourceLines site's administrators: Only admins are allowed
+to execute following functions:
+
+    - User Administration
+    - Daily Newsletter Administration
+    - Weekly Newsletter Administration
+    - Insert, Rename and Delete Branches
+    - Insert, Rename and Delete Catagories
+    - Insert, Rename and Delete Types of Components
+	- Insert, Rename, Change URL and Delete Licenses
+    - Insert, Rename and Delete Languages
+    - Insert, Rename and Delete Q&A
+	- Change and Delete Comments
+
+
+	Lutz Henckel
+	BerliOS
+	FOKUS
+	Kaiserin-Augusta-Allee 31
+	D-10589 Berlin
+	Germany
+
+************************************************
+* SourceLines URL: http://sourcelines.berlios.de *
+************************************************
+
+Enjoy!
+
+-- Lutz Henckel & Norbert Geiges

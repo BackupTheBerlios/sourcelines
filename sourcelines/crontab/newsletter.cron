@@ -1,0 +1,2 @@
+59 23  *  *  * /usr/bin/wget http://sourcelines.berlios.de/nlsend.php?period=daily -a /home/groups/sourcelines/htdocs/crontab/nldaily.log -O /home/groups/sourcelines/htdocs/crontab/nldaily.output
+59 23  *  *  5 /usr/bin/wget http://sourcelines.berlios.de/nlsend.php?period=weekly -a /home/groups/sourcelines/htdocs/crontab/nlweekly.log -O /home/groups/sourcelines/htdocs/crontab/nlweekly.output
