@@ -1851,7 +1851,7 @@ function nlmsg($period) {
       $msg .= "Supplier Homepage : ".$db->f("solutions_supplier_url")."\n";
       $msg .= "\n";
     }
-    $msg .= $GLOBALS["sys_name"]."       : ".$GLOBALS["sys_url"]."solutions.php?solu_id=".$db->f("solutions_id")."\n";
+    $msg .= $GLOBALS["sys_name"]."       : http:".$GLOBALS["sys_url"]."solutions.php?solu_id=".$db->f("solutions_id")."\n";
     $msg .= "\n                   -----------------------------\n";
     $i++;
   }
