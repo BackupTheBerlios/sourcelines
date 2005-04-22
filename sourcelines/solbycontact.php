@@ -4,8 +4,8 @@
 # SourceLines: Open Source Solutions
 # ===================================================================
 #
-# Copyright (c) 2001 by
-#                Lutz Henckel (lutz.henckel@fokus.gmd.de) and
+# Copyright (c) 2001-2005 by
+#                Lutz Henckel (lutz.henckel@fokus.fraunhofer.de) and
 #                Norbert Geiges
 #
 # BerliOS SourceLines: http://sourcelines.berlios.de
@@ -92,7 +92,7 @@ if (($config_perm_developer != "all") && (!isset($perm) || !$perm->have_perm($co
         echo "<td>".$db->f("solutions_contact_name")."</td>\n";
       }
       if (!empty($solutions_contact_email)) {
-        echo "<td>&lt;<a href=\"mailto:".$solutions_contact_email."\">".ereg_replace("@"," at ",htmlentities($solutions_contact_email))."</a>&gt;</td>\n";
+        echo "<td>&lt;<a href=\"mailto:".mailtoencode($solutions_contact_email)."\">".ereg_replace("@"," at ",htmlentities($solutions_contact_email))."</a>&gt;</td>\n";
       } else {
         echo "<td>&nbsp;</td>\n";
       }

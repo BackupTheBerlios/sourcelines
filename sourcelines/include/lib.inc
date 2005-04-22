@@ -4,8 +4,8 @@
 # SourceLines: Open Source Solutions
 # ===================================================================
 #
-# Copyright (c) 2001 by
-#                Lutz Henckel (lutz.henckel@fokus.gmd.de) and
+# Copyright (c) 2001-2005 by
+#                Lutz Henckel (lutz.henckel@fokus.fraunhofer.de) and
 #                Norbert Geiges
 #
 # BerliOS SourceLines: http://sourcelines.berlios.de
@@ -95,7 +95,7 @@ function solshow($db) {
 	/*----------------------------------------------------------- User */
 	$timestamp = mktimestamp($solu_modify_date);
 	$datetime = timestr($timestamp);
-	echo "<span class=\"small\"><b>".$t->translate("by")." <a href=\"mailto:$email_usr\">$username</a> - ".$datetime."</b></small>\n";
+	echo "<span class=\"small\"><b>".$t->translate("by")." <a href=\"mailto:".mailtoencode($email_usr)."\">$username</a> - ".$datetime."</b></small>\n";
 
 	/*----------------------------------------------------------- Logo */
 	if (!empty($solu_logo)) {
@@ -144,7 +144,7 @@ function solshow($db) {
 	if ($solu_contact_email != "") {
 		$email = str_replace("@", " at ", $solu_contact_email);
 		$email = str_replace(".", " dot ", $email);
-		echo " &lt;<a href=\"mailto:$solu_contact_email\">$email</a>&gt;";
+		echo " &lt;<a href=\"mailto:".mailtoencode($solu_contact_email)."\">$email</a>&gt;";
 		$tbw->table_row_end();
 	}
 
@@ -225,7 +225,7 @@ function solshow($db) {
 	if ($solu_supplier_email != "") {
 		$email = str_replace("@", " at ", $solu_supplier_email);
 		$email = str_replace(".", " dot ", $email);
-		echo " &lt;<a href=\"mailto:$solu_supplier_email\">$email</a>&gt;";
+		echo " &lt;<a href=\"mailto:".mailtoencode($solu_supplier_email)."\">$email</a>&gt;";
 		$tbw->table_row_end();
 	}
 
@@ -317,7 +317,7 @@ function solupd($db) {
  	$tbw->table_row_begin();
 	$tbw->table_body_column("<b>".$t->translate("User").":</b>");
 	$tbw->table_body_column_begin(2);
-	echo "<a href=\"mailto:$email_usr\">$username</a>";
+	echo "<a href=\"mailto:".mailtoencode($email_usr)."\">$username</a>";
 	$tbw->table_body_column_end();
 
 	/*------------------------------------------------------- Id */
@@ -935,7 +935,7 @@ function solfull($db) {
  	$tbw->table_row_next();
 	$tbw->table_body_column("<b>".$t->translate("User").":</b>");
 	$tbw->table_body_column_begin();
-	echo "<a href=\"mailto:$email_usr\">$username</a>";
+	echo "<a href=\"mailto:".mailtoencode($email_usr)."\">$username</a>";
 	$tbw->table_body_column_end();
 
 	/*------------------------------------------------------- Id */
@@ -993,7 +993,7 @@ function solfull($db) {
 		$tbw->table_body_column_begin();
 		$email = str_replace("@", " at ",$solu_contact_email);
 		$email = str_replace(".", " dot ",$email);
-		echo "&lt;<a href=\"mailto:$solu_contact_email\">$email</a>&gt;";
+		echo "&lt;<a href=\"mailto:".mailtoencode($solu_contact_email)."\">$email</a>&gt;";
 		$tbw->table_body_column_end();
 	}
 
@@ -1045,7 +1045,7 @@ function solfull($db) {
 		$tbw->table_body_column_begin();
 		$email = str_replace("@", " at ",$solu_supplier_email);
 		$email = str_replace(".", " dot ",$email);
-		echo "&lt;<a href=\"mailto:$solu_supplier_email\">$email</a>&gt;";
+		echo "&lt;<a href=\"mailto:".mailtoencode($solu_supplier_email)."\">$email</a>&gt;";
 		$tbw->table_body_column_end();
 	}
 
@@ -1295,7 +1295,7 @@ function solfull($db) {
 			$bx->box_begin();
 			$bx->box_title($t->translate("Comment").": ".$db_cmt->f("comment_subject"));
 			$bx->box_body_begin();
-			echo "<b>by <a href=\"mailto:".$db_cmt->f("email_usr")."\">".$db_cmt->f("comment_username")."</a> - ".$datetime."</b>\n";
+			echo "<b>by <a href=\"mailto:".mailtoencode($db_cmt->f("email_usr"))."\">".$db_cmt->f("comment_username")."</a> - ".$datetime."</b>\n";
 			echo "<br><br>".$db_cmt->f("comment_text")."\n";
 			$bx->box_body_end();
 			$bx->box_end();
@@ -1889,6 +1889,14 @@ function mailuser($perms, $subj, $message) {
   while($db->next_record()) {
     mail($db->f("email_usr"),"[".$GLOBALS["sys_name"]."] ".$subj,$message,"From: ".$GLOBALS["ml_fromaddr"]."\nReply-To: ".$GLOBALS["ml_replyaddr"]."\nX-Mailer: PHP");
   }
+}
+
+function mailtoencode($str) {
+  $ret = "";
+  $arr = unpack("C*", $str);
+  foreach ($arr as $char)
+    $ret .= sprintf("%%%X", $char);
+  return $ret;
 }
 
 function debug($string) {
