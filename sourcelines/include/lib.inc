@@ -1893,6 +1893,8 @@ function mailuser($perms, $subj, $message) {
 
 function mailtoencode($str) {
   $ret = "";
+  $str = ereg_replace("@"," at ",$str);
+  $str = ereg_replace("\."," dot ",$str);
   $arr = unpack("C*", $str);
   foreach ($arr as $char)
     $ret .= sprintf("%%%X", $char);
