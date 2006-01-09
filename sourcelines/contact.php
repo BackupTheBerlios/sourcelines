@@ -84,7 +84,7 @@ if (($config_perm_developer != "all") && (!isset($perm) || !$perm->have_perm($co
         echo "<td>".$db->f("solutions_contact_name")."</td>\n";
       }
       if (!empty($solutions_contact_email)) {
-        echo "<td>&lt;<a href=\"mailto:".mailtoencode($solutions_contact_email)."\">".ereg_replace("@"," at ",htmlentities($solutions_contact_email))."</a>&gt;</td>\n";
+        echo "<td>&lt;<a href=\"mailto:".mailtoencode($solutions_contact_email)."\">".ereg_replace("\."," dot ",ereg_replace("@"," at ",htmlentities($solutions_contact_email)))."</a>&gt;</td>\n";
       } else {
         echo "<td>&nbsp;</td>\n";
       }
