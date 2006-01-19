@@ -84,7 +84,7 @@ while (is_array($HTTP_POST_VARS)
         // send mail
         $message = $t->translate("Thank you for registering on the $sys_name Site. In order")."\n"
                   .$t->translate("to complete your registration, visit the following URL").": \n\n"
-                  .$sys_url."verify.php?confirm_hash=$u_id\n\n"
+                  ."https:".$sys_url."verify.php?confirm_hash=$u_id\n\n"
                   .$t->translate("Enjoy the site").".\n\n"
                   .$t->translate(" -- the $sys_name crew")."\n";
         mail($email_usr,"[$sys_name] ".$t->translate("User Registration"),$message,"From: $ml_newsfromaddr\nReply-To: $ml_newsreplyaddr\nX-Mailer: PHP");
